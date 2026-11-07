@@ -139,14 +139,6 @@ API integrations, data governance at scale
 
 ---
 
-## Explore the Full System
-
-- **[Agent Registry](Agent-Registry.md)** — Sortable table of all 11 agents with metrics, ownership, rollout status
-- **[Results](Results.md)** — Financial breakdown, operational efficiency, Year 1 & Year 2 projections
-- **[Campaign & Commercial Projects](Campaign-Commercial-Projects.md)** — How MOCC fits into the wider business landscape
-
----
-
 ## Let's Connect
 
 This system is live and supporting 5 brands in production. I'm open to discussing:
