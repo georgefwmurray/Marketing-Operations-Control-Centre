@@ -29,7 +29,7 @@ Instead of hiring more people, I built an intelligent control system organized i
 
 ### 🛡️ **Control Layer — Quality Assurance**
 
-[Email QA Agent](agents/email-qa-agent/email-qa-agent.md) + [Website QA Agent](Website-QA-Agent.md) catch errors before go-live. Audit trail for compliance.
+[Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.md) + [Website QA Agent](Website-QA-Agent.md) catch errors before go-live. Audit trail for compliance.
 
 ### 🏗️ **Production Layer — Build & Delivery**
 
