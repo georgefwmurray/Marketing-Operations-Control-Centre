@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="770" viewBox="0 0 592 770" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif">
+<rect width="592" height="770" fill="#ffffff"/>
+<rect width="592" height="74" fill="#ececec"/>
+<text x="36" y="34" font-size="22" font-weight="bold" fill="rgb(125,74,196)">CONTENT AGENT · FLOW</text>
+<text x="36" y="60" font-size="15" fill="rgb(125,74,196)">Production layer · Content Delivery</text>
+<rect x="36.0" y="110" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="141" font-size="19" font-weight="bold" fill="#141414">Brief</text>
+<text x="50.0" y="175" font-size="16" fill="#464646">Semrush AEO recommendation or a human</text>
+<rect x="36.0" y="246" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="277" font-size="19" font-weight="bold" fill="#141414">Content Agent</text>
+<text x="50.0" y="311" font-size="16" fill="#464646">Claude drafts the blog to brand guidelines</text>
+<rect x="36.0" y="382" width="520" height="58" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="413" font-size="19" font-weight="bold" fill="#141414">Human review and sign-off</text>
+<rect x="36.0" y="488" width="520" height="110" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="519" font-size="19" font-weight="bold" fill="#141414">Copilot Studio</text>
+<text x="50.0" y="553" font-size="16" fill="#464646">Converts to HTML with meta title, description and target</text>
+<text x="50.0" y="575" font-size="16" fill="#464646">keyword</text>
+<rect x="36.0" y="646" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="677" font-size="19" font-weight="bold" fill="#141414">Saved to SharePoint</text>
+<text x="50.0" y="711" font-size="16" fill="#464646">Ready for the WordPress Post Creation Agent</text>
+<line x1="296.0" y1="198.0" x2="296.0" y2="236.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,246.0 289.0,234.0 303.0,234.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="334.0" x2="296.0" y2="372.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,382.0 289.0,370.0 303.0,370.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="440.0" x2="296.0" y2="478.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,488.0 289.0,476.0 303.0,476.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="598.0" x2="296.0" y2="636.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,646.0 289.0,634.0 303.0,634.0" fill="rgb(125,74,196)"/>
+</svg>

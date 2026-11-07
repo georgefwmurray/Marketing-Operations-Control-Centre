@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" font-family="Inter, Segoe UI, Arial, sans-serif">
+  <rect width="900" height="420" fill="#FFFFFF"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#7C6FEB"/></marker>
+  </defs>
+  <text x="450" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#1F2430">Agent Governance Journey</text>
+  <text x="450" y="56" text-anchor="middle" font-size="13" fill="#5B6275">From idea to a monitored live agent: Copilot Studio, SharePoint, Teams and Outlook</text>
+
+  <rect x="30" y="90" width="170" height="92" rx="12" fill="#EEF3FD" stroke="#4F86D9" stroke-width="1.5"/>
+  <text x="115" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2430">1. Request</text>
+  <text x="115" y="139" text-anchor="middle" font-size="12" fill="#3A4256">Copilot Studio form in Teams</text>
+  <text x="115" y="157" text-anchor="middle" font-size="12" fill="#3A4256">SharePoint item + overview doc</text>
+
+  <rect x="250" y="90" width="170" height="92" rx="12" fill="#EEF3FD" stroke="#4F86D9" stroke-width="1.5"/>
+  <text x="335" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2430">2. Review</text>
+  <text x="335" y="139" text-anchor="middle" font-size="12" fill="#3A4256">Approve, reject or refine</text>
+  <text x="335" y="157" text-anchor="middle" font-size="12" fill="#3A4256">Rejections stored with reason</text>
+
+  <rect x="470" y="90" width="170" height="92" rx="12" fill="#F3F1FE" stroke="#7C6FEB" stroke-width="1.5"/>
+  <text x="555" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2430">3. Build and pilot</text>
+  <text x="555" y="139" text-anchor="middle" font-size="12" fill="#3A4256">Added to agents registry</text>
+  <text x="555" y="157" text-anchor="middle" font-size="12" fill="#3A4256">Review dates set</text>
+
+  <rect x="690" y="90" width="180" height="92" rx="12" fill="#FDF4E3" stroke="#F0A93B" stroke-width="2"/>
+  <text x="780" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1F2430">4. Agent Health Monitor</text>
+  <text x="780" y="139" text-anchor="middle" font-size="12" fill="#3A4256">Watches every live agent run</text>
+  <text x="780" y="157" text-anchor="middle" font-size="12" fill="#3A4256">once testing and pilot pass</text>
+
+  <line x1="200" y1="136" x2="246" y2="136" stroke="#7C6FEB" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="420" y1="136" x2="466" y2="136" stroke="#7C6FEB" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="640" y1="136" x2="686" y2="136" stroke="#7C6FEB" stroke-width="2" marker-end="url(#a)"/>
+
+  <path d="M780 182 L780 230 M780 230 L150 230 M150 230 L150 262 M780 230 L405 230 M405 230 L405 262 M780 230 L660 230 M660 230 L660 262 M780 230 L855 230 M855 230 L855 262" fill="none" stroke="#F0A93B" stroke-width="1.8"/>
+
+  <rect x="40" y="262" width="220" height="104" rx="12" fill="#FDF4E3" stroke="#F0A93B" stroke-width="1.5"/>
+  <text x="150" y="290" text-anchor="middle" font-size="14" font-weight="700" fill="#1F2430">Failure alerts</text>
+  <text x="150" y="312" text-anchor="middle" font-size="12" fill="#3A4256">Flags failed runs to the</text>
+  <text x="150" y="329" text-anchor="middle" font-size="12" fill="#3A4256">Digital Operations team,</text>
+  <text x="150" y="346" text-anchor="middle" font-size="12" fill="#3A4256">including silent failures</text>
+
+  <rect x="295" y="262" width="220" height="104" rx="12" fill="#FDF4E3" stroke="#F0A93B" stroke-width="1.5"/>
+  <text x="405" y="290" text-anchor="middle" font-size="14" font-weight="700" fill="#1F2430">Daily run report</text>
+  <text x="405" y="312" text-anchor="middle" font-size="12" fill="#3A4256">Outlook email covering</text>
+  <text x="405" y="329" text-anchor="middle" font-size="12" fill="#3A4256">the previous day's runs</text>
+  <text x="405" y="346" text-anchor="middle" font-size="12" fill="#3A4256">for every live agent</text>
+
+  <rect x="550" y="262" width="220" height="104" rx="12" fill="#FDF4E3" stroke="#F0A93B" stroke-width="1.5"/>
+  <text x="660" y="290" text-anchor="middle" font-size="14" font-weight="700" fill="#1F2430">Review reminders</text>
+  <text x="660" y="312" text-anchor="middle" font-size="12" fill="#3A4256">Alerts the team when an</text>
+  <text x="660" y="329" text-anchor="middle" font-size="12" fill="#3A4256">agent is due a review,</text>
+  <text x="660" y="346" text-anchor="middle" font-size="12" fill="#3A4256">to check for drift</text>
+
+  <rect x="800" y="262" width="80" height="104" rx="12" fill="#FDF4E3" stroke="#F0A93B" stroke-width="1.5"/>
+  <text x="840" y="290" text-anchor="middle" font-size="14" font-weight="700" fill="#1F2430">Usage</text>
+  <text x="840" y="312" text-anchor="middle" font-size="11" fill="#3A4256">Tracked across</text>
+  <text x="840" y="329" text-anchor="middle" font-size="11" fill="#3A4256">all agents to</text>
+  <text x="840" y="346" text-anchor="middle" font-size="11" fill="#3A4256">spot upgrades</text>
+
+  <text x="450" y="398" text-anchor="middle" font-size="11" fill="#7A8194">Governance layer · Agent Intake and Approval Agent (steps 1 to 3) · Agent Health Monitor (step 4)</text>
+</svg>

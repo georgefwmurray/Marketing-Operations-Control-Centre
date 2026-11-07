@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="990" viewBox="0 0 592 990" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif">
+<rect width="592" height="990" fill="#ffffff"/>
+<rect width="592" height="74" fill="#ececec"/>
+<text x="36" y="34" font-size="22" font-weight="bold" fill="rgb(125,74,196)">CAMPAIGN BUILD AGENT · FLOW</text>
+<text x="36" y="60" font-size="15" fill="rgb(125,74,196)">Production layer · Campaign Delivery</text>
+<rect x="36.0" y="110" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="141" font-size="19" font-weight="bold" fill="#141414">New onboarding campaign</text>
+<text x="50.0" y="175" font-size="16" fill="#464646">Logos, videos and copy provided</text>
+<rect x="36.0" y="246" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="277" font-size="19" font-weight="bold" fill="#141414">Claude Cowork</text>
+<text x="50.0" y="311" font-size="16" fill="#464646">Claude Skill follows a strict, repeatable process</text>
+<rect x="36.0" y="382" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="413" font-size="19" font-weight="bold" fill="#141414">Claude / HubSpot MCP actions</text>
+<text x="50.0" y="447" font-size="16" fill="#464646">Clone the email, landing page and workflow</text>
+<rect x="36.0" y="518" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="549" font-size="19" font-weight="bold" fill="#141414">Clones updated</text>
+<text x="50.0" y="583" font-size="16" fill="#464646">New assets and copy applied</text>
+<rect x="36.0" y="654" width="520" height="58" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="685" font-size="19" font-weight="bold" fill="#141414">Test email sent</text>
+<rect x="36.0" y="760" width="520" height="88" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="791" font-size="19" font-weight="bold" fill="#141414">Human QA</text>
+<text x="50.0" y="825" font-size="16" fill="#464646">About 20 minutes</text>
+<rect x="36.0" y="896" width="520" height="58" rx="12" fill="rgb(239,233,247)" stroke="rgb(125,74,196)" stroke-width="2"/>
+<text x="50.0" y="927" font-size="19" font-weight="bold" fill="#141414">New campaign ready for review</text>
+<line x1="296.0" y1="198.0" x2="296.0" y2="236.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,246.0 289.0,234.0 303.0,234.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="334.0" x2="296.0" y2="372.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,382.0 289.0,370.0 303.0,370.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="470.0" x2="296.0" y2="508.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,518.0 289.0,506.0 303.0,506.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="606.0" x2="296.0" y2="644.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,654.0 289.0,642.0 303.0,642.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="712.0" x2="296.0" y2="750.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,760.0 289.0,748.0 303.0,748.0" fill="rgb(125,74,196)"/>
+<line x1="296.0" y1="848.0" x2="296.0" y2="886.0" stroke="rgb(125,74,196)" stroke-width="3"/>
+<polygon points="296.0,896.0 289.0,884.0 303.0,884.0" fill="rgb(125,74,196)"/>
+</svg>

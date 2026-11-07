@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="792" viewBox="0 0 592 792" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif">
+<rect width="592" height="792" fill="#ffffff"/>
+<rect width="592" height="74" fill="#ececec"/>
+<text x="36" y="34" font-size="22" font-weight="bold" fill="rgb(44,140,90)">CAMPAIGN PERFORMANCE AGENT · FLOW</text>
+<text x="36" y="60" font-size="15" fill="rgb(44,140,90)">Intelligence layer · Performance Insight</text>
+<rect x="36.0" y="110" width="520" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="141" font-size="19" font-weight="bold" fill="#141414">Weekly schedule</text>
+<text x="50.0" y="175" font-size="16" fill="#464646">Claude Cowork</text>
+<rect x="36.0" y="246" width="520" height="110" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="277" font-size="19" font-weight="bold" fill="#141414">Claude / HubSpot MCP actions</text>
+<text x="50.0" y="311" font-size="16" fill="#464646">Campaigns started in the last 50 days plus always-on</text>
+<text x="50.0" y="333" font-size="16" fill="#464646">campaigns</text>
+<rect x="36.0" y="404" width="520" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="435" font-size="19" font-weight="bold" fill="#141414">Compare campaign and portal level</text>
+<text x="50.0" y="469" font-size="16" fill="#464646">Engagement trends and revenue attributed</text>
+<rect x="36.0" y="540" width="520" height="110" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="571" font-size="19" font-weight="bold" fill="#141414">Insight report</text>
+<text x="50.0" y="605" font-size="16" fill="#464646">What changed, likely drivers, next actions and A/B test</text>
+<text x="50.0" y="627" font-size="16" fill="#464646">suggestions</text>
+<rect x="36.0" y="698" width="520" height="58" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="729" font-size="19" font-weight="bold" fill="#141414">Emailed weekly to campaign owners</text>
+<line x1="296.0" y1="198.0" x2="296.0" y2="236.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="296.0,246.0 289.0,234.0 303.0,234.0" fill="rgb(44,140,90)"/>
+<line x1="296.0" y1="356.0" x2="296.0" y2="394.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="296.0,404.0 289.0,392.0 303.0,392.0" fill="rgb(44,140,90)"/>
+<line x1="296.0" y1="492.0" x2="296.0" y2="530.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="296.0,540.0 289.0,528.0 303.0,528.0" fill="rgb(44,140,90)"/>
+<line x1="296.0" y1="650.0" x2="296.0" y2="688.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="296.0,698.0 289.0,686.0 303.0,686.0" fill="rgb(44,140,90)"/>
+</svg>
