@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="762" height="822" viewBox="0 0 762 822" font-family="DejaVu Sans, Verdana, Arial, Helvetica, sans-serif">
+<rect width="762" height="822" fill="#ffffff"/>
+<rect width="762" height="74" fill="#ececec"/>
+<text x="36" y="34" font-size="22" font-weight="bold" fill="rgb(44,140,90)">CLARITY WEBSITE ANALYST · FLOW</text>
+<text x="36" y="60" font-size="15" fill="rgb(44,140,90)">Intelligence layer · Website Insight</text>
+<rect x="121.0" y="110" width="520" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="135.0" y="141" font-size="19" font-weight="bold" fill="#141414">Daily schedule</text>
+<text x="135.0" y="175" font-size="16" fill="#464646">Power Automate</text>
+<rect x="121.0" y="246" width="520" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="135.0" y="277" font-size="19" font-weight="bold" fill="#141414">Microsoft Clarity API</text>
+<text x="135.0" y="311" font-size="16" fill="#464646">Previous day's behaviour metrics</text>
+<rect x="121.0" y="382" width="520" height="110" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="135.0" y="413" font-size="19" font-weight="bold" fill="#141414">SharePoint list</text>
+<text x="135.0" y="447" font-size="16" fill="#464646">One record per URL, building history beyond Clarity's 3-day</text>
+<text x="135.0" y="469" font-size="16" fill="#464646">limit</text>
+<rect x="36.0" y="540" width="330" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="571" font-size="19" font-weight="bold" fill="#141414">Website Health agent</text>
+<text x="50.0" y="605" font-size="16" fill="#464646">Copilot Studio</text>
+<rect x="396.0" y="540" width="330" height="88" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="410.0" y="571" font-size="19" font-weight="bold" fill="#141414">UX Analyst agent</text>
+<text x="410.0" y="605" font-size="16" fill="#464646">Copilot Studio</text>
+<rect x="36.0" y="676" width="330" height="110" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="50.0" y="707" font-size="19" font-weight="bold" fill="#141414">Weekly report</text>
+<text x="50.0" y="741" font-size="16" fill="#464646">90-day rolling trends and anomalies</text>
+<rect x="396.0" y="676" width="330" height="110" rx="12" fill="rgb(229,241,235)" stroke="rgb(44,140,90)" stroke-width="2"/>
+<text x="410.0" y="707" font-size="19" font-weight="bold" fill="#141414">A/B CRO test ideas</text>
+<text x="410.0" y="741" font-size="16" fill="#464646">Data-led, from page performance</text>
+<text x="410.0" y="763" font-size="16" fill="#464646">and trends</text>
+<line x1="381.0" y1="198.0" x2="381.0" y2="236.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="381.0,246.0 374.0,234.0 388.0,234.0" fill="rgb(44,140,90)"/>
+<line x1="381.0" y1="334.0" x2="381.0" y2="372.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="381.0,382.0 374.0,370.0 388.0,370.0" fill="rgb(44,140,90)"/>
+<line x1="381.0" y1="492.0" x2="381.0" y2="516.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<line x1="201.0" y1="516.0" x2="561.0" y2="516.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<line x1="201.0" y1="516.0" x2="201.0" y2="530.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="201.0,540.0 194.0,528.0 208.0,528.0" fill="rgb(44,140,90)"/>
+<line x1="561.0" y1="516.0" x2="561.0" y2="530.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="561.0,540.0 554.0,528.0 568.0,528.0" fill="rgb(44,140,90)"/>
+<line x1="201.0" y1="628.0" x2="201.0" y2="666.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="201.0,676.0 194.0,664.0 208.0,664.0" fill="rgb(44,140,90)"/>
+<line x1="561.0" y1="628.0" x2="561.0" y2="666.0" stroke="rgb(44,140,90)" stroke-width="3"/>
+<polygon points="561.0,676.0 554.0,664.0 568.0,664.0" fill="rgb(44,140,90)"/>
+</svg>

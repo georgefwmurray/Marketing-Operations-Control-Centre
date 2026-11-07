@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1050 440" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#4F86D9"/></marker>
+</defs>
+<rect x="1" y="1" width="1048" height="438" rx="16" fill="#FFFFFF" stroke="#E3E7EE"/>
+<text x="30" y="46" font-size="20" font-weight="700" fill="#1F2937">CRM Health Agent: monthly inactive asset review</text>
+<g>
+<rect x="30" y="80" width="300" height="120" rx="12" fill="#F3F6FC" stroke="#4F86D9" stroke-width="1.5"/>
+<circle cx="56" cy="108" r="14" fill="#4F86D9"/><text x="56" y="113" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="80" y="113" font-size="16" font-weight="700" fill="#1F2937">Monthly run</text>
+<text x="52" y="146" font-size="13" fill="#4B5563">The Claude skill runs on a monthly</text>
+<text x="52" y="166" font-size="13" fill="#4B5563">schedule</text>
+</g>
+<g>
+<rect x="375" y="80" width="300" height="120" rx="12" fill="#F3F6FC" stroke="#4F86D9" stroke-width="1.5"/>
+<circle cx="401" cy="108" r="14" fill="#4F86D9"/><text x="401" y="113" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="425" y="113" font-size="16" font-weight="700" fill="#1F2937">Evaluates assets</text>
+<text x="397" y="146" font-size="13" fill="#4B5563">Workflows, emails, forms and</text>
+<text x="397" y="166" font-size="13" fill="#4B5563">landing pages</text>
+</g>
+<g>
+<rect x="720" y="80" width="300" height="120" rx="12" fill="#F3F6FC" stroke="#4F86D9" stroke-width="1.5"/>
+<circle cx="746" cy="108" r="14" fill="#4F86D9"/><text x="746" y="113" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="770" y="113" font-size="16" font-weight="700" fill="#1F2937">Checks activity</text>
+<text x="742" y="146" font-size="13" fill="#4B5563">Finds assets with no activity in</text>
+<text x="742" y="166" font-size="13" fill="#4B5563">the past 12 months</text>
+</g>
+<g>
+<rect x="720" y="250" width="300" height="120" rx="12" fill="#F3F6FC" stroke="#4F86D9" stroke-width="1.5"/>
+<circle cx="746" cy="278" r="14" fill="#4F86D9"/><text x="746" y="283" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="770" y="283" font-size="16" font-weight="700" fill="#1F2937">Flags for archive</text>
+<text x="742" y="316" font-size="13" fill="#4B5563">Produces a list of each flagged</text>
+<text x="742" y="336" font-size="13" fill="#4B5563">asset for review</text>
+</g>
+<g>
+<rect x="375" y="250" width="300" height="120" rx="12" fill="#EEF9F3" stroke="#5FBF8F" stroke-width="1.5"/>
+<circle cx="401" cy="278" r="14" fill="#5FBF8F"/><text x="401" y="283" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="425" y="283" font-size="16" font-weight="700" fill="#1F2937">Human approval</text>
+<text x="397" y="316" font-size="13" fill="#4B5563">A person approves which assets</text>
+<text x="397" y="336" font-size="13" fill="#4B5563">are archived</text>
+</g>
+<g stroke="#4F86D9" stroke-width="2" fill="none">
+<path d="M330 140H373" marker-end="url(#a)"/>
+<path d="M675 140H718" marker-end="url(#a)"/>
+<path d="M870 200V248" marker-end="url(#a)"/>
+<path d="M720 310H677" marker-end="url(#a)"/>
+</g>
+</svg>
