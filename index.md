@@ -29,23 +29,23 @@ Instead of hiring more people, I built an intelligent control system organized i
 
 ### 🛡️ **Control Layer — Quality Assurance**
 
-[Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.md) + [Website QA Agent](Website-QA-Agent.md) catch errors before go-live. Audit trail for compliance.
+[Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.md) + [Website QA Agent](Agents/Website%20QA%20Agent/Website-QA-Agent.md) catch errors before go-live. Audit trail for compliance.
 
 ### 🏗️ **Production Layer — Build & Delivery**
 
-[Campaign Build Agent](Home/Agents/Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md), [Content Agent](Home/Agents/Content%20Agent%203e8cf2872cd3819f8769ece6c9198c23.md), and [WordPress Post Creation Agent](Home/Agents/WordPress%20Post%20Creation%20Agent%203e8cf2872cd381e98c4adb092f4696fd.md) agents automate asset creation. 90-min manual task → 10-min agent + 20-min QA.
+[Campaign Build Agent](Agents/Campaign%20Build%20Agent/Campaign-Build-Agent.md), [Content Agent](Agents/Content%20Agent/Content-Agent.md), and [WordPress Post Creation Agent](Agents/WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.md) agents automate asset creation. 90-min manual task → 10-min agent + 20-min QA.
 
 ### 🗄️ **Data Layer — Operations & Standardization**
 
-[Data Import Agent](Home/Agents/Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md) standardizes 13 weekly reports and loads clean data into HubSpot every week. One source of truth.
+[Data Import Agent](Agents/Data%20Import%20Agent/Data-Import-Agent.md) standardizes 13 weekly reports and loads clean data into HubSpot every week. One source of truth.
 
 ### 📈 **Intelligence Layer — Insights & Anomalies**
 
-[Campaign Performance Agent](Home/Agents/Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md) and [Clarity Website Analyst](Home/Agents/Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md) agents deliver weekly trends, anomalies, and A/B testing recommendations.
+[Campaign Performance Agent](Agents/Campaign%20Performance%20Agent/Campaign-Performance-Agent.md) and [Clarity Website Analyst](Agents/Clarity%20Website%20Analyst/Clarity-Website-Analyst.md) agents deliver weekly trends, anomalies, and A/B testing recommendations.
 
 ### ⚙️ **Governance Layer — Intake, Health & Compliance**
 
-[Agent Intake & Approval Agent](Home/Agents/Agent%20Intake%20&%20Approval%20Agent%20400cf2872cd381728db6cbc4d10a867e.md) captures all requests with duplicate detection. [Agent Health Monitor](Home/Agents/Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md) watches every run 24/7. [CRM Health Agent](Home/Agents/CRM%20Health%20Agent%20396cf2872cd381598482c6978e3a2389.md) agent flags stale assets monthly for human archive approval.
+[Agent Intake & Approval Agent](Agents/Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.md) captures all requests with duplicate detection. [Agent Health Monitor](Agents/Agent%20Health%20Monitor/Agent-Health-Monitor.md) watches every run 24/7. [CRM Health Agent](Agents/CRM%20Health%20Agent/CRM-Health-Agent.md) agent flags stale assets monthly for human archive approval.
 
 ### 📚 **Knowledge Layer — Institutional Memory**
 
