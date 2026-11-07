@@ -1,6 +1,6 @@
 # Home
 
-[Home](Home%20410cf2872cd3818384f7d46e2a3815c2.md) • [Agent Registry](Home/Agent%20Registry%20394cf2872cd3810fa4f5f95f8f125cf0.md) • [Results](Home/Results%20394cf2872cd38181903de57b1f1a312a.md) • [Roadmap](Home/Roadmap%20394cf2872cd381d58a13d7ca2136edc4.md) • [Campaign & Commercial Projects](Home/Campaign%20&%20Commercial%20Projects%2039bcf2872cd38176b899cdeca23f2267.md) • [Leadership & Strategy](Home/Leadership%20&%20Strategy%20395cf2872cd381a1a5c8e11299862f40.md) • [How to Build MOCC](Home/How%20to%20Build%20MOCC%20410cf2872cd381b3b585fd01db7e5b66.md)
+[Home](index.md) • [Agent Registry](Home/Agent-registry.md) • [Results](Home/Results%20394cf2872cd38181903de57b1f1a312a.md) • [Roadmap](Home/Roadmap%20394cf2872cd381d58a13d7ca2136edc4.md) • [Campaign & Commercial Projects](Home/Campaign%20&%20Commercial%20Projects%2039bcf2872cd38176b899cdeca23f2267.md) • [Leadership & Strategy](Home/Leadership%20&%20Strategy%20395cf2872cd381a1a5c8e11299862f40.md) • [How to Build MOCC](Home/How%20to%20Build%20MOCC%20410cf2872cd381b3b585fd01db7e5b66.md)
 
 ---
 
