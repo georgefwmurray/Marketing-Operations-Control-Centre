@@ -141,9 +141,9 @@ API integrations, data governance at scale
 
 ## Explore the Full System
 
-- **[Agent Registry](Home/Agent%20Registry%20394cf2872cd3810fa4f5f95f8f125cf0.md)** — Sortable table of all 11 agents with metrics, ownership, rollout status
-- **[Results](Home/Results%20394cf2872cd38181903de57b1f1a312a.md)** — Financial breakdown, operational efficiency, Year 1 & Year 2 projections
-- **[Campaign & Commercial Projects](Home/Campaign%20&%20Commercial%20Projects%2039bcf2872cd38176b899cdeca23f2267.md)** — How MOCC fits into the wider business landscape
+- **[Agent Registry](Agent-Registry.md)** — Sortable table of all 11 agents with metrics, ownership, rollout status
+- **[Results](Results.md)** — Financial breakdown, operational efficiency, Year 1 & Year 2 projections
+- **[Campaign & Commercial Projects](Campaign-Commercial-Projects.md)** — How MOCC fits into the wider business landscape
 
 ---
 
@@ -160,20 +160,4 @@ This system is live and supporting 5 brands in production. I'm open to discussin
 
 **LinkedIn:** [linkedin.com/in/georgefwmurray/](https://www.linkedin.com/in/georgefwmurray/)
 
-[Untitled](Home/Untitled%20396cf2872cd381669004cf1cea2e6b58.csv)
-
-[Untitled](Home/Untitled%2039ccf2872cd3815c9cc5d2aec259a0e0.csv)
-
-[Results](Home/Results%20394cf2872cd38181903de57b1f1a312a.md)
-
-[Roadmap](Home/Roadmap%20394cf2872cd381d58a13d7ca2136edc4.md)
-
-[Leadership & Strategy](Home/Leadership%20&%20Strategy%20395cf2872cd381a1a5c8e11299862f40.md)
-
-[Campaign & Commercial Projects](Home/Campaign%20&%20Commercial%20Projects%2039bcf2872cd38176b899cdeca23f2267.md)
-
-[Agent Registry](Home/Agent%20Registry%20394cf2872cd3810fa4f5f95f8f125cf0.md)
-
-[How to Build MOCC](Home/How%20to%20Build%20MOCC%20410cf2872cd381b3b585fd01db7e5b66.md)
-
-[Agents](Home/Agents%20c2c5e5c09b44408f85a094243f40cbfd.csv)
+[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
