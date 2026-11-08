@@ -1,3 +1,8 @@
+---
+title: "Email QA Agent: 80% Less Manual QA Effort"
+description: "Copilot Studio and Power Automate agent that applies consistent checks to marketing emails, cutting manual QA effort by 80% across 5 brands."
+---
+
 # Email QA Agent
 
 Key Result: 80% reduction in manual QA effort
@@ -5,7 +10,7 @@ Layer: Control
 Problem: QA Bottlenecks
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -29,7 +34,7 @@ The objective was to create a repeatable, auditable and low-friction QA process 
 
 ## Solution Overview
 
-![Flow_EmailQA.svg](Email%20QA%20Agent/Flow_EmailQA.svg)
+![Flow diagram: a test email is forwarded to a shared mailbox, Power Automate extracts the HTML, a Copilot Studio agent runs the QA checklist, posts a report to Teams and logs findings in SharePoint](Flow_EmailQA.svg)
 
 The Email QA Agent automates the pre-send validation of marketing emails by analysing test emails before deployment. A standard test email is forwarded from any marketing automation platform to a shared mailbox, triggering a Power Automate workflow that extracts the HTML and invokes a Microsoft Copilot Studio agent. The resulting QA report is automatically published to Microsoft Teams and recorded in a SharePoint governance log.
 
@@ -68,14 +73,14 @@ Early versions required manual uploads of screenshots and HTML. By redesigning t
 
 ## Explore Other MOCC Modules
 
-- Agent Health Monitor: [Agent Health Monitor](Agents/Agent%20Health%20Monitor/Agent-Health-Monitor.md)
-- Agent Intake & Approval Agent: [Agent Intake & Approval Agent](Agents/Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.md)
-- CRM Health Agent: [CRM Health Agent](Agents/CRM%20Health%20Agent/CRM-Health-Agent.md)
-- Campaign Build Agent: [Campaign Build Agent](Agents/Campaign%20Build%20Agent/Campaign-Build-Agent.md)
-- Campaign Performance Agent: [Campaign Performance Agent](Agents/Campaign%20Performance%20Agent/Campaign-Performance-Agent.md)
-- Clarity Website Analyst: [Clarity Website Analyst](Agents/Clarity%20Website%20Analyst/Clarity-Website-Analyst.md)
-- Content Agent: [Content Agent](Agents/Content%20Agent/Content-Agent.md)
-- Data Import Agent: [Data Import Agent](Agents/Data%20Import%20Agent/Data-Import-Agent.md)
-- Email QA Agent: [Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.md)
-- Website QA Agent: [Website QA Agent](Agents/Website%20QA%20Agent/Website-QA-Agent.md)
-- WordPress Post Creation Agent: [WordPress Post Creation Agent](Agents/WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.md)
+- Agent Health Monitor: [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)
+- Agent Intake & Approval Agent: [Agent Intake & Approval Agent](../Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html)
+- CRM Health Agent: [CRM Health Agent](../CRM%20Health%20Agent/CRM-Health-Agent.html)
+- Campaign Build Agent: [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- Campaign Performance Agent: [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
+- Clarity Website Analyst: [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- Content Agent: [Content Agent](../Content%20Agent/Content-Agent.html)
+- Data Import Agent: [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- Email QA Agent: [Email QA Agent](Email-QA-Agent.html)
+- Website QA Agent: [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- WordPress Post Creation Agent: [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)

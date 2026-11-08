@@ -1,3 +1,8 @@
+---
+title: "CRM Health Agent: Monthly Inactive Asset Clean-Up"
+description: "Claude Skill that lists CRM workflows, emails, forms and landing pages inactive for 12+ months each month and flags them for archive approval. Live on 5 brands."
+---
+
 # CRM Health Agent
 
 Key Result: Monthly list of inactive assets flagged for archive approval
@@ -5,7 +10,7 @@ Layer: Governance
 Problem: Inactive CRM assets building up
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -29,7 +34,7 @@ Workflows, emails, forms and landing pages that have had no activity for 12 mont
 
 ## Solution Overview
 
-![Flow_CRMHealth.svg](CRM%20Health%20Agent/Flow_CRMHealth.svg)
+![Flow diagram: a monthly Claude skill run checks workflows, emails, forms and landing pages for 12 months of inactivity, flags them for archive and a person approves](Flow_CRMHealth.svg)
 
 The CRM Health Agent is a Claude Skill that runs every month. It evaluates workflows, emails, forms and landing pages, finds any that have had no activity in the past 12 months, and flags a list of each asset for human archive approval. Nothing is archived without a person approving it.
 
@@ -61,13 +66,13 @@ Combining the asset types under one agent keeps governance in a single monthly r
 
 ## Explore Other MOCC Modules
 
-- [Agent Intake & Approval Agent](Agent%20Intake%20&%20Approval%20Agent%20400cf2872cd381728db6cbc4d10a867e.md)
-- [Clarity Website Analyst](Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md)
-- [Email QA Agent](Email%20QA%20Agent%20394cf2872cd3812eb679f7657980d7b4.md)
-- [Website QA Agent](Website%20QA%20Agent%20394cf2872cd381528052cb21608d6db0.md)
-- [Data Import Agent](Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md)
-- [Campaign Performance Agent](Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md)
-- [Campaign Build Agent](Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md)
-- [Content Agent](Content%20Agent%203e8cf2872cd3819f8769ece6c9198c23.md)
-- [WordPress Post Creation Agent](WordPress%20Post%20Creation%20Agent%203e8cf2872cd381e98c4adb092f4696fd.md)
-- [Agent Health Monitor](Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md)
+- [Agent Intake & Approval Agent](../Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html)
+- [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- [Email QA Agent](../Email%20QA%20Agent/Email-QA-Agent.html)
+- [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
+- [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- [Content Agent](../Content%20Agent/Content-Agent.html)
+- [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)
+- [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)

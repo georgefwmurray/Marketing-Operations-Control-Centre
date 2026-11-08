@@ -1,6 +1,11 @@
+---
+title: "Leadership & Strategy: HubSpot Marketing Operations"
+description: "Mission, operating model and six-layer framework (Control, Production, Data, Governance, Intelligence, Knowledge) for AI-driven HubSpot marketing operations."
+---
+
 # Leadership & Strategy
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
 
 ---
 

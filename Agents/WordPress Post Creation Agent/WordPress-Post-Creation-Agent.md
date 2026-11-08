@@ -1,3 +1,8 @@
+---
+title: "WordPress Post Creation Agent: 20 Hours a Month Saved"
+description: "Turns finished HTML content into WordPress posts automatically using Power Automate, SharePoint and ClickUp, saving 20 hours a month across five brand sites."
+---
+
 # WordPress Post Creation Agent
 
 Key Result: 20 hours/month saved via automation
@@ -5,7 +10,7 @@ Layer: Production
 Problem: Manual WordPress Post Creation
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -29,7 +34,7 @@ Creating WordPress posts from finished HTML content was a manual task, requiring
 
 The WordPress Post Creation Agent takes HTML output (including content produced by the Content Agent) and creates the corresponding post in WordPress. The agent is triggered when the Content Agent saves a document to SharePoint. Power Automate parses the HTML and posts it to the correct brand website based on the blog metadata, saving it as a draft in WordPress. A ClickUp ticket is then created for the Web team to review and publish. The agent is live across all 5 brand websites.
 
-![Flow_WordPress.svg](WordPress%20Post%20Creation%20Agent/Flow_WordPress.svg)
+![Flow diagram: the Content Agent saves to SharePoint, Power Automate parses the HTML, picks the right brand site, creates a WordPress draft and raises a ClickUp ticket for human review](Flow_WordPress.svg)
 
 ## Business Value
 
@@ -61,13 +66,13 @@ Pairing this agent with the Content Agent created an end-to-end pipeline from br
 
 ## Explore Other MOCC Modules
 
-- [Agent Intake & Approval Agent](Agent%20Intake%20&%20Approval%20Agent%20400cf2872cd381728db6cbc4d10a867e.md)
-- [Campaign Build Agent](Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md)
-- [Content Agent](Content%20Agent%203e8cf2872cd3819f8769ece6c9198c23.md)
-- [Clarity Website Analyst](Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md)
-- [Email QA Agent](Email%20QA%20Agent%20394cf2872cd3812eb679f7657980d7b4.md)
-- [Website QA Agent](Website%20QA%20Agent%20394cf2872cd381528052cb21608d6db0.md)
-- [Data Import Agent](Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md)
-- [CRM Health Agent](CRM%20Health%20Agent%20396cf2872cd381598482c6978e3a2389.md)
-- [Campaign Performance Agent](Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md)
-- [Agent Health Monitor](Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md)
+- [Agent Intake & Approval Agent](../Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html)
+- [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- [Content Agent](../Content%20Agent/Content-Agent.html)
+- [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- [Email QA Agent](../Email%20QA%20Agent/Email-QA-Agent.html)
+- [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- [CRM Health Agent](../CRM%20Health%20Agent/CRM-Health-Agent.html)
+- [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
+- [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)

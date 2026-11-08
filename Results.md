@@ -1,6 +1,11 @@
+---
+title: "Results: HubSpot AI Marketing Operations Impact"
+description: "Measured impact of 11 live HubSpot-native AI agents in marketing operations: 74+ hours saved a month across QA, content, data and performance reporting."
+---
+
 # Results
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
 
 ---
 

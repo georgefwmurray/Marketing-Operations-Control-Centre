@@ -1,3 +1,8 @@
+---
+title: "Pricing Page UX Test: 63% More Leads"
+description: "Used Clarity recordings to find pricing page friction, then ran a VWO split URL test of a static form against an interactive calculator: 63% more leads (2026)."
+---
+
 # Pricing Page UX Test
 
 Category: Digital & UX Optimisation

@@ -1,3 +1,8 @@
+---
+title: "Campaign Performance Agent: Weekly HubSpot Insights"
+description: "Claude Cowork agent that delivers weekly campaign and portal-level performance insights with A/B test suggestions across 5 brands."
+---
+
 # Campaign Performance Agent
 
 Key Result: Weekly campaign & portal-level insights with A/B test suggestions
@@ -5,7 +10,7 @@ Layer: Intelligence
 Problem: Manual, Fragmented Campaign Reporting
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -29,7 +34,7 @@ Campaign performance insights are often slow and fragmented across channels, mak
 
 The Campaign Performance Agent runs weekly across campaigns started in the last 50 days plus always-on campaigns, comparing performance at campaign and portal level to surface successes, concerns, engagement trends, revenue attributed and A/B test suggestions. It generates a standard insight report that highlights what changed, likely drivers and recommended next actions, and the report is emailed weekly to campaign owners, turning performance data into decision-ready insight.
 
-![Flow_CampaignPerformance.svg](Campaign%20Performance%20Agent/Flow_CampaignPerformance.svg)
+![Flow diagram: a weekly Claude Cowork run compares campaign and portal-level engagement and revenue through HubSpot MCP actions, then emails an insight report with A/B test suggestions](Flow_CampaignPerformance.svg)
 
 ## Business Value
 
@@ -60,15 +65,15 @@ Insight outputs should be “decision first”: lead with the few changes that m
 
 ## Explore Other MOCC Modules
 
-- [Clarity Website Analyst](Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md)
-- [Email QA Agent](Email%20QA%20Agent%20394cf2872cd3812eb679f7657980d7b4.md)
-- [Website QA Agent](Website%20QA%20Agent%20394cf2872cd381528052cb21608d6db0.md)
-- [Data Import Agent](Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md)
-- [Agent Intake & Approval Agent](Agent%20Intake%20&%20Approval%20Agent%20400cf2872cd381728db6cbc4d10a867e.md)
-- [CRM Health Agent](CRM%20Health%20Agent%20396cf2872cd381598482c6978e3a2389.md)
-- [Campaign Performance Agent](Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md)
-- [Campaign Build Agent](Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md)
-- [Content Agent](Content%20Agent%203e8cf2872cd3819f8769ece6c9198c23.md)
-- [WordPress Post Creation Agent](WordPress%20Post%20Creation%20Agent%203e8cf2872cd381e98c4adb092f4696fd.md)
+- [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- [Email QA Agent](../Email%20QA%20Agent/Email-QA-Agent.html)
+- [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- [Agent Intake & Approval Agent](../Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html)
+- [CRM Health Agent](../CRM%20Health%20Agent/CRM-Health-Agent.html)
+- [Campaign Performance Agent](Campaign-Performance-Agent.html)
+- [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- [Content Agent](../Content%20Agent/Content-Agent.html)
+- [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)
 
-- [Agent Health Monitor](Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md)
+- [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)

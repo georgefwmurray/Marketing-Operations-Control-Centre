@@ -1,0 +1,10 @@
+title: "MOCC"
+description: "MOCC is an agentic marketing operations control centre: 11 HubSpot marketing operations agents covering intake, quality assurance, campaign delivery, data standardisation, performance insight and governance, built by George Murray."
+author: George Murray
+url: "https://georgefwmurray.github.io"
+baseurl: "/Marketing-Operations-Control-Centre"
+lang: en-GB
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

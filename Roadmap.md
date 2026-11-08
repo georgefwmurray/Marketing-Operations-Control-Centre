@@ -1,6 +1,11 @@
+---
+title: "Roadmap: HubSpot Marketing Operations Agents"
+description: "What has been built and what is next in HubSpot marketing operations, from manual workflows to governed AI agent systems with measurable ROI."
+---
+
 # Roadmap
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
 
 ---
 

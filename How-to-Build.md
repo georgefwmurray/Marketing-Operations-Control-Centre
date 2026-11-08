@@ -1,6 +1,11 @@
+---
+title: "How to Build AI-Driven HubSpot Marketing Operations"
+description: "A practical guide to building Claude-powered HubSpot marketing operations agents for request intake, quality checks, campaign builds and weekly insights."
+---
+
 # How to Build MOCC
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
 
 ---
 
@@ -24,7 +29,7 @@ Marketing operations automation doesn't happen overnight. It's five small projec
 
 The key: **get governance in place from day one.** Every agent decision gets logged and auditable. Every layer feeds clean data into the next. This means you're not building a fragile Jenga tower that collapses when you add a new brand. You're building a scalable single source of truth that your team can hand off and operate independently.
 
-![mocc-implementation-roadmap_2.png](How%20to%20Build%20MOCC/mocc-implementation-roadmap_2.png)
+![Five-phase implementation roadmap: Phase 1 Intake and Governance (weeks 1-3), Phase 2 Activation (4-6), Phase 3 Optimization (7-9), Phase 4 Intelligence (10-12), Phase 5 Scale (13+)](How-to-Build/mocc-implementation-roadmap_2.png)
 
 #### Phase 1: Intake & Governance (Weeks 1–3)
 
@@ -125,7 +130,7 @@ Other models are fine for single, simple tasks. For a 6-layer system where each 
 
 ## Getting Started: How to Implement Marketing Operations Agents
 
-![mocc-getting-started_1.png](How%20to%20Build%20MOCC/mocc-getting-started_1.png)
+![Five-step guide to getting started: audit your manual ops, start with intake, design your first agent, build your governance layer, then document and scale](How-to-Build/mocc-getting-started_1.png)
 
 **Step 1:** Audit your manual ops
 

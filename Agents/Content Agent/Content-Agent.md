@@ -1,3 +1,8 @@
+---
+title: "Content Agent: Agency Spend Halved to £10k a Month"
+description: "Blog content agent combining Semrush AEO, Claude and human sign-off to cut agency spend from £20k to £10k a month across 5 brand sites."
+---
+
 # Content Agent
 
 Key Result: Agency spend cut from £20k to £10k a month
@@ -5,7 +10,7 @@ Layer: Production
 Problem: Manual Content Briefing & Drafting
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -31,7 +36,7 @@ The objective was to bring first-draft content production in-house without compr
 
 The Content Agent is briefed either via Semrush AEO recommendations or directly by a human, taking a blog title and rough brief as input. It produces a full blog draft following brand guidelines, which is sent to a human for review and sign-off. Once approved, Copilot Studio converts the content to HTML, including meta title, meta description and target keyword, and uploads it to SharePoint, ready for the WordPress Post Creation Agent.
 
-![Flow_ContentAgent.svg](Content%20Agent/Flow_ContentAgent.svg)
+![Flow diagram: a Semrush AEO recommendation or human brief goes to the Content Agent, Claude drafts the blog, a human signs off, Copilot Studio converts it to HTML and it is saved to SharePoint](Flow_ContentAgent.svg)
 
 ## Business Value
 
@@ -65,13 +70,13 @@ Generating HTML and SEO metadata (title, description, keyword) as part of the sa
 
 ## Explore Other MOCC Modules
 
-- [Agent Intake & Approval Agent](Agent%20Intake%20&%20Approval%20Agent%20400cf2872cd381728db6cbc4d10a867e.md)
-- [Campaign Build Agent](Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md)
-- [WordPress Post Creation Agent](WordPress%20Post%20Creation%20Agent%203e8cf2872cd381e98c4adb092f4696fd.md)
-- [Clarity Website Analyst](Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md)
-- [Email QA Agent](Email%20QA%20Agent%20394cf2872cd3812eb679f7657980d7b4.md)
-- [Website QA Agent](Website%20QA%20Agent%20394cf2872cd381528052cb21608d6db0.md)
-- [Data Import Agent](Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md)
-- [CRM Health Agent](CRM%20Health%20Agent%20396cf2872cd381598482c6978e3a2389.md)
-- [Campaign Performance Agent](Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md)
-- [Agent Health Monitor](Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md)
+- [Agent Intake & Approval Agent](../Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html)
+- [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)
+- [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- [Email QA Agent](../Email%20QA%20Agent/Email-QA-Agent.html)
+- [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- [CRM Health Agent](../CRM%20Health%20Agent/CRM-Health-Agent.html)
+- [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
+- [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)

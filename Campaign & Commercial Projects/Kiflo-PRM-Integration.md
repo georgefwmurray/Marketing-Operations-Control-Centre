@@ -1,3 +1,8 @@
+---
+title: "Kiflo PRM Integration: 12% Revenue Uplift"
+description: "Owned Veriforce's Kiflo PRM integration end to end, giving consistent partner lead tracking and showing the strategic partners: 12% YoY revenue uplift (2025)."
+---
+
 # Kiflo PRM Integration
 
 Category: Partner Integration
@@ -10,6 +15,14 @@ Year: 2025
 ## Kiflo PRM Integration
 
 The Kiflo PRM integration at Veriforce (2025).
+
+## The problem
+
+Partner data was fragmented. Partners submitted leads in inconsistent ways, and tracking was limited, so it was hard to compare partners or see which ones mattered most.
+
+## What changed
+
+Lead tracking is now consistent across partners. That consistency has made it possible to identify the strategic partners.
 
 ## My role
 

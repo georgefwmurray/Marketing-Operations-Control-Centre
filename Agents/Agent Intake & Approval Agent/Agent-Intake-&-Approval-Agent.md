@@ -1,3 +1,8 @@
+---
+title: "Agent Intake & Approval Agent: Governed Agent Requests"
+description: "Governance agent that logs every new agent request and secures approval before build, preventing overlapping builds. Built on Copilot Studio and Teams."
+---
+
 # Agent Intake & Approval Agent
 
 Key Result: Every request logged and approved before build
@@ -5,7 +10,7 @@ Layer: Governance
 Problem: Uncoordinated agent requests and overlapping builds
 Status: Live
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html)
 
 ---
 
@@ -27,7 +32,7 @@ Functionality was also being built that overlapped with existing agents and tool
 
 ## Solution Overview
 
-![Flow_AgentIntake.svg](Agent%20Intake%20&%20Approval%20Agent/Flow_AgentIntake.svg)
+![Flow diagram: a request raised in Teams goes through Copilot Studio questions, is logged on a SharePoint request list and checked for overlap with existing agents](Flow_AgentIntake.svg)
 
 The Agent Intake & Approval Agent is a Copilot Studio topic embedded in Teams. It asks the requester structured questions about what the agent helps solve, what it outputs and how it works, and tidies the answers into a single request. Every request is logged on a SharePoint list. The agent then produces a report for the approvers showing any potential crossover with existing agents and existing tech stack functionality. The request and report go to the Head of Digital Marketing Operations and the Head of Digital Performance for approval before any build. Approved requests are logged on an approved list, and the agent then creates the agent's documentation so its setup and workings stay visible over the long term.
 
@@ -52,13 +57,13 @@ Approval happens before build, so overlap with existing agents and tools is caug
 
 ## Explore Other MOCC Modules
 
-- [Clarity Website Analyst](Clarity%20Website%20Analyst%203edcf2872cd381f9b5cadf69beff0f07.md)
-- [Email QA Agent](Email%20QA%20Agent%20394cf2872cd3812eb679f7657980d7b4.md)
-- [Website QA Agent](Website%20QA%20Agent%20394cf2872cd381528052cb21608d6db0.md)
-- [Data Import Agent](Data%20Import%20Agent%20394cf2872cd381319d4eee4a7bb3dbb0.md)
-- [CRM Health Agent](CRM%20Health%20Agent%20396cf2872cd381598482c6978e3a2389.md)
-- [Campaign Performance Agent](Campaign%20Performance%20Agent%20394cf2872cd38132b545cd1e773d04ef.md)
-- [Campaign Build Agent](Campaign%20Build%20Agent%203accf2872cd381fd85feda9dc5153487.md)
-- [Content Agent](Content%20Agent%203e8cf2872cd3819f8769ece6c9198c23.md)
-- [WordPress Post Creation Agent](WordPress%20Post%20Creation%20Agent%203e8cf2872cd381e98c4adb092f4696fd.md)
-- [Agent Health Monitor](Agent%20Health%20Monitor%20410cf2872cd3814a913bcabfac55638e.md)
+- [Clarity Website Analyst](../Clarity%20Website%20Analyst/Clarity-Website-Analyst.html)
+- [Email QA Agent](../Email%20QA%20Agent/Email-QA-Agent.html)
+- [Website QA Agent](../Website%20QA%20Agent/Website-QA-Agent.html)
+- [Data Import Agent](../Data%20Import%20Agent/Data-Import-Agent.html)
+- [CRM Health Agent](../CRM%20Health%20Agent/CRM-Health-Agent.html)
+- [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
+- [Campaign Build Agent](../Campaign%20Build%20Agent/Campaign-Build-Agent.html)
+- [Content Agent](../Content%20Agent/Content-Agent.html)
+- [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)
+- [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)

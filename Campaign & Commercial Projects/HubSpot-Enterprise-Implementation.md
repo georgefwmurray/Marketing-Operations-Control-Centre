@@ -1,3 +1,8 @@
+---
+title: "HubSpot Enterprise Implementation: 125% MQL Growth"
+description: "Ran Collett’s Mountain Holidays’ HubSpot Enterprise implementation, from CRM selection to partner build, across 3 Hubs: MQLs up 125% YoY (2018)."
+---
+
 # HubSpot Enterprise Implementation
 
 Category: Platform Implementation
@@ -10,6 +15,15 @@ Year: 2018
 ## Overview
 
 A full HubSpot Enterprise rollout across the Sales, Marketing and Service Hubs at Collett's Mountain Holidays (2018).
+
+## Approach
+
+I ran every stage of the implementation:
+
+1. Researched CRM options and selected HubSpot
+2. Sourced the implementation partner
+3. Gathered the initial requirements from sales, operations and marketing
+4. Acted as the key stakeholder during the build with the partner
 
 ## My role
 

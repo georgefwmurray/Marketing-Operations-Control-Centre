@@ -1,6 +1,9 @@
-# Home
+---
+title: "Marketing Operations Control Centre: HubSpot AI Agents"
+description: "MOCC: 11 live HubSpot-native AI agents automating marketing operations across 5 brands, reclaiming 74+ hours a month. Built by George Murray, South Wales."
+---
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
 
 ---
 
@@ -10,6 +13,8 @@
 
 Based in South Wales, I design and scale HubSpot-native AI agent systems
 that automate marketing operations and deliver measurable ROI.
+
+[HubSpot expert in South Wales: results, FAQs and contact](HubSpot-Expert-South-Wales.html)
 
 ### Year 1 Results
 
@@ -29,23 +34,23 @@ Instead of hiring more people, I built an intelligent control system organized i
 
 ### 🛡️ **Control Layer — Quality Assurance**
 
-[Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.md) + [Website QA Agent](Agents/Website%20QA%20Agent/Website-QA-Agent.md) catch errors before go-live. Audit trail for compliance.
+[Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.html) + [Website QA Agent](Agents/Website%20QA%20Agent/Website-QA-Agent.html) catch errors before go-live. Audit trail for compliance.
 
 ### 🏗️ **Production Layer — Build & Delivery**
 
-[Campaign Build Agent](Agents/Campaign%20Build%20Agent/Campaign-Build-Agent.md), [Content Agent](Agents/Content%20Agent/Content-Agent.md), and [WordPress Post Creation Agent](Agents/WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.md) agents automate asset creation. 90-min manual task → 10-min agent + 20-min QA.
+[Campaign Build Agent](Agents/Campaign%20Build%20Agent/Campaign-Build-Agent.html), [Content Agent](Agents/Content%20Agent/Content-Agent.html), and [WordPress Post Creation Agent](Agents/WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html) agents automate asset creation. 90-min manual task → 10-min agent + 20-min QA.
 
 ### 🗄️ **Data Layer — Operations & Standardization**
 
-[Data Import Agent](Agents/Data%20Import%20Agent/Data-Import-Agent.md) standardizes 13 weekly reports and loads clean data into HubSpot every week. One source of truth.
+[Data Import Agent](Agents/Data%20Import%20Agent/Data-Import-Agent.html) standardizes 13 weekly reports and loads clean data into HubSpot every week. One source of truth.
 
 ### 📈 **Intelligence Layer — Insights & Anomalies**
 
-[Campaign Performance Agent](Agents/Campaign%20Performance%20Agent/Campaign-Performance-Agent.md) and [Clarity Website Analyst](Agents/Clarity%20Website%20Analyst/Clarity-Website-Analyst.md) agents deliver weekly trends, anomalies, and A/B testing recommendations.
+[Campaign Performance Agent](Agents/Campaign%20Performance%20Agent/Campaign-Performance-Agent.html) and [Clarity Website Analyst](Agents/Clarity%20Website%20Analyst/Clarity-Website-Analyst.html) agents deliver weekly trends, anomalies, and A/B testing recommendations.
 
 ### ⚙️ **Governance Layer — Intake, Health & Compliance**
 
-[Agent Intake & Approval Agent](Agents/Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.md) captures all requests with duplicate detection. [Agent Health Monitor](Agents/Agent%20Health%20Monitor/Agent-Health-Monitor.md) watches every run 24/7. [CRM Health Agent](Agents/CRM%20Health%20Agent/CRM-Health-Agent.md) agent flags stale assets monthly for human archive approval.
+[Agent Intake & Approval Agent](Agents/Agent%20Intake%20%26%20Approval%20Agent/Agent-Intake-%26-Approval-Agent.html) captures all requests with duplicate detection. [Agent Health Monitor](Agents/Agent%20Health%20Monitor/Agent-Health-Monitor.html) watches every run 24/7. [CRM Health Agent](Agents/CRM%20Health%20Agent/CRM-Health-Agent.html) agent flags stale assets monthly for human archive approval.
 
 ### 📚 **Knowledge Layer — Institutional Memory**
 
@@ -148,8 +153,14 @@ This system is live and supporting 5 brands in production. I'm open to discussin
 - How to scale technical initiatives through team upskilling
 - How to balance innovation speed with governance/risk management
 
+Looking for a HubSpot expert in South Wales? See the [HubSpot Expert in South Wales](HubSpot-Expert-South-Wales.html) page.
+
 **Contact:** [georgefwmurray@gmail.com](mailto:georgefwmurray@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/georgefwmurray/](https://www.linkedin.com/in/georgefwmurray/)
 
-[Home](index.md) • [Agent Registry](Agent-Registry.md) • [Results](Results.md) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.md) • [Leadership & Strategy](Leadership-&-Strategy.md) • [How to Build MOCC](How-to-Build.md)
+[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html)
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/#website","name":"MOCC: Marketing Operations Control Centre","url":"https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/","inLanguage":"en-GB","author":{"@id":"https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/#person"}},{"@type":"Person","@id":"https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/#person","name":"George Murray","jobTitle":"HubSpot Marketing Operations Expert","url":"https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/","address":{"@type":"PostalAddress","addressRegion":"South Wales","addressCountry":"GB"},"sameAs":["https://www.linkedin.com/in/georgefwmurray/"],"knowsAbout":["HubSpot","Marketing operations","AI agents","Marketing automation"]}]}
+</script>
