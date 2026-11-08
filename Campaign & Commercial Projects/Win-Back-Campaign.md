@@ -5,6 +5,10 @@ description: "Always-on win-back campaign at Veriforce. A stratified, randomised
 
 # Win-Back Campaign
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Campaign & Conversion
 Context: Launched an always-on win-back campaign targeting lost customers, using rigorous A/B testing to identify optimum re-engagement timing based on lost reason.
 Employer: Veriforce

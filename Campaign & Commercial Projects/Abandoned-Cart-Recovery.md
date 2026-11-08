@@ -5,6 +5,10 @@ description: "Led Veriforce's abandoned cart recovery journey, adding lead creat
 
 # Abandoned Cart Recovery
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Campaign & Conversion
 Context: Led the introduction of an abandoned cart recovery journey, working with technical stakeholders on the build and owning copywriting, email creation and send cadence.
 Employer: Veriforce

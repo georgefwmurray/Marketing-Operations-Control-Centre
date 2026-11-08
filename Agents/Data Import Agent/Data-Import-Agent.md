@@ -5,6 +5,10 @@ description: "Automates ingestion of SSRS reports into HubSpot using Outlook, Po
 
 # Data Import Agent
 
+[Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html) • [HubSpot Expert in South Wales](../../HubSpot-Expert-South-Wales.html)
+
+---
+
 Key Result: 15 hours/month saved via automation
 Layer: Data
 Problem: Manual SSRS Report Ingestion

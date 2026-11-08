@@ -5,6 +5,10 @@ description: "Integrated ResponseIQ into Veriforce lead routing for instant call
 
 # ResponseIQ Telephony Integration
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Sales & Revenue
 Context: Integrated ResponseIQ into lead routing to close the gap between inbound leads and sales follow-up.
 Employer: Veriforce

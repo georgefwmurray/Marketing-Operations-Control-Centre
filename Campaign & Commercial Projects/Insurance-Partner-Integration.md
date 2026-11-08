@@ -5,6 +5,10 @@ description: "Aligned contact strategy with an insurance partner at Veriforce, u
 
 # Insurance Partner Integration
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Partner Integration
 Context: Integrated contact strategies with an insurance partner to align communications and remove duplicated outreach.
 Employer: Veriforce

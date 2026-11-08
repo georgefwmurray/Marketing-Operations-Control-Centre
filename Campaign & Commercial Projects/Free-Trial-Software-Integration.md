@@ -5,6 +5,10 @@ description: "Built an API between Veriforce's platform and HubSpot so free tria
 
 # Free Trial Software Integration
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Platform Implementation
 Context: Built an API enabling users to sign up for a free trial directly within the platform, removing friction from the sign-up journey.
 Employer: Veriforce

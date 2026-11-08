@@ -5,6 +5,10 @@ description: "Owned automation for Veriforce's ABM launch: ZoomInfo/Apollo conta
 
 # ABM Strategy Automation
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Sales & Revenue
 Context: Supported the launch of a new ABM strategy by owning all automation — targeting a list of 15 large target accounts.
 Employer: Veriforce

@@ -5,6 +5,10 @@ description: "Owned Veriforce's Kiflo PRM integration end to end, giving consist
 
 # Kiflo PRM Integration
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Partner Integration
 Context: Owned end-to-end: data migration, automation logic, API/webhook integration, and partner adoption.
 Employer: Veriforce

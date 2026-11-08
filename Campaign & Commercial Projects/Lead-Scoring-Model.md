@@ -5,6 +5,10 @@ description: "HubSpot lead scoring model combining fit and intent so sales work 
 
 # Lead Scoring Model
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Sales & Revenue
 Context: Built a lead scoring model using HubSpot enrichment against our ICP, allowing sales to prioritise higher-fit leads.
 Employer: Veriforce

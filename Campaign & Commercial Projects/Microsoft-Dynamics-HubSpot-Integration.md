@@ -5,6 +5,10 @@ description: "HubSpot side of Veriforce's Dynamics integration: contacts, accoun
 
 # Microsoft Dynamics ↔ HubSpot Integration
 
+[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+
+---
+
 Category: Platform Implementation
 Context: Drove the HubSpot side of a business-wide integration ensuring marketing data integrity and sales alignment.
 Employer: Veriforce
