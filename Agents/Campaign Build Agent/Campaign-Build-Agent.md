@@ -1,5 +1,5 @@
 ---
-title: "Campaign Build Agent: 60 Minutes Saved Per Build"
+title: "Campaign Build Agent: 6 Hours Saved a Month"
 description: "Claude Cowork agent that clones and updates HubSpot campaign assets through Claude/HubSpot MCP actions, saving 60 minutes per campaign build."
 ---
 
@@ -38,15 +38,14 @@ Using Claude Cowork alongside Claude/HubSpot MCP actions, the agent clones an ex
 
 ## Business Value
 
-- Saves approximately **60 minutes of manual execution time per campaign** (about 30 minutes with the agent and human QA, versus about 90 minutes manually), roughly 4 hours a month at 4 campaigns a month
+- Saves approximately **60 minutes of manual execution time per campaign** (about 30 minutes with the agent and human QA, versus about 90 minutes manually), around 6 hours per month at the current campaign volume
 - Removes repetitive manual cloning and asset-swapping work
 - Speeds up campaign delivery time
 - Reduces risk of manual copy/paste errors when rebuilding assets
 
 ### Cost Savings
 
-- **Time reclaimed (pilot):** 16 hrs/month per brand = **£19,200/year**
-- **Projected if scaled to 5 brands:** 80 additional hrs/month = **£96,000/year**
+- **Time reclaimed (current live deployment):** 6 hrs/month = £150/month = **£1,800/year** at the MOCC's illustrative £25/hour rate
 - **Secondary benefit:** Standardizes campaign quality across brands; reduces approval cycles
 
 ## Version History

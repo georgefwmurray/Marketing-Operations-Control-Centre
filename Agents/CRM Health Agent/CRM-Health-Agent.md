@@ -49,7 +49,7 @@ It brings workflow, email and forms governance together under one agent.
 
 ### Cost Savings
 
-- **Time reclaimed:** 8 hrs/month = **£9,600/year**
+- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
 - **Compliance value:** Prevents audit findings on stale asset accumulation; reduces operational risk
 
 ## Version History

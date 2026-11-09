@@ -46,11 +46,9 @@ The Email QA Agent automates the pre-send validation of marketing emails by anal
 - Standardised quality assurance across all campaigns
 - Increased confidence prior to campaign deployment
 
-*Methodology: based on 4 weeks of before/after data. Prior process averaged ~30 hours/month (3 reviewers, ~30 minutes per email check).*
-
 ### Cost Savings
 
-- **Time reclaimed:** 8 hrs/month per brand = 40 hrs/month across 5 brands = £4,800/month = **£57,600/year**
+- **Time reclaimed:** 55 hrs/month across 5 brands = £1,375/month = **£16,500/year** at the MOCC's illustrative £25/hour rate
 - **Compliance risk reduced:** Audit trail prevents regulatory gaps
 - **Secondary benefit:** Marketing Automation Executive freed to focus on workflow strategy instead of checklist work
 

@@ -1,11 +1,11 @@
 ---
-title: "Website QA Agent: 40% Less Manual Review"
-description: "Copilot Studio and Power Automate agent that checks pages before launch for errors such as broken links, cutting manual review effort by 40%."
+title: "Website QA Agent: 8 Hours Saved a Month"
+description: "Copilot Studio and Power Automate agent that checks pages before launch for errors such as broken links, saving 8 hours of manual review effort each month."
 ---
 
 # Website QA Agent
 
-Key Result: 40% reduction in manual review effort
+Key Result: 8 hours/month of manual review effort saved
 Layer: Control
 Problem: Pre-Launch Errors
 Status: Live
@@ -42,17 +42,14 @@ The completed QA report, including an overall score and grade, is automatically 
 
 ## Business Value
 
-- Reduced manual review effort by approximately **40%**
 - Standardised website QA across all published content
 - Reduced publishing errors prior to release
 - Improved consistency of branding and content quality
 - Created a central audit trail for website quality reviews
 
-*Methodology: based on 4 weeks of before/after data. Prior process averaged ~10 hours/month (2 reviewers).*
-
 ### Cost Savings
 
-- **Time reclaimed:** 6 hrs/month per brand = 30 hrs/month across 5 brands = £3,000/month = **£36,000/year**
+- **Time reclaimed:** 8 hrs/month across 5 brands = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
 - **Error prevention:** Avoids costly brand mistakes and SEO gaps
 - **Secondary benefit:** Website Manager freed from routine checking; can focus on strategy
 

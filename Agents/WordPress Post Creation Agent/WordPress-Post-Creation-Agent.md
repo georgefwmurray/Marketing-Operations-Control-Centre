@@ -1,11 +1,11 @@
 ---
-title: "WordPress Post Creation Agent: 20 Hours a Month Saved"
-description: "Turns finished HTML content into WordPress posts automatically using Power Automate, SharePoint and ClickUp, saving 20 hours a month across five brand sites."
+title: "WordPress Post Creation Agent: 12 Hours a Month Saved"
+description: "Turns finished HTML content into WordPress posts automatically using Power Automate, SharePoint and ClickUp, saving 12 hours a month across five brand sites."
 ---
 
 # WordPress Post Creation Agent
 
-Key Result: 20 hours/month saved via automation
+Key Result: 12 hours/month saved via automation
 Layer: Production
 Problem: Manual WordPress Post Creation
 Status: Live
@@ -41,12 +41,12 @@ The WordPress Post Creation Agent takes HTML output (including content produced 
 - Removed manual WordPress post creation from the content pipeline
 - Automated brand/site identification, reducing risk of publishing to the wrong website
 - Retained a human review and publish step via a ClickUp ticket to the Web team
-- Saved approximately **20 hours per month**
+- Saved approximately **12 hours per month**
 - Completes the automated pipeline from brief through to publish-ready WordPress post
 
 ### Cost Savings
 
-- **Time reclaimed:** 20 hrs/month = **£24,000/year**
+- **Time reclaimed:** 12 hrs/month = £300/month = **£3,600/year** at the MOCC's illustrative £25/hour rate
 - **Secondary benefit:** Developers freed from routine posting work; can focus on feature development
 
 ## Version History

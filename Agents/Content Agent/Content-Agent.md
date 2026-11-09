@@ -49,7 +49,7 @@ The Content Agent is briefed either via Semrush AEO recommendations or directly 
 ### Cost Savings
 
 - **Direct agency spend reduction:** £10k/month = **£120,000/year**
-- **Time reclaimed:** 24 hrs/month (content QA + coordination) = £2,400/month
+- **Time reclaimed:** 15 hrs/month (content QA + coordination) = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate
 - **Secondary benefit:** In-house content capability created; team no longer dependent on external vendor
 
 ## Version History

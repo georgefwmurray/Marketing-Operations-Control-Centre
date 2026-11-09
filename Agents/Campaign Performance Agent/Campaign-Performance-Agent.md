@@ -46,7 +46,7 @@ The Campaign Performance Agent runs weekly across campaigns started in the last 
 
 ### Cost Savings
 
-- **Time reclaimed:** 6 hrs/month = **£7,200/year**
+- **Time reclaimed:** 2 hrs/month = £50/month = **£600/year** at the MOCC's illustrative £25/hour rate
 - **Secondary benefit:** More data-driven campaign decisions; faster optimization cycles
 
 ## Version History
