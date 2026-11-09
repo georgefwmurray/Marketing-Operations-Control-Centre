@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://georgefwmurray.github.io/Marketing-Operations-Control-Centre/sitemap.xml
+Sitemap: https://georgemurray.co.uk/sitemap.xml
