@@ -278,3 +278,36 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
   color:#40514e; font-size:.82rem;
 }
 .detail-content--agent > p:nth-of-type(5) { display:none; }
+
+
+/* Final polish for agent detail pages and registry navigation. */
+.detail-content--agent h1 { display:none !important; }
+.detail-content--agent > p:has(a[href*="index.html"]) { display:none !important; }
+
+.agent-card {
+  display:flex;
+  flex-direction:column;
+  position:relative;
+  transition:border-color .18s ease, box-shadow .18s ease, transform .18s ease;
+}
+.agent-card:hover {
+  border-color:#9bb9ae;
+  box-shadow:0 10px 28px rgba(28,45,40,.08);
+  transform:translateY(-2px);
+}
+.agent-card h3 a:focus-visible,
+.agent-card-cta:focus-visible { outline:3px solid var(--accent); outline-offset:4px; }
+.agent-card-cta {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  margin-top:auto;
+  padding-top:1rem;
+  color:var(--accent-dark);
+  font-size:.84rem;
+  font-weight:700;
+  text-decoration:none;
+}
+.agent-card-cta span { font-size:1.15rem; transition:transform .18s ease; }
+.agent-card:hover .agent-card-cta span { transform:translateX(4px); }
