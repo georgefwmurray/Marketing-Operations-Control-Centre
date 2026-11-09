@@ -1,6 +1,6 @@
 ---
 title: "HubSpot Expert in South Wales: AI Marketing Operations"
-description: "George Murray is a HubSpot marketing operations expert based in South Wales, building AI agent systems that run across 5 brands and save 74+ hours a month."
+description: "George Murray is a HubSpot marketing operations expert based in South Wales, building AI agent systems that run across 5 brands and save 135 hours a month."
 ---
 
 # HubSpot Expert in South Wales
@@ -9,7 +9,7 @@ description: "George Murray is a HubSpot marketing operations expert based in So
 
 ---
 
-I'm a HubSpot marketing operations specialist based in South Wales. I design, build and run AI agent systems on HubSpot that automate quality assurance, campaign delivery, data imports, performance reporting and governance. The system I built, MOCC, runs 11 live agents across 5 brands and reclaims 74+ hours of manual work a month, worth £247,000 in annual savings in Year 1.
+I'm a HubSpot marketing operations specialist based in South Wales. I design, build and run AI agent systems on HubSpot that automate quality assurance, campaign delivery, data imports, performance reporting and governance. The system I built, MOCC, runs 11 live agents across 5 brands and reclaims 135 hours of manual work a month. At an illustrative £25/hour, that capacity is valued at £40,500 annually; alongside confirmed agency and technology savings and estimated risk reduction, the MOCC identifies £198,700 in annual value.
 
 ## What a HubSpot marketing operations expert does
 
@@ -23,7 +23,7 @@ I lead a team of 4 direct reports as the centralised digital operations function
 
 ## Results in HubSpot and marketing operations
 
-- **11 live AI agents** across 5 brands, saving 74+ hours a month: [Agent Registry](Agent-Registry.html) and [Results](Results.html)
+- **11 live AI agents** across 5 brands, saving 135 hours a month: [Agent Registry](Agent-Registry.html) and [Results](Results.html)
 - **32% shorter lead-to-sale cycle** (11 days to 7.5 days), 2026: [MQL Acceleration Campaign](Campaign%20%26%20Commercial%20Projects/MQL-Acceleration-Campaign.html)
 - **Day-one contact rate up from 32% to 87%**, 2026: [ResponseIQ Telephony Integration](Campaign%20%26%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html)
 - **63% more leads** from a pricing page, 2026: [Pricing Page UX Test](Campaign%20%26%20Commercial%20Projects/Pricing-Page-UX-Test.html)
