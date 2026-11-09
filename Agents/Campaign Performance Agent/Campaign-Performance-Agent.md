@@ -14,17 +14,17 @@ Status: Live
 
 ---
 
-**Layer:** 📈 Intelligence — Performance Insight  
+**Layer:** Intelligence — Performance Insight 
 
-**Status:** 🟢 Live  
+**Status:** Live 
 
-**Platform:** Claude Cowork · Claude/HubSpot MCP Actions  
+**Platform:** Claude Cowork · Claude/HubSpot MCP Actions 
 
-**Deployment:** Veriforce — 5 brands  
+**Deployment:** Veriforce — 5 brands 
 
-**Last updated:** September 2026  
+**Last updated:** September 2026 
 
-**Version:** 2.0  
+**Version:** 2.0 
 
 ## Business Problem
 

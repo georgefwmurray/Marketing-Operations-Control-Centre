@@ -14,9 +14,9 @@ Status: Live
 
 ---
 
-**Layer:** ⚙️ Governance
+**Layer:** Governance
 
-**Status:** 🟢Live
+**Status:** Live
 
 **Platform:** Microsoft Copilot Studio • SharePoint • Microsoft Teams • Outlook
 

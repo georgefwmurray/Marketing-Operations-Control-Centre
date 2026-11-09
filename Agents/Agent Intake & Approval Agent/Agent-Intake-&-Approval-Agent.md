@@ -14,15 +14,15 @@ Status: Live
 
 ---
 
-**Layer:** ⚙️ Governance  
+**Layer:** Governance 
 
-**Status:** 🟢Live
+**Status:** Live
 
 **Platform:** Microsoft Copilot Studio • Microsoft Teams • SharePoint
 
-**Deployment:** Veriforce — all agent requests  
+**Deployment:** Veriforce — all agent requests 
 
-**Last updated:** October 2026  
+**Last updated:** October 2026 
 
 ## Business Problem
 

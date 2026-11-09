@@ -9,31 +9,84 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% assign page_absolute_url = page.url | absolute_url %}
+  {% assign page_schema_type = 'WebPage' %}
+  {% if page.url == '/' or page.url == '/about/' %}
+    {% assign page_schema_type = 'ProfilePage' %}
+  {% endif %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "George Murray",
-    "url": "{{ site.url }}",
-    "jobTitle": "Marketing Operations, Technology and AI Leader",
-    "description": "Marketing operations and technology leader specialising in HubSpot, MarTech, AI-enabled operations, automation, governance and measurable commercial transformation.",
-    "sameAs": [
-      "https://www.linkedin.com/in/georgefwmurray/"
-    ],
-    "knowsAbout": [
-      "Marketing operations",
-      "Marketing technology",
-      "HubSpot",
-      "CRM strategy",
-      "Marketing automation",
-      "AI agents",
-      "AI governance",
-      "Business process automation",
-      "Marketing operations leadership",
-      "Digital transformation"
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "{{ site.url }}/#person",
+        "name": "George Murray",
+        "url": "{{ site.url }}/",
+        "jobTitle": "Marketing Operations and Technology Leader",
+        "description": "Marketing operations leader with experience in marketing technology, HubSpot, multi-brand operations, team leadership and AI transformation.",
+        "sameAs": [
+          "https://www.linkedin.com/in/georgefwmurray/"
+        ],
+        "knowsAbout": [
+          "Marketing operations leadership",
+          "Marketing technology",
+          "HubSpot",
+          "CRM strategy",
+          "Marketing automation",
+          "AI agent design and governance",
+          "Business process automation",
+          "Multi-brand marketing operations",
+          "Digital transformation"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "{{ site.url }}/#website",
+        "url": "{{ site.url }}/",
+        "name": {{ site.title | jsonify }},
+        "inLanguage": "en-GB",
+        "publisher": { "@id": "{{ site.url }}/#person" }
+      },
+      {
+        "@type": "{{ page_schema_type }}",
+        "@id": "{{ page_absolute_url }}#webpage",
+        "url": "{{ page_absolute_url }}",
+        "name": {{ page.title | jsonify }},
+        "description": {{ page.description | default: site.description | jsonify }},
+        "isPartOf": { "@id": "{{ site.url }}/#website" },
+        "about": { "@id": "{{ site.url }}/#person" },
+        "mainEntity": { "@id": "{{ site.url }}/#person" },
+        "inLanguage": "en-GB"
+      }
     ]
   }
   </script>
+  {% if page.path contains 'Agents/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 2, "name": "Agent Registry", "item": "{{ site.url }}/Agent-Registry.html" },
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }}, "item": "{{ page_absolute_url }}" }
+    ]
+  }
+  </script>
+  {% elsif page.path contains 'Campaign & Commercial Projects/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 2, "name": "Selected Projects", "item": "{{ site.url }}/Campaign-Commercial-Projects.html" },
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }}, "item": "{{ page_absolute_url }}" }
+    ]
+  }
+  </script>
+  {% endif %}
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -73,7 +126,7 @@
   </main>
   <footer class="site-footer">
     <div class="footer-inner">
-      <span>George Murray · Marketing Operations, Technology & AI</span>
+      <span>George Murray · Marketing Operations and Technology</span>
       <a href="mailto:georgefwmurray@gmail.com">Get in touch ↗</a>
     </div>
   </footer>
