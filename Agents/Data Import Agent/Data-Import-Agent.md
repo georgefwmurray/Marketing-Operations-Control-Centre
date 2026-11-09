@@ -58,8 +58,8 @@ The Data Import Agent standardises XLS preparation and ingestion. It converts an
 
 ### Cost Savings
 
-- **Time reclaimed:** 15 hrs/month = £1,500/month = **£18,000/year**
-- **Error reduction:** Prevents CRM data quality issues (estimated cost of bad data: £5k/incident × ~2 incidents/year prevented = £10k)
+- **Time reclaimed:** 15 hrs/month = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate
+- **Error reduction:** Helps prevent CRM data-quality issues. The estimated £10k annual impact avoided (based on an assumed £5k per incident and around two incidents prevented) is a separate risk-avoidance estimate, not hourly capacity value
 - **Secondary benefit:** Data Import Agent is the backbone for all downstream intelligence; ensures all other agents work with clean data
 
 ## Version History
