@@ -46,8 +46,8 @@ The Agent Intake & Approval Agent is a Copilot Studio topic embedded in Teams. I
 
 ### Cost Savings
 
-- **Prevented rework:** ~20% of pre-system requests were duplicates = est. 40 hrs prevented = **£4,800/year**
-- **Governance value:** Every build is intentional + tracked; easy to audit for compliance
+- **Time reclaimed:** 3 hrs/month = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate
+- **Governance value:** Every build is intentional and tracked, creating an auditable approval trail and helping prevent overlapping builds
 
 ## Design Insights
 
