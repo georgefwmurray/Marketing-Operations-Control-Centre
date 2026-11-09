@@ -44,7 +44,7 @@
         "@type": "WebSite",
         "@id": "{{ site.url }}/#website",
         "url": "{{ site.url }}/",
-        "name": "{{ site.title | escape }}",
+        "name": {{ site.title | jsonify }},
         "inLanguage": "en-GB",
         "publisher": { "@id": "{{ site.url }}/#person" }
       },
