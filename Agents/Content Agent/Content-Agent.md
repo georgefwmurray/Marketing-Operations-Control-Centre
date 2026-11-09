@@ -14,15 +14,15 @@ Status: Live
 
 ---
 
-**Layer:** 🏗️ Production — Content Delivery  
+**Layer:** Production — Content Delivery 
 
-**Status:** 🟢 Live  
+**Status:** Live 
 
-**Platform:** Semrush AEO · Claude · Human Sign-off · Copilot Studio (HTML conversion) · SharePoint  
+**Platform:** Semrush AEO · Claude · Human Sign-off · Copilot Studio (HTML conversion) · SharePoint 
 
-**Deployment:** Veriforce — 5 brands  
+**Deployment:** Veriforce — 5 brands 
 
-**Last updated:** September 2026  
+**Last updated:** September 2026 
 
 **Version:** 1.2
 
