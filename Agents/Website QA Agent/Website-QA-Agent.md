@@ -14,17 +14,17 @@ Status: Live
 
 ---
 
-**Layer:** 🛡️ Control — Quality Assurance  
+**Layer:** Control — Quality Assurance 
 
-**Status:** 🟢 Live  
+**Status:** Live 
 
-**Platform:** Microsoft Copilot Studio · Power Automate · Microsoft Teams · Website/CMS  
+**Platform:** Microsoft Copilot Studio · Power Automate · Microsoft Teams · Website/CMS 
 
-**Deployment:** Veriforce — 5 brands  
+**Deployment:** Veriforce — 5 brands 
 
-**Last updated:** July 2026  
+**Last updated:** July 2026 
 
-**Version:** 1.2  
+**Version:** 1.2 
 
 ## Business Problem
 
