@@ -46,8 +46,9 @@ The Agent Health Monitor picks up where the Agent Intake & Approval Agent leaves
 
 ### Cost Savings
 
-- **Operational impact:** Prevents 1–2 missed reports/month (each potentially causing stakeholder escalation) = est. **£3k–5k impact avoided**
-- **Reliability value:** Enables team to trust agents for mission-critical daily/weekly tasks
+- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
+- **Operational impact:** Helps prevent 1–2 missed reports/month, reducing the risk of stakeholder escalation; estimated impact avoided remains a separate, non-cash reliability benefit
+- **Reliability value:** Enables the team to trust agents for mission-critical daily/weekly tasks
 
 ## Version History
 
