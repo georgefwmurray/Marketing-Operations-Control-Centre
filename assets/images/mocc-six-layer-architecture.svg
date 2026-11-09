@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Marketing Operations Control Centre six-layer architecture</title>
+  <desc id="desc">Six connected operating layers: Control, Production, Data, Intelligence, Governance and Knowledge.</desc>
+  <defs>
+    <style>
+      .card{fill:#f6f5f1;stroke:#dfe2df;stroke-width:2}
+      .number{font:700 15px 'DM Sans',Arial,sans-serif;letter-spacing:2px;fill:#176b67}
+      .heading{font:700 24px 'Manrope',Arial,sans-serif;fill:#17212b}
+      .sub{font:400 15px 'DM Sans',Arial,sans-serif;fill:#5d6873}
+      .link{stroke:#9bb7ae;stroke-width:3;stroke-linecap:round}
+      .dot{fill:#176b67}
+    </style>
+  </defs>
+  <rect width="1200" height="350" rx="12" fill="#ffffff"/>
+  <g class="link" fill="none">
+    <path d="M195 155H205 M395 155H405 M595 155H605 M795 155H805 M995 155H1005"/>
+    <path d="M195 175H1005" opacity=".25"/>
+  </g>
+  <g transform="translate(25 55)">
+    <rect class="card" width="170" height="200" rx="9"/>
+    <text class="number" x="20" y="36">01 / CONTROL</text>
+    <text class="heading" x="20" y="83">Quality</text>
+    <text class="heading" x="20" y="113">assurance</text>
+    <text class="sub" x="20" y="157">Check before</text>
+    <text class="sub" x="20" y="179">customer impact</text>
+    <circle class="dot" cx="145" cy="25" r="5"/>
+  </g>
+  <g transform="translate(225 55)">
+    <rect class="card" width="170" height="200" rx="9"/>
+    <text class="number" x="20" y="36">02 / PRODUCTION</text>
+    <text class="heading" x="20" y="83">Content &amp;</text>
+    <text class="heading" x="20" y="113">campaigns</text>
+    <text class="sub" x="20" y="157">Create and</text>
+    <text class="sub" x="20" y="179">deliver at scale</text>
+    <circle class="dot" cx="145" cy="25" r="5"/>
+  </g>
+  <g transform="translate(425 55)">
+    <rect class="card" width="170" height="200" rx="9"/>
+    <text class="number" x="20" y="36">03 / DATA</text>
+    <text class="heading" x="20" y="83">Reliable</text>
+    <text class="heading" x="20" y="113">data</text>
+    <text class="sub" x="20" y="157">Prepare and</text>
+    <text class="sub" x="20" y="179">standardise</text>
+    <circle class="dot" cx="145" cy="25" r="5"/>
+  </g>
+  <g transform="translate(625 55)">
+    <rect class="card" width="170" height="200" rx="9"/>
+    <text class="number" x="20" y="36">04 / INTELLIGENCE</text>
+    <text class="heading" x="20" y="83">Performance</text>
+    <text class="heading" x="20" y="113">insight</text>
+    <text class="sub" x="20" y="157">Find signals</text>
+    <text class="sub" x="20" y="179">and actions</text>
+    <circle class="dot" cx="145" cy="25" r="5"/>
+  </g>
+  <g transform="translate(825 55)">
+    <rect class="card" width="170" height="200" rx="9"/>
+    <text class="number" x="20" y="36">05 / GOVERNANCE</text>
+    <text class="heading" x="20" y="83">Automation</text>
+    <text class="heading" x="20" y="113">oversight</text>
+    <text class="sub" x="20" y="157">Own, approve</text>
+    <text class="sub" x="20" y="179">and monitor</text>
+    <circle class="dot" cx="145" cy="25" r="5"/>
+  </g>
+  <g transform="translate(1025 55)">
+    <rect class="card" width="150" height="200" rx="9" stroke-dasharray="7 6"/>
+    <text class="number" x="17" y="36">06 / KNOWLEDGE</text>
+    <text class="heading" x="17" y="83">System</text>
+    <text class="heading" x="17" y="113">memory</text>
+    <text class="sub" x="17" y="157">Document and</text>
+    <text class="sub" x="17" y="179">reuse learning</text>
+    <text x="17" y="222" font="700 11px 'DM Sans',Arial,sans-serif" fill="#76663c">IN PLANNING</text>
+  </g>
+  <text x="600" y="310" text-anchor="middle" font="600 14px 'DM Sans',Arial,sans-serif" fill="#5d6873">A governed operating system: quality · delivery · data · insight · oversight · knowledge</text>
+</svg>
