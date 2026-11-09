@@ -1,22 +1,22 @@
 ---
 title: "Campaign Build Agent: 6 Hours Saved a Month"
-description: "Claude Cowork agent that clones and updates HubSpot campaign assets through Claude/HubSpot MCP actions, saving 60 minutes per campaign build."
+description: "Claude Cowork workflow that clones and updates HubSpot campaign assets, saving about an hour of manual work per build and around six hours a month at current deployment volume."
 ---
 
 # Campaign Build Agent
 
-Key Result: 60 minutes saved per campaign build
+Key Result: Around six hours saved each month
 Layer: Production
-Problem: Manual Campaign Cloning & Asset Updates
+Problem: Manual Campaign Cloning and Asset Updates
 Status: Live
 
 [Home](../../index.html) • [Agent Registry](../../Agent-Registry.html) • [Results](../../Results.html) • [Roadmap](../../Roadmap.html) • [Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../../Leadership-%26-Strategy.html) • [How to Build MOCC](../../How-to-Build.html) • [HubSpot Expert in South Wales](../../HubSpot-Expert-South-Wales.html)
 
 ---
 
-**Layer:** 🏗️ Production — Campaign Delivery  
+**Layer:** Production — Campaign Delivery
 
-**Status:** 🟢 Live
+**Status:** Live
 
 **Platform:** Claude Cowork · Claude Skill · Claude/HubSpot MCP Actions
 
@@ -28,25 +28,28 @@ Status: Live
 
 ## Business Problem
 
-Building a new campaign from an existing template required manually cloning each asset (email, landing page, workflow) and updating them one by one with new creative, logos, videos, and copy, then rebuilding the workflow logic each time. This was repetitive and time-consuming for every new campaign launch.
+Building a campaign from an existing template meant cloning the email, landing page and workflow, then replacing the copy and creative assets and checking the workflow logic. Each launch involved a similar set of manual steps.
 
 ## Solution Overview
 
-Using Claude Cowork alongside Claude/HubSpot MCP actions, the agent clones an existing campaign template (email, landing page and workflow) and updates it with newly provided assets (logos, videos, copy), producing a fully built new campaign ready for review, removing the manual cloning and asset-swapping work previously done by hand. The build runs as a Claude Skill following a strict, repeatable process for onboarding campaigns: about 10 minutes of agent time followed by about 20 minutes of human QA.
+The workflow uses Claude Cowork and HubSpot MCP actions to copy an existing campaign template and update it with the supplied logos, videos and copy. It follows a repeatable Claude Skill process for onboarding campaigns.
+
+The agent takes about 10 minutes to complete its part of the build. A person then spends around 20 minutes checking the work before it is ready to use.
 
 ![Flow diagram: Claude Cowork and Claude/HubSpot MCP actions clone the email, landing page and workflow for a new campaign, apply new assets, send a test email, then human QA](Flow_CampaignBuild.svg)
 
 ## Business Value
 
-- Saves approximately **60 minutes of manual execution time per campaign** (about 30 minutes with the agent and human QA, versus about 90 minutes manually), around 6 hours per month at the current campaign volume
-- Removes repetitive manual cloning and asset-swapping work
-- Speeds up campaign delivery time
-- Reduces risk of manual copy/paste errors when rebuilding assets
+- Saves about **60 minutes of manual work per campaign build**
+- Reclaims around **6 hours each month** at the current deployment volume
+- Removes repeated cloning and asset-swapping tasks
+- Leaves a human review step before the campaign is used
+- Reduces the chance of copy and asset errors when rebuilding campaigns
 
 ### Cost Savings
 
-- **Time reclaimed (current live deployment):** 6 hrs/month = £150/month = **£1,800/year** at the MOCC's illustrative £25/hour rate
-- **Secondary benefit:** Standardizes campaign quality across brands; reduces approval cycles
+- **Time reclaimed:** 6 hrs/month = £150/month = **£1,800/year** at the MOCC's illustrative £25/hour rate
+- **Secondary benefit:** Campaign builds follow the same sequence and review process
 
 ## Version History
 
@@ -57,7 +60,7 @@ Using Claude Cowork alongside Claude/HubSpot MCP actions, the agent clones an ex
 
 ## Design Insights
 
-Building this on Claude Cowork with HubSpot MCP actions meant the same underlying architecture used for read-only insight generation (Campaign Performance Agent) could be extended into write/create actions, cloning and updating live campaign assets directly rather than needing separate bespoke automation for each asset type.
+The same HubSpot actions used for campaign reporting can also create and update campaign assets. Keeping the process in one workflow avoids separate manual steps for each asset type, while the human check remains part of the handover.
 
 ---
 
@@ -72,5 +75,4 @@ Building this on Claude Cowork with HubSpot MCP actions meant the same underlyin
 - [Campaign Performance Agent](../Campaign%20Performance%20Agent/Campaign-Performance-Agent.html)
 - [Content Agent](../Content%20Agent/Content-Agent.html)
 - [WordPress Post Creation Agent](../WordPress%20Post%20Creation%20Agent/WordPress-Post-Creation-Agent.html)
-
 - [Agent Health Monitor](../Agent%20Health%20Monitor/Agent-Health-Monitor.html)
