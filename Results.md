@@ -1,6 +1,6 @@
 ---
 title: "Results: HubSpot AI Marketing Operations Impact"
-description: "Measured impact from the Marketing Operations Control Centre: 11 live agents, 74+ hours of monthly capacity released and £247,000 in annual value identified."
+description: "Measured impact from the Marketing Operations Control Centre: 11 live agents, 74+ hours of monthly capacity released and £180,400 in annual value identified."
 ---
 
 <div class="page-hero">
@@ -11,7 +11,7 @@ description: "Measured impact from the Marketing Operations Control Centre: 11 l
 </div>
 
 <div class="stat-grid stat-grid--four">
-  <div class="stat-card stat-card--feature"><strong>£247k</strong><span>Annual value identified</span></div>
+  <div class="stat-card stat-card--feature"><strong>£180.4k</strong><span>Annual value identified</span></div>
   <div class="stat-card"><strong>74+</strong><span>Hours of capacity released each month</span></div>
   <div class="stat-card"><strong>300+</strong><span>Governance records generated</span></div>
   <div class="stat-card"><strong>20+</strong><span>Marketing users supported</span></div>
@@ -21,17 +21,17 @@ description: "Measured impact from the Marketing Operations Control Centre: 11 l
   <div class="section-heading">
     <p class="eyebrow">Where the value comes from</p>
     <h2>Five sources of operational value</h2>
-    <p>The annual value model combines released team capacity, reduced external spend, retired technology and avoided operational friction. It is an identified-value estimate, not a claim that every pound is a direct cash saving.</p>
+    <p>The annual value model combines released team capacity, confirmed agency spend reduction, attributed technology savings and estimated avoided operational friction. It is an identified-value estimate, not a claim that every pound is a direct cash saving.</p>
   </div>
   <div class="impact-list">
-    <div class="impact-row"><div class="impact-copy"><h3>Team capacity released</h3><p>74 hours per month modelled at £100 per hour.</p></div><strong>£88,800</strong><div class="impact-track"><span style="width:36%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:49%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>MarTech rationalisation</h3><p>Value attributed to retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:6%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>Rework prevention</h3><p>Estimated value of fewer avoidable errors and repeat tasks.</p></div><strong>£4,800</strong><div class="impact-track"><span style="width:2%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>Compliance and reliability</h3><p>Estimated value of more consistent controls and fewer operational failures.</p></div><strong>~£19,400</strong><div class="impact-track"><span style="width:8%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>Team capacity released</h3><p>74 hours per month modelled at £25 per hour (£22,200 annualised).</p></div><strong>£22,200</strong><div class="impact-track"><span style="width:12.3%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:66.5%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>MarTech rationalisation</h3><p>Modelled value attributed to retiring five tools; confirm the realised saving before treating it as cash released.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:7.8%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>Rework prevention</h3><p>Estimated value of fewer avoidable errors and repeat tasks.</p></div><strong>£4,800</strong><div class="impact-track"><span style="width:2.7%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>Compliance and reliability</h3><p>Estimated value of more consistent controls and fewer operational failures.</p></div><strong>~£19,400</strong><div class="impact-track"><span style="width:10.8%"></span></div></div>
   </div>
-  <div class="total-value"><span>Total annual value identified</span><strong>£247,000</strong></div>
-  <p class="small-note">Figures are based on the current MOCC value model. Capacity value, cost reduction and risk/reliability estimates are different value categories and should not be interpreted as equivalent cash savings.</p>
+  <div class="total-value"><span>Total annual value identified</span><strong>£180,400</strong></div>
+  <p class="small-note">Figures are based on the current MOCC value model. Team capacity is valued at an illustrative £25/hour. Rework prevention and compliance/reliability are estimates; the £14,000 MarTech figure remains attributed to five retired tools and should be checked before treating it as a confirmed saving. These categories should not be interpreted as equivalent cash savings.</p>
 </section>
 
 <section class="content-section">
@@ -40,7 +40,7 @@ description: "Measured impact from the Marketing Operations Control Centre: 11 l
     <h2>What the system changes day to day</h2>
   </div>
   <div class="outcome-grid">
-    <article class="outcome-card"><span class="outcome-number">01</span><h3>More capacity for higher-value work</h3><p>Recurring data preparation, QA checks, content production steps and reporting are handled through repeatable workflows, releasing more than 74 hours each month.</p></article>
+    <article class="outcome-card"><span class="outcome-number">01</span><h3>More capacity for higher-value work</h3><p>Recurring data preparation, QA checks, content production steps and reporting are handled through repeatable workflows, releasing more than 74 hours each month, valued at £25 per hour in the annual model.</p></article>
     <article class="outcome-card"><span class="outcome-number">02</span><h3>More consistent quality</h3><p>Email and website work is checked against standard criteria, with findings shared with owners and retained as an audit record.</p></article>
     <article class="outcome-card"><span class="outcome-number">03</span><h3>Governance that scales</h3><p>Requests, approvals, ownership, risk and review dates are part of the operating model rather than informal knowledge held by individuals.</p></article>
     <article class="outcome-card"><span class="outcome-number">04</span><h3>Lower external production cost</h3><p>Automated first-draft content workflows have helped reduce external content agency spend from £20,000 to £10,000 per month.</p></article>
