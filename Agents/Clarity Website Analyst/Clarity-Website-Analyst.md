@@ -47,7 +47,7 @@ Copilot Studio then reads this list with two agents:
 
 ## Business Value
 
-- Saves approximately **10 hours per month**
+- Saves approximately **3 hours per month**
 - Builds a long-term behavioural dataset beyond Clarity's 3-day window, enabling 90-day rolling trends
 - Surfaces UX friction per URL, such as rage clicks, dead clicks, scroll depth and time on page
 - Flags anomalies in a weekly report, so issues are spotted without manually checking dashboards
@@ -56,7 +56,7 @@ Copilot Studio then reads this list with two agents:
 
 ### Cost Savings
 
-- **Time reclaimed:** 10 hrs/month (data collection + manual analysis) = **£12,000/year**
+- **Time reclaimed:** 3 hrs/month (data collection + manual analysis) = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate
 - **Secondary benefit:** CRO decisions are now data-driven vs. gut-feel; faster conversion optimization
 
 ## Version History
