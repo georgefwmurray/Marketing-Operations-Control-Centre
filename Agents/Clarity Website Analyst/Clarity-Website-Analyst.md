@@ -14,17 +14,17 @@ Status: Live
 
 ---
 
-**Layer:** 📈 Intelligence — Website Insight  
+**Layer:** Intelligence — Website Insight 
 
-**Status:** 🟢 Live  
+**Status:** Live 
 
-**Platform:** Microsoft Clarity API · Power Automate · SharePoint · Microsoft Copilot Studio  
+**Platform:** Microsoft Clarity API · Power Automate · SharePoint · Microsoft Copilot Studio 
 
-**Deployment:** Veriforce — 5 brands  
+**Deployment:** Veriforce — 5 brands 
 
-**Last updated:** October 2026  
+**Last updated:** October 2026 
 
-**Version:** v1.0  
+**Version:** v1.0 
 
 ## Business Problem
 
