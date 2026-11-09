@@ -14,19 +14,19 @@ Layer: Data
 Problem: Manual SSRS Report Ingestion
 Status: Live
 
-[🏠 Home](../../index.html) · [🧩 Agent Registry](../../Agent-Registry.html) · [📈 Results](../../Results.html) · [🗺️ Roadmap](../../Roadmap.html) · [💼 Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) · [👥 Leadership & Strategy](../../Leadership-%26-Strategy.html) · [🔧 How to Build MOCC](../../How-to-Build.html) · 
+[ Home](../../index.html) · [ Agent Registry](../../Agent-Registry.html) · [ Results](../../Results.html) · [ Roadmap](../../Roadmap.html) · [ Campaign & Commercial Projects](../../Campaign-Commercial-Projects.html) · [ Leadership & Strategy](../../Leadership-%26-Strategy.html) · [ How to Build MOCC](../../How-to-Build.html) · 
 
 ---
 
-**Layer:** 🗄️ Data  
+**Layer:** Data 
 
-**Status:** 🟢Live
+**Status:** Live
 
 **Platform:** Microsoft Outlook • Power Automate • SharePoint • HubSpot CRM • HubSpot Import API
 
-**Deployment:** Veriforce — all brands and products  
+**Deployment:** Veriforce — all brands and products 
 
-**Last updated:** September 2026  
+**Last updated:** September 2026 
 
 **Version:** 1.4
 
