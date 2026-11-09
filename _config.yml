@@ -9,14 +9,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Apply the shared layout to every page that does not specify its own.
+# The agent and project detail pages are nested in directories, so a
+# site-wide page default is more reliable than directory-specific scopes.
 defaults:
   - scope:
-      path: "Agents"
-      type: pages
-    values:
-      layout: default
-  - scope:
-      path: "Campaign & Commercial Projects"
+      path: ""
       type: pages
     values:
       layout: default
