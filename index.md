@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "George Murray | Marketing Operations, Technology & AI Leader"
-description: "George Murray is a marketing operations and technology leader specialising in HubSpot, AI-enabled operations, automation, governance and measurable commercial transformation."
+title: "George Murray | Marketing Operations and Technology Leader"
+description: "George Murray is a marketing operations and technology leader with experience in MarTech, HubSpot, multi-brand operations, team leadership and AI transformation."
 ---
 
 <section class="hero">
   <p class="eyebrow">Marketing Operations · Technology · AI Transformation</p>
-  <h1>Building the operating systems behind better marketing.</h1>
-  <p class="lead">I'm George Murray, a marketing operations and technology leader. I bring people, platforms and intelligent automation together to make complex marketing functions more effective, scalable and accountable.</p>
+  <h1>I build and lead the systems that make marketing work better.</h1>
+  <p class="lead">I'm George Murray. I lead marketing operations, technology and change across teams and platforms — making marketing delivery more effective, consistent and accountable.</p>
   <div class="hero-meta">
     <span>South Wales, UK</span>
     <span>Team and platform leadership</span>
@@ -26,40 +26,40 @@ description: "George Murray is a marketing operations and technology leader spec
 </section>
 
 <section class="section" id="leadership">
-  <p class="eyebrow">Leadership approach</p>
+  <p class="eyebrow">Leadership</p>
   <div class="split">
     <div>
-      <h2>Strategic thinking, operational grip, practical delivery.</h2>
+      <h2>Strategy, platforms and delivery.</h2>
     </div>
     <div class="prose">
-      <p>I work at the intersection of marketing, technology and business operations: setting direction, owning platforms, improving how teams deliver, and translating technical change into outcomes that matter to the organisation.</p>
-      <p>My approach is deliberately pragmatic. Understand the operating problem first, choose the right mix of process, people and technology, then build governance and capability so improvements last beyond the initial project.</p>
+      <p>I work across marketing, commercial teams and technology: setting priorities, owning platforms, improving processes and helping teams deliver change.</p>
+      <p>My focus is on making the function work better. That means clear ownership, reliable data, sensible governance and technology that solves a real operating problem.</p>
     </div>
   </div>
   <div class="cards">
-    <article class="card"><p class="kicker">01 / Function</p><h3>Marketing operations</h3><p>Operating models, workflow design, campaign delivery, data quality, service management and continuous improvement.</p></article>
-    <article class="card"><p class="kicker">02 / Platforms</p><h3>MarTech & CRM</h3><p>HubSpot ownership, platform migration, integrations, architecture, lifecycle processes and technology investment decisions.</p></article>
-    <article class="card"><p class="kicker">03 / Transformation</p><h3>AI & automation</h3><p>Applied AI agents, intelligent automation, human oversight, governance and responsible adoption at team scale.</p></article>
+    <article class="card"><p class="kicker">01 / Function</p><h3>Marketing operations</h3><p>Operating models, campaign delivery, workflow design, service standards, quality assurance and continuous improvement.</p></article>
+    <article class="card"><p class="kicker">02 / Platforms</p><h3>MarTech and CRM</h3><p>HubSpot ownership, platform migration, integrations, lifecycle processes, data quality and technology decisions.</p></article>
+    <article class="card"><p class="kicker">03 / Transformation</p><h3>AI and automation</h3><p>Agent design, workflow automation, governance, human review and adoption across marketing teams.</p></article>
   </div>
 </section>
 
 <section class="section" id="work">
   <p class="eyebrow">Selected work</p>
-  <h2>Turning operational complexity into measurable progress.</h2>
-  <p class="section-intro">A selection of programmes that demonstrate how I lead change across platforms, processes and teams.</p>
+  <h2>Examples of programmes I've led.</h2>
+  <p class="section-intro">A selection of work across marketing platforms, operating processes and commercial performance.</p>
   <div class="cards">
-    <article class="card"><p class="kicker">AI operating model</p><h3>Marketing Operations Control Centre</h3><p>Designed and piloted an AI-agent operating model, then led its rollout across five brands. Eleven agents support quality, production, data, insight and governance.</p><p class="section-cta"><a href="Agent-Registry.html">Explore the agent registry ↗</a></p></article>
-    <article class="card"><p class="kicker">Platform transformation</p><h3>Enterprise MarTech & CRM</h3><p>HubSpot platform ownership across EMEA and North America, supporting a migration from Salesforce Marketing Cloud and Pardot and aligning stakeholders around a shared operating platform.</p><p class="section-cta"><a href="Leadership-%26-Strategy.html">Leadership and strategy ↗</a></p></article>
-    <article class="card"><p class="kicker">Commercial performance</p><h3>Lifecycle and revenue programmes</h3><p>Delivered improvements across lead management, partner integrations, customer journeys and conversion — including a 32% to 87% increase in day-one contact rate.</p><p class="section-cta"><a href="Campaign-Commercial-Projects.html">View selected projects ↗</a></p></article>
+    <article class="card"><p class="kicker">AI operating model</p><h3>Marketing Operations Control Centre</h3><p>Designed and piloted an agent-based operating model, then led its rollout across five brands. Eleven agents support quality assurance, production, data, reporting and governance.</p><p class="section-cta"><a href="Agent-Registry.html">View the agent registry ↗</a></p></article>
+    <article class="card"><p class="kicker">Platform transformation</p><h3>Enterprise MarTech and CRM</h3><p>HubSpot platform ownership across five brands, including a migration from Salesforce Marketing Cloud and Pardot and support for teams across EMEA and North America.</p><p class="section-cta"><a href="Leadership-%26-Strategy.html">Leadership experience ↗</a></p></article>
+    <article class="card"><p class="kicker">Commercial performance</p><h3>Lifecycle and revenue programmes</h3><p>Work across lead management, partner integrations, customer journeys and conversion, including an increase in day-one contact rate from 32% to 87%.</p><p class="section-cta"><a href="Campaign-Commercial-Projects.html">View selected projects ↗</a></p></article>
   </div>
 </section>
 
 <section class="section" id="impact">
-  <p class="eyebrow">Evidence of impact</p>
+  <p class="eyebrow">Selected outcomes</p>
   <div class="split">
     <div>
-      <h2>Technology is only valuable when the business feels the difference.</h2>
-      <p class="section-intro">I focus on outcomes that can be explained, measured and sustained — not automation for its own sake.</p>
+      <h2>Results with a clear business measure.</h2>
+      <p class="section-intro">I look for improvements that can be explained and measured, whether that is revenue, conversion, capacity, quality or cost.</p>
     </div>
     <ul class="clean-list">
       <li><strong>17% revenue uplift</strong> from an abandoned-cart recovery programme.</li>
@@ -74,11 +74,11 @@ description: "George Murray is a marketing operations and technology leader spec
 <section class="section" id="principles">
   <p class="eyebrow">How I lead</p>
   <div class="split">
-    <div><h2>Build capability. Make change stick.</h2></div>
+    <div><h2>Give teams the tools and clarity to do good work.</h2></div>
     <div class="prose">
-      <p>I believe strong operations functions create leverage for the whole organisation. That means clear ownership, sensible governance, transparent priorities and teams who are trusted to improve the systems they use.</p>
-      <p>With AI, my default is human accountability by design: automate repetitive work, make decisions and exceptions visible, and keep people responsible for quality, risk and outcomes.</p>
-      <div class="callout"><p>I'm interested in senior leadership opportunities where marketing operations, technology and AI transformation are central to the next stage of organisational growth.</p></div>
+      <p>Strong operations depend on clear priorities, good information and people who know what they own. I aim to build those foundations and give teams room to improve how work gets done.</p>
+      <p>When introducing AI, I keep people accountable for quality and decisions. Automation should take out repetitive work, while exceptions, risks and approvals remain visible.</p>
+      <div class="callout"><p>I'm interested in senior leadership opportunities in marketing operations, MarTech and AI transformation.</p></div>
     </div>
   </div>
 </section>
@@ -86,9 +86,9 @@ description: "George Murray is a marketing operations and technology leader spec
 <section class="section" id="contact">
   <p class="eyebrow">Contact</p>
   <div class="split">
-    <div><h2>Let's talk about what comes next.</h2></div>
+    <div><h2>Let's discuss the next challenge.</h2></div>
     <div class="prose">
-      <p>If you're building or evolving a marketing operations, MarTech or AI-enabled function, I'd welcome a conversation.</p>
+      <p>If you're building or changing a marketing operations or technology function, I'd be pleased to hear from you.</p>
       <div class="actions">
         <a class="button primary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
         <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">LinkedIn ↗</a>
