@@ -14,15 +14,15 @@ Status: Live
 
 ---
 
-**Layer:** 🏗️ Production — Publishing Delivery  
+**Layer:** Production — Publishing Delivery 
 
-**Status:** 🟢 Live  
+**Status:** Live 
 
-**Platform:** WordPress (five brand sites) · Power Automate · SharePoint · ClickUp  
+**Platform:** WordPress (five brand sites) · Power Automate · SharePoint · ClickUp 
 
-**Deployment:** Veriforce — live on 5 brands  
+**Deployment:** Veriforce — live on 5 brands 
 
-**Last updated:** October 2026  
+**Last updated:** October 2026 
 
 **Version:** 1.1
 
