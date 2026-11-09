@@ -1,11 +1,11 @@
 ---
-title: "Email QA Agent: 80% Less Manual QA Effort"
-description: "Copilot Studio and Power Automate agent that applies consistent checks to marketing emails, cutting manual QA effort by 80% across 5 brands."
+title: "Email QA Agent: 55 Hours Saved a Month"
+description: "Microsoft Copilot Studio and Power Automate workflow that checks marketing emails before deployment, reclaiming an estimated 55 hours of manual QA time each month across five brands."
 ---
 
 # Email QA Agent
 
-Key Result: 80% reduction in manual QA effort
+Key Result: 55 hours/month of manual QA time reclaimed
 Layer: Control
 Problem: QA Bottlenecks
 Status: Live
@@ -14,13 +14,13 @@ Status: Live
 
 ---
 
-**Layer:** 🛡️ Control — Quality Assurance
+**Layer:** Control — Quality Assurance
 
-**Status:** 🟢 Live
+**Status:** Live
 
 **Platform:** Microsoft Copilot Studio · Power Automate · SharePoint · Microsoft Teams · Marketing Automation Platform
 
-**Deployment:** Veriforce — 5 brands 
+**Deployment:** Veriforce — 5 brands
 
 **Last updated:** June 2026
 
@@ -28,29 +28,31 @@ Status: Live
 
 ## Business Problem
 
-Marketing email QA relied on manual review across multiple stakeholders. Checks varied between reviewers, findings were not centrally recorded, and quality assurance often became a bottleneck before campaign deployment.
+Email quality checks were carried out manually by several people. The checks were not always consistent, findings were recorded in different places and the review could hold up campaign deployment.
 
-The objective was to create a repeatable, auditable and low-friction QA process that could be adopted consistently by the Marketing Operations team.
+The team needed one repeatable process, with a clear record of the checks and issues found.
 
 ## Solution Overview
 
 ![Flow diagram: a test email is forwarded to a shared mailbox, Power Automate extracts the HTML, a Copilot Studio agent runs the QA checklist, posts a report to Teams and logs findings in SharePoint](Flow_EmailQA.svg)
 
-The Email QA Agent automates the pre-send validation of marketing emails by analysing test emails before deployment. A standard test email is forwarded from any marketing automation platform to a shared mailbox, triggering a Power Automate workflow that extracts the HTML and invokes a Microsoft Copilot Studio agent. The resulting QA report is automatically published to Microsoft Teams and recorded in a SharePoint governance log.
+A test email is sent to a shared mailbox. Power Automate extracts the HTML and passes it to a Microsoft Copilot Studio agent, which checks it against the agreed QA criteria. The report is posted to Microsoft Teams and the findings are saved in SharePoint.
+
+The process works with test emails from the marketing automation platform, so the team does not need to learn a separate submission process.
 
 ## Business Value
 
-- Reduced manual QA effort by approximately **80%**
-- Reduced campaign deployment time through automation
-- Established an auditable QA history via SharePoint
-- Standardised quality assurance across all campaigns
-- Increased confidence prior to campaign deployment
+- Reclaimed an estimated **55 hours of manual QA time each month** across five brands
+- Made the checks consistent across campaigns
+- Created a searchable QA history in SharePoint
+- Gave campaign owners a clearer view of issues before deployment
+- Reduced the time spent on routine checklist work
 
 ### Cost Savings
 
 - **Time reclaimed:** 55 hrs/month across 5 brands = £1,375/month = **£16,500/year** at the MOCC's illustrative £25/hour rate
-- **Compliance risk reduced:** Audit trail prevents regulatory gaps
-- **Secondary benefit:** Marketing Automation Executive freed to focus on workflow strategy instead of checklist work
+- **Compliance benefit:** The SharePoint record gives the team an audit trail of checks and findings
+- **Team benefit:** The Marketing Automation Executive can spend less time on routine checks and more time on workflow improvement
 
 ## Version History
 
@@ -59,13 +61,11 @@ The Email QA Agent automates the pre-send validation of marketing emails by anal
 | v1.0 | March 2026 | Initial prototype using manual HTML submission |
 | v1.1 | April 2026 | Simplified submission via shared mailbox |
 | v1.2 | June 2026 | Event-driven automation with Power Automate |
-| v1.3 | June 2026 | Governance reporting to Teams & SharePoint |
+| v1.3 | June 2026 | Governance reporting to Teams and SharePoint |
 
 ## Design Insights
 
-The largest improvement came from reducing user friction.
-
-Early versions required manual uploads of screenshots and HTML. By redesigning the workflow around a shared mailbox and event-driven automation, the user experience became almost invisible. Marketing users now complete QA simply by sending a standard HubSpot test email, allowing the automation to fit naturally into existing campaign processes rather than requiring new behaviours.
+The biggest improvement was making the process easy to use. Early versions asked people to upload screenshots and HTML manually. Moving to a shared mailbox meant users could send a standard test email and let the checks run in the background.
 
 ---
 
