@@ -8,3 +8,15 @@ lang: en-GB
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: "Agents"
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: "Campaign & Commercial Projects"
+      type: pages
+    values:
+      layout: default

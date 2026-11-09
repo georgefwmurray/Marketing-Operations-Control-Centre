@@ -18,7 +18,7 @@ description: "George Murray is a marketing operations and technology leader spec
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
   </div>
   <div class="metrics" aria-label="Selected impact">
-    <div class="metric"><strong>£247k</strong><span>Year-one value identified through MOCC</span></div>
+    <div class="metric"><strong>£180.4k</strong><span>Annual value identified through MOCC</span></div>
     <div class="metric"><strong>74+ hrs</strong><span>Manual work reclaimed each month</span></div>
     <div class="metric"><strong>11</strong><span>AI agents in live operation</span></div>
     <div class="metric"><strong>5</strong><span>Brands supported by the operating model</span></div>

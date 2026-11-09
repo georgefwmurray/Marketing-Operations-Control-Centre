@@ -51,7 +51,25 @@
     </div>
   </header>
   <main id="main" class="site-main">
-    {{ content }}
+    {% if page.path contains 'Agents/' %}
+      <section class="detail-hero detail-hero--agent">
+        <p class="eyebrow">Marketing Operations Control Centre / Agent profile</p>
+        <h1>{{ page.title | split: ":" | first }}</h1>
+        <p class="detail-lead">{{ page.description }}</p>
+        <div class="detail-hero-links"><a href="{{ '/Agent-Registry.html' | relative_url }}">← Back to the agent registry</a><span>11 specialist agents · 6 operating layers</span></div>
+      </section>
+      <article class="detail-content detail-content--agent">{{ content }}</article>
+    {% elsif page.path contains 'Campaign & Commercial Projects/' %}
+      <section class="detail-hero detail-hero--project">
+        <p class="eyebrow">Selected work / Commercial case study</p>
+        <h1>{{ page.title | split: ":" | first }}</h1>
+        <p class="detail-lead">{{ page.description }}</p>
+        <div class="detail-hero-links"><a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">← Back to selected projects</a><span>Strategy · Technology · Commercial outcomes</span></div>
+      </section>
+      <article class="detail-content detail-content--project">{{ content }}</article>
+    {% else %}
+      {{ content }}
+    {% endif %}
   </main>
   <footer class="site-footer">
     <div class="footer-inner">
