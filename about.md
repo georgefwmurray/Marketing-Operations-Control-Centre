@@ -15,6 +15,7 @@ permalink: /about/
     <span>MarTech · CRM · AI transformation</span>
   </div>
   <div class="actions">
+    <a class="button primary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">LinkedIn profile ↗</a>
   </div>
 </section>
