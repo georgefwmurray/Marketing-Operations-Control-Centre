@@ -1,41 +1,47 @@
 ---
-title: "ResponseIQ Telephony Integration: 87% Day-One Contact"
-description: "Integrated ResponseIQ into Veriforce lead routing for instant callbacks on high-intent pages, lifting the day-one contact rate from 32% to 87% (2026)."
+title: "ResponseIQ Telephony Integration: Day-One Contact Rate from 32% to 87%"
+description: "Designed and integrated ResponseIQ into Veriforce lead routing for instant callbacks on high-intent pages, improving day-one lead contact from 32% to 87%."
 ---
 
 # ResponseIQ Telephony Integration
 
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
+[Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
 
----
+<div class="case-study-facts">
+  <div class="case-study-fact"><strong>32% → 87%</strong><span>Day-one contact rate</span></div>
+  <div class="case-study-fact"><strong>2026</strong><span>Delivery year</span></div>
+  <div class="case-study-fact"><strong>Veriforce</strong><span>Business context</span></div>
+</div>
 
-Category: Sales & Revenue
-Context: Integrated ResponseIQ into lead routing to close the gap between inbound leads and sales follow-up.
-Employer: Veriforce
-Featured: Yes
-Result: 32% → 87% day-one contact rate
-Year: 2026
+<p class="case-study-intro">A lead-routing integration designed to reduce the delay between a high-intent enquiry and the first sales contact.</p>
 
-## ResponseIQ Telephony Integration
+<section class="case-study-section">
+  <h2>The business problem</h2>
+  <p>Veriforce received inbound leads from multiple sources. The existing MQL-to-SQL handover could take over an hour, creating a gap between a prospect expressing interest and the first sales call. Reporting showed a strong relationship between the speed of first contact and whether a lead converted.</p>
+</section>
 
-Integrated ResponseIQ into lead routing at Veriforce (2026) to close the gap between inbound leads and sales follow-up.
+<section class="case-study-section">
+  <h2>The approach</h2>
+  <p>I designed the ResponseIQ telephony integration and connected it to lead routing so that leads originating on high-intent pages could receive an immediate callback. The change focused on acting while the prospect was still engaged, rather than relying on a later manual follow-up.</p>
+  <p>The work joined the lead-routing process with telephony capability, making the response faster at the point where intent was highest.</p>
+</section>
 
-## The problem
+<section class="case-study-section">
+  <h2>My contribution</h2>
+  <ul>
+    <li>Designed the ResponseIQ integration into the lead-routing process.</li>
+    <li>Connected high-intent page enquiries to an immediate callback workflow.</li>
+    <li>Used existing Power BI reporting on contact timing and conversion to identify the operational problem and assess the result.</li>
+  </ul>
+</section>
 
-Veriforce receives high lead volumes from multiple sources. The MQL-to-SQL handover time was often over an hour, so leads frequently did not answer the first call, and conversion suffered.
+<section class="case-study-section">
+  <h2>The result</h2>
+  <p><strong>The day-one contact rate increased from 32% to 87%.</strong> This materially improved the speed and reliability of the first sales interaction.</p>
+  <div class="case-study-note"><strong>Measurement note:</strong> The result shown is the reported change in day-one contact rate. This case study does not attribute a specific revenue uplift to the integration.</div>
+</section>
 
-## What I found
-
-Power BI reports showed a strong correlation between how quickly a lead was first contacted and whether it converted.
-
-## What changed
-
-The ResponseIQ integration in lead routing added an instant callback for leads originating on high-intent pages. Contact now happens while the lead is still engaged, and the day-one contact rate rose from 32% to 87%.
-
-## My role
-
-Integrated ResponseIQ into lead routing.
-
-## Result
-
-**Day-one contact rate improved from 32% to 87%**
+<section class="case-study-section">
+  <h2>Why it mattered</h2>
+  <p>The integration addressed a practical point of friction between marketing-generated demand and sales follow-up. It demonstrates how CRM, routing and telephony decisions can improve the customer experience when they are designed around the timing of buyer intent.</p>
+</section>
