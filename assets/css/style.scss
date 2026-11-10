@@ -311,3 +311,26 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 }
 .agent-card-cta span { font-size:1.15rem; transition:transform .18s ease; }
 .agent-card:hover .agent-card-cta span { transform:translateX(4px); }
+
+
+/* Recruitment portfolio: career timeline and editorial case-study presentation. */
+.career-timeline { position:relative; max-width:900px; margin:2rem 0 0; padding-left:1.6rem; border-left:1px solid var(--line); }
+.career-entry { position:relative; padding:0 0 2rem 1.2rem; }
+.career-entry::before { content:""; position:absolute; left:-1.96rem; top:.38rem; width:.62rem; height:.62rem; border:2px solid var(--accent); border-radius:50%; background:var(--paper); }
+.career-entry h3 { margin:.15rem 0 .2rem; }
+.career-entry p { max-width:780px; }
+.career-dates { margin:0; color:var(--accent-dark); font-size:.82rem; font-weight:700; letter-spacing:.025em; }
+.career-employer { margin:.1rem 0 .55rem; color:var(--muted); font-weight:600; }
+.case-study-intro { max-width:850px; font-size:1.08rem; color:var(--muted); }
+.case-study-facts { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; margin:1.5rem 0 2rem; }
+.case-study-fact { padding:1.1rem; border:1px solid var(--line); border-radius:8px; background:rgba(255,255,255,.65); }
+.case-study-fact strong { display:block; color:var(--accent-dark); font-size:1.55rem; }
+.case-study-fact span { display:block; margin-top:.25rem; color:var(--muted); font-size:.85rem; }
+.case-study-section { max-width:850px; margin:2rem 0; }
+.case-study-section h2 { margin-bottom:.65rem; }
+.case-study-note { padding:1rem 1.2rem; border-left:3px solid var(--accent); background:var(--soft); }
+@media(max-width:650px) {
+  .case-study-facts { grid-template-columns:1fr; }
+  .career-timeline { padding-left:1rem; }
+  .career-entry { padding-left:.85rem; }
+}

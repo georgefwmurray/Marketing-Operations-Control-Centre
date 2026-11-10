@@ -4,6 +4,7 @@ author: George Murray
 url: "https://georgemurray.co.uk"
 baseurl: ""
 lang: en-GB
+image: /assets/images/george-murray-social-card.svg
 
 plugins:
   - jekyll-sitemap

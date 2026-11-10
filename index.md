@@ -15,6 +15,7 @@ description: "George Murray is a marketing operations and technology leader with
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
+    <a class="button secondary" href="{{ '/about/' | relative_url }}">Career and experience</a>
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
   </div>
   <div class="metrics" aria-label="Selected impact">
@@ -28,9 +29,7 @@ description: "George Murray is a marketing operations and technology leader with
 <section class="section" id="leadership">
   <p class="eyebrow">Leadership</p>
   <div class="split">
-    <div>
-      <h2>Strategy, platforms and delivery.</h2>
-    </div>
+    <div><h2>Strategy, platforms and delivery.</h2></div>
     <div class="prose">
       <p>I work across marketing, commercial teams and technology: setting priorities, owning platforms, improving processes and helping teams deliver change.</p>
       <p>My focus is on making the function work better. That means clear ownership, reliable data, sensible governance and technology that solves a real operating problem.</p>
@@ -52,15 +51,13 @@ description: "George Murray is a marketing operations and technology leader with
     <article class="card"><p class="kicker">Platform transformation</p><h3>Enterprise MarTech and CRM</h3><p>HubSpot platform ownership across five brands, including a migration from Salesforce Marketing Cloud and Pardot and support for teams across EMEA and North America.</p><p class="section-cta"><a href="Leadership-%26-Strategy.html">Leadership experience ↗</a></p></article>
     <article class="card"><p class="kicker">Commercial performance</p><h3>Lifecycle and revenue programmes</h3><p>Work across lead management, partner integrations, customer journeys and conversion, including an increase in day-one contact rate from 32% to 87%.</p><p class="section-cta"><a href="Campaign-Commercial-Projects.html">View selected projects ↗</a></p></article>
   </div>
+  <p class="section-cta"><a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Explore the project portfolio and case studies ↗</a></p>
 </section>
 
 <section class="section" id="impact">
   <p class="eyebrow">Selected outcomes</p>
   <div class="split">
-    <div>
-      <h2>Results with a clear business measure.</h2>
-      <p class="section-intro">I look for improvements that can be explained and measured, whether that is revenue, conversion, capacity, quality or cost.</p>
-    </div>
+    <div><h2>Results with a clear business measure.</h2><p class="section-intro">I look for improvements that can be explained and measured, whether that is revenue, conversion, capacity, quality or cost.</p></div>
     <ul class="clean-list">
       <li><strong>17% revenue uplift</strong> from an abandoned-cart recovery programme.</li>
       <li><strong>12% year-on-year revenue uplift</strong> following a partner integration.</li>
