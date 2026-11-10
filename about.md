@@ -10,9 +10,9 @@ permalink: /about/
   <h1>I lead the teams and systems that make marketing work better.</h1>
   <p class="lead">I'm George Murray, a marketing operations and technology leader based in South Wales. My work covers the people, platforms and processes behind marketing delivery — from CRM and automation to team structure, governance and business change.</p>
   <div class="hero-meta">
-    <span>South Wales, UK</span>
-    <span>Marketing operations leadership</span>
-    <span>MarTech · CRM · AI transformation</span>
+    <span>Marketing Operations Leadership</span>
+    <span>MarTech · CRM · Revenue Operations</span>
+    <span>AI Transformation · Marketing Automation · Governance</span>
   </div>
   <div class="actions">
     <a class="button primary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
