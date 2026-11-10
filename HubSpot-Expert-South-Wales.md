@@ -1,68 +1,157 @@
 ---
-title: "HubSpot Expert in South Wales: AI Marketing Operations"
-description: "George Murray is a HubSpot marketing operations expert based in South Wales, building AI agent systems that run across 5 brands and save 135 hours a month."
+layout: default
+title: "HubSpot Expert in South Wales | George Murray"
+description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, a £1.3m MarTech stack and AI-enabled marketing operations."
+permalink: /HubSpot-Expert-South-Wales.html
 ---
 
-# HubSpot Expert in South Wales
+<section class="page-hero">
+  <p class="eyebrow">HubSpot · Marketing Operations · South Wales</p>
+  <h1>HubSpot expertise built around better marketing operations.</h1>
+  <p class="page-lead">I'm George Murray, a marketing operations and technology leader based in South Wales. I lead the people, platforms and processes behind multi-brand marketing delivery — with hands-on experience in HubSpot, CRM integration, marketing automation and AI-enabled operations.</p>
+  <div class="hero-tags" aria-label="Areas of expertise">
+    <span>HubSpot platform leadership</span>
+    <span>CRM and MarTech</span>
+    <span>Marketing automation</span>
+    <span>AI agent governance</span>
+    <span>South Wales · UK</span>
+  </div>
+  <div class="actions">
+    <a class="button primary" href="/about/">View leadership profile</a>
+    <a class="button secondary" href="/assets/files/George-Murray-CV.pdf">Download CV</a>
+  </div>
+</section>
 
-[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html) • [HubSpot Expert in South Wales](HubSpot-Expert-South-Wales.html)
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Experience at a glance</p>
+    <h2>Platform ownership, team leadership and operational scale.</h2>
+    <p>My work connects HubSpot and the wider marketing technology stack to the operating needs of a multi-brand B2B SaaS organisation.</p>
+  </div>
+  <div class="stat-grid">
+    <div class="stat-card stat-card--feature"><strong>5</strong><span>Brands supported through HubSpot operations</span></div>
+    <div class="stat-card"><strong>£1.3m</strong><span>Marketing technology stack oversight</span></div>
+    <div class="stat-card"><strong>11</strong><span>Live AI-enabled operations agents</span></div>
+    <div class="stat-card"><strong>135 hrs</strong><span>Estimated team capacity released each month</span></div>
+  </div>
+  <p class="small-note">I lead a team of four within the digital marketing operations function, supporting a 23-person marketing organisation. The MOCC capacity figure is an estimate of time released, not a claim of cash savings.</p>
+</section>
 
----
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">HubSpot and marketing operations</p>
+    <h2>What the work covers.</h2>
+  </div>
+  <div class="layer-grid">
+    <article class="layer-card">
+      <span class="layer-index">01 / Platform</span>
+      <h3>HubSpot ownership</h3>
+      <p>Platform administration, CRM structure, lifecycle processes, permissions, data quality and consistent ways of working across multiple brands.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">02 / Automation</span>
+      <h3>Marketing automation</h3>
+      <p>Lead scoring and routing, nurture journeys, campaign workflows, win-back activity and the operational controls that keep automation reliable.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">03 / Integration</span>
+      <h3>CRM and technology integration</h3>
+      <p>Connecting HubSpot with Microsoft Dynamics, telephony, partner platforms and other systems so that marketing and sales processes work together.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">04 / Performance</span>
+      <h3>Quality and reporting</h3>
+      <p>Campaign QA, reporting, data hygiene and operational monitoring that improve delivery quality and make performance easier to trust.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">05 / Transformation</span>
+      <h3>AI-enabled operations</h3>
+      <p>Designing agents for repeatable tasks, with defined ownership, human review, risk controls and audit trails rather than unchecked automation.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">06 / Leadership</span>
+      <h3>People and operating model</h3>
+      <p>Leading a specialist team, setting priorities and service standards, and aligning marketing operations with wider commercial and technology teams.</p>
+    </article>
+  </div>
+</section>
 
-I'm a HubSpot marketing operations specialist based in South Wales. I design, build and run AI agent systems on HubSpot that automate quality assurance, campaign delivery, data imports, performance reporting and governance. The system I built, MOCC, runs 11 live agents across 5 brands and reclaims 135 hours of manual work a month. At an illustrative £25/hour, that capacity is valued at £40,500 annually; alongside confirmed agency and technology savings and estimated risk reduction, the MOCC identifies £198,700 in annual value.
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Selected outcomes</p>
+    <h2>Evidence from live marketing operations programmes.</h2>
+    <p>Examples of platform, process and customer-journey improvements delivered across different roles and organisations.</p>
+  </div>
+  <div class="featured-project-grid">
+    <article class="featured-project">
+      <span class="project-category">AI and operations</span>
+      <strong class="project-result">11 agents</strong>
+      <h3>Marketing Operations Control Centre</h3>
+      <p>Built an operating model for AI-enabled QA, campaign production, data and reporting. The current system releases an estimated 135 hours of team capacity per month across five brands.</p>
+      <a class="text-link" href="/Agent-Registry.html">Explore the agent registry →</a>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">CRM integration</span>
+      <strong class="project-result">40%</strong>
+      <h3>Faster lead-to-sales handover</h3>
+      <p>Improved the handover process between marketing and sales through HubSpot and Microsoft Dynamics integration.</p>
+      <a class="text-link" href="/Campaign-Commercial-Projects/Microsoft-Dynamics-HubSpot-Integration.html">Read the integration case study →</a>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">Lifecycle performance</span>
+      <strong class="project-result">7%</strong>
+      <h3>Higher MQL-to-SQL conversion</h3>
+      <p>Improved lead qualification and scoring to help sales teams focus on better-qualified opportunities.</p>
+      <a class="text-link" href="/Campaign-Commercial-Projects/Lead-Scoring-Model.html">Read the lead-scoring case study →</a>
+    </article>
+  </div>
+  <p class="section-cta"><a href="/Campaign-Commercial-Projects.html">Explore selected projects and integrations →</a></p>
+</section>
 
-## What a HubSpot marketing operations expert does
+<section class="content-section">
+  <div class="split">
+    <div>
+      <p class="eyebrow">Based in South Wales</p>
+      <h2>Local base. International operating experience.</h2>
+    </div>
+    <div class="prose">
+      <p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p>
+      <p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p>
+      <p>This page documents my professional experience and selected work. It isn't a consultancy or agency services page.</p>
+    </div>
+  </div>
+</section>
 
-- Owns the HubSpot platform and the wider marketing technology stack for EMEA and North America teams
-- Builds and governs automation: lead scoring, lead routing, nurture and win-back journeys, and campaign builds
-- Integrates HubSpot with sales and partner systems, including Microsoft Dynamics, telephony and partner platforms
-- Runs quality assurance, reporting and data hygiene so campaigns launch cleanly and results can be trusted
-- Designs AI agents that take over repeatable work, with human sign-off and audit trails
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">HubSpot expertise · FAQs</p>
+    <h2>Common questions.</h2>
+  </div>
+  <div class="prose">
+    <h3>Who is George Murray?</h3>
+    <p>George Murray is a marketing operations and technology leader based in South Wales, currently working as Interim Head of Digital Marketing Operations at Veriforce. His experience includes HubSpot platform ownership, CRM integration, marketing automation, team leadership and AI-enabled operations.</p>
 
-I lead a team of 4 direct reports as the centralised digital operations function for a 25-person marketing organisation, with HubSpot ownership across five brands in EMEA and North America.
+    <h3>What HubSpot experience does he have?</h3>
+    <p>His experience includes HubSpot operations across five brands, CRM and lifecycle management, marketing automation, reporting, data quality, platform integration and a migration from Salesforce Marketing Cloud and Pardot to HubSpot.</p>
 
-## Results in HubSpot and marketing operations
+    <h3>What is the Marketing Operations Control Centre?</h3>
+    <p>The Marketing Operations Control Centre (MOCC) is an operating model for AI-enabled marketing operations. It includes 11 live agents covering tasks such as email and website quality assurance, CRM health, campaign builds, content, data imports and monitoring. The current model is estimated to release 135 hours of team capacity each month.</p>
 
-- **11 live AI agents** across 5 brands, saving 135 hours a month: [Agent Registry](Agent-Registry.html) and [Results](Results.html)
-- **32% shorter lead-to-sale cycle** (11 days to 7.5 days), 2026: [MQL Acceleration Campaign](Campaign%20%26%20Commercial%20Projects/MQL-Acceleration-Campaign.html)
-- **Day-one contact rate up from 32% to 87%**, 2026: [ResponseIQ Telephony Integration](Campaign%20%26%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html)
-- **63% more leads** from a pricing page, 2026: [Pricing Page UX Test](Campaign%20%26%20Commercial%20Projects/Pricing-Page-UX-Test.html)
-- **12% revenue uplift year on year**, 2025: [Kiflo PRM Integration](Campaign%20%26%20Commercial%20Projects/Kiflo-PRM-Integration.html)
-- **17% e-commerce revenue uplift year on year**, 2025: [Abandoned Cart Recovery](Campaign%20%26%20Commercial%20Projects/Abandoned-Cart-Recovery.html)
-- **7% higher MQL-to-SQL conversion**, 2024: [Lead Scoring Model](Campaign%20%26%20Commercial%20Projects/Lead-Scoring-Model.html)
-- **40% faster lead-to-sales handover**, 2024: [Microsoft Dynamics ↔ HubSpot Integration](Campaign%20%26%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html)
-- **125% year-on-year increase in MQLs**, 2018: [HubSpot Enterprise Implementation](Campaign%20%26%20Commercial%20Projects/HubSpot-Enterprise-Implementation.html)
+    <h3>Does the MOCC figure represent cash savings?</h3>
+    <p>No. The 135 hours per month represents estimated capacity released. At an illustrative rate of £25 per hour, that equates to £40,500 of annual capacity value. Other identified value includes agency spend reduction and avoided software subscriptions, alongside separately labelled estimates. These categories should not be treated as a single cash-saving figure.</p>
 
-## Based in South Wales
+    <h3>Where is George Murray based?</h3>
+    <p>South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America.</p>
+  </div>
+</section>
 
-I'm based in South Wales and glad to talk with teams and recruiters in Cardiff, Swansea, Newport and across the region and the UK. The systems I run support brands across EMEA and North America.
-
-## HubSpot expert South Wales: common questions
-
-### Who is a HubSpot expert in South Wales?
-
-George Murray is a HubSpot marketing operations expert based in South Wales, specialising in AI agent systems on HubSpot. The evidence is on this site: 11 live agents, 5 brands and measured results on every project page.
-
-### What is a HubSpot marketing operations agent?
-
-It's an automated workflow, powered by AI, that takes over a repeatable marketing operations task inside or around HubSpot, such as email QA, campaign builds, data imports or weekly reporting. Each agent has an owner, a risk tier and a review date. See the [Agent Registry](Agent-Registry.html).
-
-### Can AI agents really automate HubSpot marketing operations?
-
-Yes. The [Email QA Agent](Agents/Email%20QA%20Agent/Email-QA-Agent.html) cut manual QA effort by 80%, the [Data Import Agent](Agents/Data%20Import%20Agent/Data-Import-Agent.html) saves 15 hours a month, and the [Campaign Build Agent](Agents/Campaign%20Build%20Agent/Campaign-Build-Agent.html) saves 60 minutes per campaign build.
-
-### Which HubSpot integrations have you delivered?
-
-Microsoft Dynamics ↔ HubSpot, the Kiflo PRM integration, ResponseIQ telephony for lead routing, an insurance partner integration and a free trial sign-up API. Details are on the [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) page.
-
-### How can I build a similar system?
-
-Start with request intake, then add one layer at a time. The full approach is in [How to Build MOCC](How-to-Build.html) • [HubSpot Expert in South Wales](HubSpot-Expert-South-Wales.html).
-
-### Are you open to roles or conversations?
-
-I'm open to conversations about senior marketing operations roles focused on HubSpot and AI-enabled operations, and happy to share what I've learned with marketing operations teams.
-
-**Contact:** [georgefwmurray@gmail.com](mailto:georgefwmurray@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/georgefwmurray](https://www.linkedin.com/in/georgefwmurray/)
+<section class="closing-panel">
+  <p class="eyebrow">Leadership profile</p>
+  <h2>Marketing operations, MarTech and AI transformation.</h2>
+  <p>For a fuller view of my career, leadership experience, technology background and current focus, visit my About page or connect with me on LinkedIn.</p>
+  <div class="actions">
+    <a class="button primary" href="/about/">Read my leadership profile</a>
+    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
+    <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email me</a>
+  </div>
+</section>
