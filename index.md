@@ -16,6 +16,7 @@ description: "George Murray is a marketing operations and technology leader with
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
     <a class="button secondary" href="{{ '/about/' | relative_url }}">Career and experience</a>
+    <a class="button secondary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
   </div>
   <div class="metrics" aria-label="Selected impact">
