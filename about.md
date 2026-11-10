@@ -15,7 +15,7 @@ permalink: /about/
     <span>MarTech · CRM · AI transformation</span>
   </div>
   <div class="actions">
-    <a class="button primary" href="{{ '/assets/documents/George-Murray-CV.pdf' | relative_url }}">Download CV (PDF)</a>
+    <a class="button primary" href="mailto:georgefwmurray@gmail.com?subject=CV%20request">Request CV by email</a>
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">LinkedIn profile ↗</a>
   </div>
 </section>
@@ -118,7 +118,7 @@ permalink: /about/
     <div class="prose">
       <p>I'm interested in senior leadership roles covering marketing operations, MarTech and AI transformation, particularly where the organisation is looking to improve how its marketing function works at scale.</p>
       <div class="actions">
-        <a class="button primary" href="{{ '/assets/documents/George-Murray-CV.pdf' | relative_url }}">Download CV (PDF)</a>
+        <a class="button primary" href="mailto:georgefwmurray@gmail.com?subject=CV%20request">Request CV by email</a>
         <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
       </div>
     </div>
