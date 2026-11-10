@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
   <meta name="theme-color" content="#f6f5f1">
+  <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" content="{{ '/assets/images/george-murray-social-card.svg' | absolute_url }}">
+  <meta property="og:image:alt" content="George Murray — Marketing Operations, MarTech and AI Transformation">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ '/assets/images/george-murray-social-card.svg' | absolute_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -23,11 +30,13 @@
         "@id": "{{ site.url }}/#person",
         "name": "George Murray",
         "url": "{{ site.url }}/",
-        "jobTitle": "Marketing Operations and Technology Leader",
-        "description": "Marketing operations leader with experience in marketing technology, HubSpot, multi-brand operations, team leadership and AI transformation.",
-        "sameAs": [
-          "https://www.linkedin.com/in/georgefwmurray/"
-        ],
+        "jobTitle": "Interim Head of Digital Marketing Operations",
+        "description": "Marketing operations and technology leader with experience in multi-brand B2B SaaS, CRM, marketing automation, team leadership and AI transformation.",
+        "sameAs": ["https://www.linkedin.com/in/georgefwmurray/"],
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Veriforce"
+        },
         "knowsAbout": [
           "Marketing operations leadership",
           "Marketing technology",
@@ -97,6 +106,7 @@
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/about/' | relative_url }}">About</a>
         <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">Leadership</a>
+        <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Projects</a>
         <a href="{{ '/Results.html' | relative_url }}">Results</a>
         <a href="{{ '/Agent-Registry.html' | relative_url }}">MOCC</a>
         <a href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">LinkedIn ↗</a>
