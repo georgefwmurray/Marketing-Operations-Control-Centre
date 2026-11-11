@@ -40,7 +40,7 @@ permalink: /about/
       <p class="career-dates">June 2026 – Present · 12-month secondment</p>
       <h3>Interim Head of Digital Marketing Operations</h3>
       <p class="career-employer">Veriforce</p>
-      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across an £80m+ international B2B SaaS business. Lead a team of four, support a 23-person marketing organisation and oversee a £1.3m technology stack across five brands.</p>
+      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across an £80m+ international B2B SaaS business. Lead a team of four, support a 25-person marketing organisation and oversee a £1.3m technology stack across five brands.</p>
     </article>
     <article class="career-entry">
       <p class="career-dates">June 2024 – June 2026</p>
@@ -96,7 +96,7 @@ permalink: /about/
   <div class="cards">
     <article class="card"><h3>HubSpot Academy</h3><p>13 certifications, including Super Admin Bootcamp, Reporting &amp; Analytics, Revenue Operations, Marketing Hub, Email Marketing, Content Marketing, Inbound Marketing, Inbound Sales and Sales Enablement.</p></article>
     <article class="card"><h3>Zapier</h3><p>Three certifications covering fundamentals, filters and paths, and webhooks.</p></article>
-    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 finalist (one of 12 global finalists); Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p></article>
+    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 finalist (ranked in the global Top 8); Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p></article>
   </div>
   <p class="small-note">Certification names and recognition are summarised from my CV. The full CV contains further detail.</p>
 </section>
