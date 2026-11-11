@@ -34,7 +34,7 @@ permalink: /HubSpot-Expert-South-Wales.html
     <div class="stat-card"><strong>11</strong><span>Live AI-enabled operations agents</span></div>
     <div class="stat-card"><strong>135 hrs</strong><span>Estimated team capacity released each month</span></div>
   </div>
-  <p class="small-note">I lead a team of four within the digital marketing operations function, supporting a 23-person marketing organisation. The MOCC capacity figure is an estimate of time released, not a claim of cash savings.</p>
+  <p class="small-note">I lead a team of four within the digital marketing operations function, supporting a 25-person marketing organisation. The MOCC capacity figure is an estimate of time released, not a claim of cash savings.</p>
 </section>
 
 <section class="content-section">
