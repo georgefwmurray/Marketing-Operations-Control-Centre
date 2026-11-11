@@ -1,201 +1,185 @@
 ---
-title: "How to Build AI-Driven HubSpot Marketing Operations"
-description: "A practical guide to building Claude-powered HubSpot marketing operations agents for request intake, quality checks, campaign builds and weekly insights."
+layout: default
+title: "Marketing Operations Control Centre | AI Transformation Case Study"
+description: "How George Murray and his team designed, piloted and scaled an AI-enabled marketing operations model across five brands, with 11 live agents, six operating layers and human approval at every release."
+permalink: /How-to-Build.html
 ---
 
-# How to Build MOCC
-
-[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html) • [HubSpot Expert in South Wales](HubSpot-Expert-South-Wales.html)
-
----
-
-## Building AI-Driven Marketing Operations at Scale
-
-If you're managing 50+ hours of manual marketing operations work per month — juggling request intake, quality checks, campaign builds, data analysis, and team coordination — you're burning resources that AI agents could handle.
-
-**I've built a system of marketing operations agents that solves this**: Autonomous AI workflows using Claude that intake requests into HubSpot, catch errors before launch, build campaigns, pull weekly insights, and scale across brands. Not one monolithic AI tool, but six layers of specialized agents, each owning one piece of the puzzle.
-
-We call this **MOCC** (Marketing Operations Control Centre) — a production-tested, replicable architecture designed for mid-market and enterprise teams across South Wales, the UK, and beyond using Claude, HubSpot, Power Automate, and standard API connectors.
-
-The payoff: campaign builds about two-thirds faster, fewer emergency rollbacks confident running marketing operations independently, and a human review step kept as the final gate.
-
-This isn't theoretical. It's built on real marketing operations challenges from teams managing multi-brand campaigns, high-volume email programs, and complex approval workflows in HubSpot.
-
----
-
-## The 6-Layer AI Agent System for Marketing Operations
-
-Marketing operations automation doesn't happen overnight. It's five small projects, each with clear success metrics and a 2–4 week timeline, layered into one cohesive system.
-
-The key: **get governance in place from day one.** Every agent decision gets logged and auditable. Every layer feeds clean data into the next. This means you're not building a fragile Jenga tower that collapses when you add a new brand. You're building a scalable single source of truth that your team can hand off and operate independently.
-
-![Five-phase implementation roadmap: Phase 1 Intake and Governance (weeks 1-3), Phase 2 Activation (4-6), Phase 3 Optimization (7-9), Phase 4 Intelligence (10-12), Phase 5 Scale (13+)](How-to-Build/mocc-implementation-roadmap_2.png)
-
-#### Phase 1: Intake & Governance (Weeks 1–3)
-
-**Goal:** Build a single source of truth for all marketing requests.
-
-- Set up a HubSpot deal pipeline for incoming requests
-- Deploy the Intake Agent to capture structured requests in Teams, flag overlap with existing agents and tools, and log every request
-- Build a dashboard to track request volume and turnaround time
-- Document: Which manual tasks will this phase eliminate?
-
-**Success metric:** 100% of requests captured and deduplicated in HubSpot within 24 hours.
-
-#### Phase 2: Quality Assurance (Weeks 4–6)
-
-**Goal:** Automate pre-go-live QA checks.
-
-- Build the Email QA Agent (validates subject lines, links, deliverability)
-- Build the Website QA Agent (crawls pages, checks for broken links, reports errors)
-- Set up audit trail in SharePoint
-- Integrate QA results back into HubSpot
-
-**Success metric:** 95%+ of QA issues caught before launch; zero emergency rollbacks.
-
-#### Phase 3: Production Layer (Weeks 7–9)
-
-**Goal:** Automate high-volume repetitive builds.
-
-- Deploy Campaign Build Agent (clones a campaign template and updates it with new assets in HubSpot)
-- Deploy Content Agent (generate email copy, landing page descriptions)
-- Deploy WordPress Post Agent (auto-publish to blog)
-- Set up approval workflows
-
-**Success metric:** Around two-thirds faster build time; 80%+ agent outputs require <5 min review time.
-
-#### Phase 4: Data & Intelligence (Weeks 10–12)
-
-**Goal:** Enable data-driven decision-making.
-
-- Deploy Data Import Agent (standardize weekly reports, load into HubSpot)
-- Deploy Campaign Performance Agent (weekly analytics & trend analysis)
-- Deploy Clarity Website Analyst (on-site behaviour analytics and A/B test ideas)
-- Build KPI dashboard
-
-**Success metric:** Weekly insights delivered by Monday 9am; stakeholders taking action on agent recommendations.
-
-#### Phase 5: Scale & Optimization (Weeks 13+)
-
-**Goal:** Handoff to team; optimize for cost and speed.
-
-- Train team on each agent
-- Run a 2-week parallel test (manual ops + MOCC side-by-side)
-- Measure and publish ROI
-- Iterate on agent prompts based on team feedback
-- Plan rollout to other brands
-
-**Success metric:** Team confident running MOCC independently; <2% of agent decisions escalated to you.
-
----
-
-## Common Pitfalls in Marketing Operations Automation (& How to Avoid Them)
-
-#### **Agents making decisions without guardrails**
-
-Every agent needs approval workflows for high-stakes decisions. QA agents flag issues; they don't auto-fix. Governance agents monitor but don't auto-delete.
-
-#### **Inconsistent data feeding the agents**
-
-Standardize your source data FIRST. If your request intake is messy, agents will amplify the mess. Build Phase 1 (Intake) properly before moving to Phase 2.
-
-#### **Agents doing too much at once**
-
-Each agent owns ONE layer. A single agent shouldn't handle intake + QA + reporting. It leads to logic complexity and hard-to-debug failures.
-
-#### **No audit trail**
-
-Every agent decision gets logged. When something goes wrong, you need to trace: What input did the agent see? What was its reasoning? Where did it escalate?
-
-#### **Building for one brand, not thinking about scale**
-
-Design with multi-brand in mind from day one. Store brand logic in a database, not in agent prompts. This saves months when you roll out to Brand 2.
-
----
-
-## Why Claude for Building Marketing Operations AI Agents
-
-Claude powers the agent logic because:
-
-- **Instruction-following:** Claude reliably follows structured workflows. If you say "Check for broken links and return a JSON array," it does. Pair it with a dedicated link-checking step for the actual validity test.
-- **Context window:** Each agent can hold large system instructions, examples, and data context in a single prompt.
-- **Reasoning:** Complex decisions (duplicate detection, anomaly flagging, content quality assessment) benefit from Claude's reasoning depth.
-- **Cost efficiency:** Claude's API is priced per input and output token, and prompt caching can cut the cost of a reused system prompt by up to 90%.
-- **Multimodal:** Claude can read emails (text), analyze screenshots (images), and process data tables — all in one agent.
-- **Reliability in production:** Error rates are low; fallback logic is predictable. Easier to design governance around.
-
-Other models are fine for single, simple tasks. For a 6-layer system where each layer must be reliable and consistent, Claude's depth and stability matter.
-
----
-
-## Getting Started: How to Implement Marketing Operations Agents
-
-![Five-step guide to getting started: audit your manual ops, start with intake, design your first agent, build your governance layer, then document and scale](How-to-Build/mocc-getting-started_1.png)
-
-**Step 1:** Audit your manual ops
-
-- Where do you spend 50%+ of your marketing ops time?
-- What decisions could be automated with high confidence?
-- Where are your biggest pain points (rework, duplicates, delays)?
-
-**Step 2:** Start with intake
-
-- Build Phase 1 first. Get clean, deduplicated requests flowing into HubSpot.
-- Measure: How many duplicates did you catch? How fast is turnaround time now?
-
-**Step 3:** Design your first agent
-
-- Pick ONE high-impact task (e.g., Email QA).
-- Write a detailed prompt; test with 20 real examples.
-- Measure error rate and time savings.
-
-**Step 4:** Build your Governance Layer
-
-- Before going live, design monitoring and escalation.
-- Who owns each agent? How often do you audit decisions? Where's the audit trail?
-
-**Step 5:** Document and scale
-
-- Once Phase 1–2 work, document the playbook for Phase 3.
-- Train your team to adapt it for their brand.
-- Move on to the next layer while they manage the rollout.
-
----
-
-## Frequently Asked Questions About AI-Driven Marketing Operations
-
-#### **Do I need to be a developer to implement marketing operations AI agents?**
-
-No. MOCC uses Claude API, HubSpot, Power Automate, and Zapier — all designed for business automation. I built the logic; you configure the workflows. If you can set up an automation in Zapier or Power Automate, you can adapt MOCC.
-
-#### **How long does it take to build a marketing operations agent system?**
-
-Phase 1 (Intake Agent) takes 2–3 weeks. Once you've built one agent, each subsequent layer takes 1–2 weeks. Full 6-layer rollout: 4–5 months for a single brand, faster if you parallelize.
-
-#### **What if we use Salesforce instead of HubSpot for marketing operations automation?**
-
-The architecture stays the same; the connectors change. Instead of HubSpot API, you use Salesforce API. The agent logic (Claude) remains identical. Expect 10–15% additional time for Salesforce-specific configuration.
-
-#### **Can marketing operations agents work for agencies managing multiple clients?**
-
-Yes. MOCC is designed for multi-brand scale. Each brand gets its own workflow logic, but they share a common agent architecture. The Governance Layer ensures consistency across brands.
-
-#### **What's the total cost of building a marketing operations AI system?**
-
-Tooling: Claude API (~£500/month for high-volume agent runs) + HubSpot Pro+ (~£300/month) + Power Automate (~£50/month) = ~£850/month. ROI: Typical payback on implementation consulting (4–5 months) within first 6 months of running Phase 1–2. Full operational scale (Phases 1–5) sees 3–4x ROI in year one through staff time recovery and faster campaign deployment.
-
----
-
-## Ready to Transform Your Marketing Operations?
-
-If you're a marketing operations leader, hiring manager, or team looking to architect a MOCC-like system for your organization -or if you're hiring for marketing operations AI expertise in South Wales or the UK let's talk.
-
-George Murray architects, implements, and hands off marketing operations agent systems to teams. Post-implementation, your team runs it independently with 24/7 governance and audit trails built in.
-
-**For marketing ops teams or leaders**: Happy to share what I've learned on architecture, implementation, team training, and optimisation.
-
-**For recruiters & hiring managers**: I'm open to conversations about senior marketing operations roles focused on HubSpot and AI-enabled operations.
-
-**Contact:** [georgefwmurray@gmail.com](mailto:georgefwmurray@gmail.com)
-
-**LinkedIn:** [linkedin.com/in/georgefwmurray/](https://www.linkedin.com/in/georgefwmurray/)
+<section class="page-hero">
+  <p class="eyebrow">Leadership case study · AI-enabled marketing operations</p>
+  <h1>Building a Marketing Operations Control Centre.</h1>
+  <p class="page-lead">How I worked with my team to design, pilot and scale an agent-based operating model across five brands — bringing structure, governance and human oversight to AI-enabled marketing delivery.</p>
+  <div class="hero-tags" aria-label="Case study themes">
+    <span>Team leadership</span>
+    <span>AI operating model</span>
+    <span>Five-brand rollout</span>
+    <span>Human approval</span>
+  </div>
+  <div class="actions">
+    <a class="button primary" href="/Agent-Registry.html">Explore the 11 live agents</a>
+    <a class="button secondary" href="/Results.html">View outcomes and value</a>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">The challenge</p>
+    <h2>Make operational work more consistent without removing accountability.</h2>
+  </div>
+  <div class="prose">
+    <p>Marketing operations brings together a wide range of repeatable but important work: campaign quality checks, content and campaign production, data preparation, reporting, request management and platform monitoring. Across multiple brands, those activities can create a significant coordination and capacity challenge.</p>
+    <p>The opportunity was not simply to add AI tools. It was to create a coherent operating model in which specialist agents could take on defined tasks, work through the systems the team already used, and remain visible, governed and accountable.</p>
+    <p>I led the design and direction of the Marketing Operations Control Centre (MOCC) with my team. Some agent concepts came from me and others from colleagues. Each proposal had to serve a clear operational need and fit within the same six-layer architecture. I retained final approval, including the decision about what could move into live use.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">The operating model</p>
+    <h2>Six layers. One connected system.</h2>
+    <p>MOCC is structured as six complementary layers rather than a collection of disconnected automations. The first five layers are in live operation; the Knowledge layer remains part of the planned model.</p>
+  </div>
+  <div class="layer-grid">
+    <article class="layer-card">
+      <span class="layer-index">01 / Control</span>
+      <h3>Intake and coordination</h3>
+      <p>Creates a structured route for requests, approvals and operational oversight, helping work enter the system with clear ownership.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">02 / Production</span>
+      <h3>Campaign and content delivery</h3>
+      <p>Supports repeatable production tasks across campaigns, content and publishing, with review and approval built into the workflow.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">03 / Data</span>
+      <h3>Data operations</h3>
+      <p>Helps prepare, import and check information so that downstream activity is based on more consistent data.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">04 / Intelligence</span>
+      <h3>Analysis and insight</h3>
+      <p>Turns performance and website information into structured analysis that can inform operational and marketing decisions.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">05 / Governance</span>
+      <h3>Quality and reliability</h3>
+      <p>Provides checks, monitoring, documentation and oversight so that agent activity remains controlled and exceptions can be reviewed.</p>
+    </article>
+    <article class="layer-card">
+      <span class="layer-index">06 / Knowledge</span>
+      <h3>Shared organisational knowledge</h3>
+      <p>The planned layer for making approved knowledge and context more consistently available across the operating model. This layer is not yet counted among the live agents.</p>
+    </article>
+  </div>
+  <p class="section-cta"><a href="/Agent-Registry.html">See the live agent registry and responsibilities ↗</a></p>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Technology and integration</p>
+    <h2>Designed around the working environment.</h2>
+  </div>
+  <div class="prose">
+    <p>The model brings together Claude, HubSpot, Zapier, Microsoft Power Automate and Copilot Studio. HubSpot is used as an operational platform and integration point, including extensive use of the HubSpot MCP. Power Automate handles API calls and connects workflows with other services.</p>
+    <p>SharePoint provides the central location for documentation and stored materials. Updates and outputs are shared with colleagues through Microsoft Teams and email, keeping the work connected to familiar collaboration channels.</p>
+    <p>The important point is the orchestration: each agent has a defined role, trigger, intended outcome and set of systems. The technology supports the operating model; it does not replace the need to design and manage one.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Leadership and governance</p>
+    <h2>Build the controls before scaling the agents.</h2>
+  </div>
+  <div class="featured-project-grid">
+    <article class="featured-project">
+      <span class="project-category">01 / Prove the model</span>
+      <h3>Pilot on one brand first</h3>
+      <p>Starting with a single brand created the opportunity to test workflows, expose gaps and refine the operating model before extending it across the wider group.</p>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">02 / Make ownership clear</span>
+      <h3>Document every agent</h3>
+      <p>With multiple agents in play, documentation is essential. Triggers, intended outcomes, systems used and responsibilities need to be clear from the outset, not reconstructed when something goes wrong.</p>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">03 / Keep people accountable</span>
+      <h3>Human approval is the release gate</h3>
+      <p>Nothing goes live without human approval. Agents can prepare, check, analyse and recommend, but people remain accountable for the final decision and release.</p>
+    </article>
+  </div>
+  <div class="prose">
+    <p>This approach also shaped how the team worked. Ideas could come from across the team, while the shared architecture provided a consistent test for whether an agent belonged in MOCC. My role was to set direction, bring the components together, support the team and retain final approval over the model and its live operation.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Scale and outcomes</p>
+    <h2>From a focused pilot to a multi-brand capability.</h2>
+    <p>The model was piloted on one brand before being rolled out across five. It now includes 11 live agents across the first five operating layers.</p>
+  </div>
+  <div class="stat-grid">
+    <div class="stat-card stat-card--feature"><strong>5</strong><span>Brands supported by the operating model</span></div>
+    <div class="stat-card"><strong>11</strong><span>Agents in live operation</span></div>
+    <div class="stat-card"><strong>135 hrs</strong><span>Estimated team capacity released each month</span></div>
+    <div class="stat-card"><strong>6</strong><span>Layers in the architecture, with five live</span></div>
+  </div>
+  <div class="prose">
+    <p>The 135-hour monthly figure represents estimated team capacity released through the agents, not a direct cash saving. The wider value assessment separates capacity value, agency spend reduction, avoided subscriptions and other estimates rather than treating them as interchangeable.</p>
+    <p>That distinction matters when presenting operational transformation: the measures should show what changed, how the value is calculated and which benefits are cash, capacity or estimates.</p>
+  </div>
+  <p class="section-cta"><a href="/Results.html">Read the results, assumptions and value breakdown ↗</a></p>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">What I learned</p>
+    <h2>Good AI operations are a leadership and operating-model challenge.</h2>
+  </div>
+  <div class="prose">
+    <p><strong>Start with the operating problem, not the tool.</strong> An agent earns its place by solving a defined issue for the team and fitting into the wider system.</p>
+    <p><strong>Governance and documentation are foundational.</strong> Clear triggers, outcomes, systems and ownership make a multi-agent environment understandable, supportable and easier to scale.</p>
+    <p><strong>Prove the model before multiplying it.</strong> A pilot on one brand gives the team a chance to learn and improve before introducing the same approach across other brands.</p>
+    <p><strong>Human accountability must remain explicit.</strong> Automation can prepare work and improve consistency, but approval before anything goes live is a non-negotiable control.</p>
+    <p><strong>Team contribution makes the model stronger.</strong> Agent ideas came from both me and the team. A common architecture and clear approval process allowed that contribution without creating a fragmented set of tools.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Explore the work</p>
+    <h2>More detail on the system and its impact.</h2>
+  </div>
+  <div class="featured-project-grid">
+    <article class="featured-project">
+      <span class="project-category">Agent portfolio</span>
+      <h3>11 live agents</h3>
+      <p>Explore the individual agents, their responsibilities and the operating layers they support.</p>
+      <a class="text-link" href="/Agent-Registry.html">Open the agent registry ↗</a>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">Business outcomes</span>
+      <h3>Measured operational value</h3>
+      <p>See the capacity, cost and other value categories, with the assumptions kept visible.</p>
+      <a class="text-link" href="/Results.html">Review results and value ↗</a>
+    </article>
+    <article class="featured-project">
+      <span class="project-category">Leadership profile</span>
+      <h3>My wider experience</h3>
+      <p>Read more about my experience leading marketing operations, MarTech platforms and teams.</p>
+      <a class="text-link" href="/about/">View my profile ↗</a>
+    </article>
+  </div>
+</section>
+
+<section class="closing-panel">
+  <p class="eyebrow">Leadership opportunities</p>
+  <h2>Marketing operations, MarTech and AI transformation.</h2>
+  <p>MOCC is an example of how I approach complex operational change: set a clear direction, involve the team, establish governance, prove the model and scale what works. I'm interested in senior leadership opportunities where I can bring that experience to marketing operations and technology.</p>
+  <div class="actions">
+    <a class="button primary" href="/assets/files/George-Murray-CV.pdf">Download my CV</a>
+    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn</a>
+    <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email me</a>
+  </div>
+</section>

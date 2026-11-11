@@ -88,7 +88,7 @@ permalink: /HubSpot-Expert-South-Wales.html
       <strong class="project-result">11 agents</strong>
       <h3>Marketing Operations Control Centre</h3>
       <p>Built an operating model for AI-enabled QA, campaign production, data and reporting. The current system releases an estimated 135 hours of team capacity per month across five brands.</p>
-      <a class="text-link" href="/Agent-Registry.html">Explore the agent registry →</a>
+      <a class="text-link" href="/How-to-Build.html">Read the MOCC case study →</a><br><a class="text-link" href="/Agent-Registry.html">Explore the agent registry →</a>
     </article>
     <article class="featured-project">
       <span class="project-category">CRM integration</span>
