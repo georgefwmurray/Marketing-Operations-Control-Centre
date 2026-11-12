@@ -77,6 +77,34 @@ permalink: /HubSpot-Expert-South-Wales.html
 </section>
 
 <section class="content-section">
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Credentials and recognition</p>
+    <h2>HubSpot expertise, backed by continued learning and peer recognition.</h2>
+    <p>Formal learning, platform-focused recognition and mentoring experience complement my hands-on responsibility for HubSpot across a multi-brand marketing organisation.</p>
+  </div>
+  <div class="credential-grid">
+    <article class="credential-card credential-card--featured">
+      <div class="credential-mark credential-mark--arena" aria-hidden="true">TOP 8</div>
+      <div><span class="credential-type">Global recognition · 2026</span><h3>HubSpot Admin Arena</h3><p>Ranked in the global Top 8 in the 2026 HubSpot Admin Arena, recognising practical HubSpot administration knowledge and platform expertise.</p></div>
+    </article>
+    <article class="credential-card">
+      <div class="credential-mark credential-mark--academy" aria-hidden="true">HubSpot<br>Academy</div>
+      <div><span class="credential-type">Professional certifications</span><h3>13 HubSpot Academy certifications</h3><p>Ongoing structured learning across HubSpot's platform, tools and marketing disciplines.</p></div>
+    </article>
+    <article class="credential-card">
+      <div class="credential-mark credential-mark--mentor" aria-hidden="true">AI<br>MENTOR</div>
+      <div><span class="credential-type">Veriforce · 2026</span><h3>Veriforce AI Mentor</h3><p>Recognised for supporting colleagues as they build confidence and capability in applying AI at work.</p></div>
+    </article>
+    <article class="credential-card">
+      <div class="credential-mark credential-mark--rising" aria-hidden="true">RISING<br>STAR</div>
+      <div><span class="credential-type">Mentorship · 2025</span><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme, reflecting a commitment to development and learning.</p></div>
+    </article>
+  </div>
+  <p class="credential-footnote">These credentials sit alongside practical platform ownership, team leadership and delivery across five brands.</p>
+</section>
+
   <div class="section-heading">
     <p class="eyebrow">Selected outcomes</p>
     <h2>Evidence from live marketing operations programmes.</h2>
