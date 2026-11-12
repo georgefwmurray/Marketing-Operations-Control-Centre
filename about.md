@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About George Murray | Marketing Operations and Technology Leader"
-description: "George Murray leads marketing operations, MarTech and AI transformation. Interim Head of Digital Marketing Operations at Veriforce, with multi-brand leadership, CRM and team experience."
+description: "George Murray is an Interim Head of Digital Marketing Operations leading a four-person team, £1.3m MarTech stack and HubSpot across five brands, supporting a 25-person marketing organisation."
 permalink: /about/
 ---
 
@@ -26,7 +26,7 @@ permalink: /about/
     <div><h2>Start with the business problem.</h2></div>
     <div class="prose">
       <p>I work across marketing, commercial teams and technology. I set direction, make platform and process decisions, and lead the delivery needed to turn those decisions into day-to-day improvements.</p>
-      <p>My current remit covers EMEA digital marketing operations for an £80m+ international B2B SaaS business, including a team of four, a £1.3m technology stack and HubSpot operations across five brands. I report to the SVP of Marketing.</p>
+      <p>My current remit covers EMEA digital marketing operations for an £80m+ international B2B SaaS business. I lead a team of four, oversee a £1.3m technology stack and HubSpot operations across five brands, and support a 25-person marketing organisation. I report to the SVP of Marketing and provide weekly performance reporting to senior executives.</p>
       <p>My interest in AI is practical. I look for work that can be made faster or more consistent, then put the right checks, ownership and escalation routes around it. The aim is better work and more capacity for the team, not automation for its own sake.</p>
     </div>
   </div>
@@ -96,7 +96,7 @@ permalink: /about/
   <div class="cards">
     <article class="card"><h3>HubSpot Academy</h3><p>13 certifications, including Super Admin Bootcamp, Reporting &amp; Analytics, Revenue Operations, Marketing Hub, Email Marketing, Content Marketing, Inbound Marketing, Inbound Sales and Sales Enablement.</p></article>
     <article class="card"><h3>Zapier</h3><p>Three certifications covering fundamentals, filters and paths, and webhooks.</p></article>
-    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 finalist (ranked in the global Top 8); Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p></article>
+    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 (global Top 8); selected by HubSpot as a mentor for its Agents in Action programme in 2026; Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p><p><a href="https://www.linkedin.com/in/georgefwmurray/details/certifications/" target="_blank" rel="noopener">View LinkedIn credentials ↗</a></p></article>
   </div>
   <p class="small-note">Certification names and recognition are summarised from my CV. The full CV contains further detail.</p>
 </section>
