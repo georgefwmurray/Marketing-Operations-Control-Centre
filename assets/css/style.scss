@@ -334,3 +334,20 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
   .career-timeline { padding-left:1rem; }
   .career-entry { padding-left:.85rem; }
 }
+
+
+/* HubSpot credentials and professional recognition cards. */
+.credential-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin:1.6rem 0 1rem; }
+.credential-card { display:grid; grid-template-columns:112px minmax(0,1fr); align-items:start; gap:1.2rem; padding:1.35rem; border:1px solid var(--line); border-radius:8px; background:rgba(255,255,255,.72); }
+.credential-card--featured { border-color:#b7cbc2; background:#edf2ee; }
+.credential-mark { display:flex; min-height:88px; align-items:center; justify-content:center; padding:.65rem; border-radius:6px; background:#fff; color:#176b67; text-align:center; font-family:"Manrope",sans-serif; font-size:.95rem; font-weight:800; line-height:1.05; letter-spacing:-.035em; }
+.credential-mark--arena { color:#fff; background:#176b67; font-size:1.25rem; letter-spacing:-.06em; }
+.credential-mark--academy { color:#f26b38; border:1px solid #f2dfd5; font-size:.9rem; }
+.credential-mark--mentor { color:#315d86; border:1px solid #d9e3ed; letter-spacing:.04em; font-size:.82rem; }
+.credential-mark--rising { color:#80652d; border:1px solid #e8dfc9; font-size:.82rem; letter-spacing:.035em; }
+.credential-type { display:block; margin:0 0 .4rem; color:var(--accent-dark); font-size:.72rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; }
+.credential-card h3 { margin:.1rem 0 .5rem; font-size:1.12rem; }
+.credential-card p { margin:0; color:var(--muted); font-size:.88rem; line-height:1.55; }
+.credential-footnote { margin:.9rem 0 0; color:var(--muted); font-size:.84rem; }
+@media(max-width:700px) { .credential-grid { grid-template-columns:1fr; } }
+@media(max-width:480px) { .credential-card { grid-template-columns:84px minmax(0,1fr); gap:.9rem; padding:1rem; } .credential-mark { min-height:76px; font-size:.82rem; } .credential-mark--arena { font-size:1.05rem; } }
