@@ -99,7 +99,7 @@ permalink: /HubSpot-Expert-South-Wales.html
     </article>
     <article class="credential-card">
       <div class="credential-mark credential-mark--hubspot-ai" aria-hidden="true">AI<br>MENTOR</div>
-      <div><span class="credential-type">Selected by HubSpot</span><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, recognising expertise in AI and a contribution to its practical application.</p></div>
+      <div><span class="credential-type">Selected by HubSpot · 2026</span><h3>HubSpot AI Mentor — Agents in Action</h3><p>Selected by HubSpot through an application process as one of a small group of mentors on its AI agents programme, while also participating as a mentee.</p><p><a href="https://www.linkedin.com/in/georgefwmurray/details/certifications/" target="_blank" rel="noopener">View LinkedIn credentials ↗</a></p></div>
     </article>
     <article class="credential-card">
       <div class="credential-mark credential-mark--rising" aria-hidden="true">RISING<br>STAR</div>
