@@ -60,7 +60,7 @@ description: "Leadership approach, operating model and governance philosophy for
     <ul>
       <li>Promoted an intern to Digital Operations Executive, who now owns the continuous development of the Data Import Agent.</li>
       <li>Created a team-led approach to agent development, with ideas coming from the people closest to the workflows.</li>
-      <li><strong>Mentor, Agents in Action, HubSpot (2026):</strong> selected through an application process as one of a small group of mentors on HubSpot's agents programme, while also participating as a mentee.</li>
+      <li><strong>HubSpot AI Mentor (2026):</strong> selected by HubSpot as a mentor on its AI and agents programme, alongside participation as a mentee.</li>
       <li><strong>AI Mentor, Veriforce (2026):</strong> mentored two North American colleagues through end-to-end AI builds, including a sales dashboard and a social-listening agent.</li>
     </ul>
   </div>
