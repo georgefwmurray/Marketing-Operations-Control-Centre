@@ -96,7 +96,7 @@ permalink: /about/
   <div class="cards">
     <article class="card"><h3>HubSpot Academy</h3><p>13 certifications, including Super Admin Bootcamp, Reporting &amp; Analytics, Revenue Operations, Marketing Hub, Email Marketing, Content Marketing, Inbound Marketing, Inbound Sales and Sales Enablement.</p></article>
     <article class="card"><h3>Zapier</h3><p>Three certifications covering fundamentals, filters and paths, and webhooks.</p></article>
-    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 finalist (ranked in the global Top 8); Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p></article>
+    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 (global Top 8); selected by HubSpot as an AI Mentor; Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p></article>
   </div>
   <p class="small-note">Certification names and recognition are summarised from my CV. The full CV contains further detail.</p>
 </section>
