@@ -98,6 +98,10 @@ permalink: /HubSpot-Expert-South-Wales.html
       <div><span class="credential-type">Veriforce · 2026</span><h3>Veriforce AI Mentor</h3><p>Recognised for supporting colleagues as they build confidence and capability in applying AI at work.</p></div>
     </article>
     <article class="credential-card">
+      <div class="credential-mark credential-mark--hubspot-ai" aria-hidden="true">AI<br>MENTOR</div>
+      <div><span class="credential-type">Selected by HubSpot</span><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, recognising expertise in AI and a contribution to its practical application.</p></div>
+    </article>
+    <article class="credential-card">
       <div class="credential-mark credential-mark--rising" aria-hidden="true">RISING<br>STAR</div>
       <div><span class="credential-type">Mentorship · 2025</span><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme, reflecting a commitment to development and learning.</p></div>
     </article>
