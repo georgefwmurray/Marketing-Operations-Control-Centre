@@ -43,8 +43,8 @@ description: "Leadership approach, operating model and governance philosophy for
     <h2>People, platforms and priorities</h2>
   </div>
   <div class="leadership-grid">
-    <article class="leadership-card"><span class="outcome-number">01</span><h3>Team leadership</h3><p>Lead four direct reports within a centralised digital operations function supporting a 25-person marketing organisation. Create a delivery model that helps the wider team ship work reliably across Paid, Content, Lifecycle, Sales and Customer Care.</p></article>
-    <article class="leadership-card"><span class="outcome-number">02</span><h3>Multi-brand platform ownership</h3><p>Own HubSpot across five brands in EMEA and North America, with responsibility for the platform landscape and the operational decisions that keep it effective.</p></article>
+    <article class="leadership-card"><span class="outcome-number">01</span><h3>Team leadership</h3><p>Lead four direct reports within a centralised digital operations function supporting a 25-person marketing organisation. Oversee a £1.3m MarTech stack and create a delivery model that helps the wider team ship work reliably across Paid, Content, Lifecycle, Sales and Customer Care.</p></article>
+    <article class="leadership-card"><span class="outcome-number">02</span><h3>Multi-brand platform ownership</h3><p>Own HubSpot operations across five brands, supporting teams in EMEA and North America. This includes platform direction, governance, integration priorities and the operational decisions that keep the wider MarTech landscape effective.</p></article>
     <article class="leadership-card"><span class="outcome-number">03</span><h3>MarTech transformation</h3><p>Act as a key HubSpot stakeholder in the migration from Salesforce Marketing Cloud and Pardot to HubSpot, aligning platform change with business processes and stakeholder needs.</p></article>
     <article class="leadership-card"><span class="outcome-number">04</span><h3>Executive communication</h3><p>Translate technical delivery, automation and platform decisions into commercial and operational language for senior stakeholders, including SVP-level reporting.</p></article>
   </div>
@@ -60,7 +60,7 @@ description: "Leadership approach, operating model and governance philosophy for
     <ul>
       <li>Promoted an intern to Digital Operations Executive, who now owns the continuous development of the Data Import Agent.</li>
       <li>Created a team-led approach to agent development, with ideas coming from the people closest to the workflows.</li>
-      <li><strong>Mentor, Agents in Action, HubSpot (2026):</strong> selected through an application process as one of a small group of mentors on HubSpot's agents programme, while also participating as a mentee.</li>
+      <li><strong>HubSpot AI Mentor, Agents in Action (2026):</strong> selected by HubSpot through an application process as one of a small group of mentors on its AI agents programme, while also participating as a mentee.</li>
       <li><strong>AI Mentor, Veriforce (2026):</strong> mentored two North American colleagues through end-to-end AI builds, including a sales dashboard and a social-listening agent.</li>
     </ul>
   </div>
