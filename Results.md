@@ -1,5 +1,5 @@
 ---
-title: "Marketing Operations Results | George Murray"
+title: "Marketing Operations Results"
 description: "Results from the Marketing Operations Control Centre, including 135 hours of monthly team capacity released and £198,700 in annual value identified across five brands."
 ---
 
