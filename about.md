@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About George Murray | Marketing Operations and Technology Leader"
+title: "About | Marketing Operations and Technology Leader"
 description: "George Murray leads marketing operations, MarTech and AI transformation. Interim Head of Digital Marketing Operations at Veriforce, with multi-brand leadership, CRM and team experience."
 permalink: /about/
 ---

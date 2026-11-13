@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "George Murray | Marketing Operations and Technology Leader"
+title: "Marketing Operations and Technology Leader"
 description: "George Murray is a marketing operations and technology leader with experience in MarTech, HubSpot, multi-brand operations, team leadership and AI transformation."
 ---
 

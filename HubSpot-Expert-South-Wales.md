@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HubSpot Expert in South Wales | George Murray"
+title: "HubSpot Leadership in South Wales"
 description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, a £1.3m MarTech stack and AI-enabled marketing operations."
 permalink: /HubSpot-Expert-South-Wales.html
 ---
