@@ -1,6 +1,6 @@
 ---
-title: "Cross-Sell Campaign: 1.2 to 1.6 Products per Customer"
-description: "Automated cross-sell across Veriforce's 5 brands, using data-informed segmentation and lookalike lists to lift products per customer from 1.2 to 1.6 (2025)."
+title: "Cross-Sell Campaign: 1.6 vs 1.2 Products per Customer"
+description: "Led a three-month, multi-brand cross-sell strategy using customer product holdings and firmographic segmentation across email, website personalisation and paid retargeting. Targeted customers averaged 1.6 products per customer versus 1.2 in an untargeted control group."
 ---
 
 # Cross-Sell Campaign
@@ -9,25 +9,47 @@ description: "Automated cross-sell across Veriforce's 5 brands, using data-infor
 
 ---
 
-Category: Campaign & Conversion
-Context: Orchestrated an automated cross-sell campaign directing customers to other brands within the portfolio.
-Employer: Veriforce
-Featured: No
-Result: Uplift from 1.2 to 1.6 average products per customer
+Category: Campaign & Conversion  
+Context: Multi-brand cross-sell programme using customer and firmographic data to identify relevant opportunities across the group.  
+Employer: Veriforce  
+Featured: No  
+Result: 1.6 average products per targeted customer vs 1.2 in the untargeted control group  
 Year: 2025
 
 ## Overview
 
-An automated cross-sell campaign at Veriforce (2025) directing customers to other brands within the portfolio.
+I led a three-month cross-sell strategy across Veriforce's five-brand portfolio, helping customers discover relevant products and services available from other brands in the group.
 
-## Approach
+The programme was designed around customer fit rather than broad promotional messaging: use what we already knew about each customer's product holdings and business profile to identify where another brand could solve a relevant need.
 
-The Veriforce umbrella group has 5 brands. Using data-informed segmentation, we ran targeted cross-sell campaigns built around lookalike lists. Each campaign spoke to key pain points we knew those audiences had and that another brand in the group had already solved.
+## Strategy and targeting
+
+We combined existing product holdings with firmographic information, including employee numbers, industry and turnover. This gave us a more useful view of each customer's likely requirements and helped identify audiences for relevant cross-brand offers.
+
+The strategy used segmented customer audiences and lookalike lists, with messaging built around known pain points that another brand in the group could address.
+
+## Campaign execution
+
+The programme brought together several channels:
+
+- **Email:** targeted campaigns delivered to relevant customer segments.
+- **Website personalisation:** tailored website experiences to support cross-brand discovery.
+- **Paid retargeting:** audience lists for Meta, Google and LinkedIn, coordinated with the Head of Digital Performance.
+
+HubSpot segments and workflows supported the campaign delivery and automation, while paid retargeting extended the activity beyond owned channels.
 
 ## My role
 
-Orchestrated the automated campaign.
+I led the campaign strategy, including the audience and targeting approach and the coordinated channel plan. My immediate team ran the campaign, building and operating the segments, workflows and campaign activity. I worked with the Head of Digital Performance on the paid retargeting audiences and activation.
 
-## Result
+## Measurement and results
 
-**Average products per customer up from 1.2 to 1.6**
+We ran the programme for three months and compared the targeted customer group with a control group that was not targeted.
+
+At measurement, targeted customers averaged **1.6 products per customer**, compared with **1.2 in the control group** — a **33% higher average** among the targeted group.
+
+Using an untargeted control group provides a more meaningful comparison than a simple before-and-after measure and helps isolate the difference associated with the campaign.
+
+## Why it mattered
+
+The programme turned the group's multi-brand structure into a practical customer-growth opportunity. By connecting customer data, relevant propositions and coordinated channel activity, we made it easier to introduce existing customers to solutions from elsewhere in the portfolio.
