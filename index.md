@@ -6,26 +6,20 @@ description: "George Murray is a marketing operations and technology leader with
 
 <section class="hero">
   <p class="eyebrow">Marketing Operations · Technology · AI Transformation</p>
-  <h1>Marketing operations leadership across people, platforms and AI-enabled change.</h1>
-  <p class="lead">I'm George Murray, Interim Head of Digital Marketing Operations at Veriforce. I lead a team of four, oversee a £1.3m MarTech stack and HubSpot operations across five brands, supporting a 25-person marketing organisation across EMEA and North America.</p>
+  <h1>Making marketing work better.</h1>
+  <h2>Building the people, platforms and processes behind effective marketing teams.</h2>
+  <p class="lead">I'm George Murray, a marketing operations and technology leader. I enjoy taking complex marketing environments and making them simpler, more effective and easier to scale.</p>
+  <p class="lead">My work brings together people leadership, MarTech, data and automation — including the practical application of AI to improve how marketing teams operate.</p>
   <div class="hero-meta">
+    <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
     <span>South Wales, UK</span>
-    <span>Interim Head of Digital Marketing Operations</span>
-    <span>HubSpot · MarTech strategy · AI governance</span>
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
-    <a class="button secondary" href="{{ '/about/' | relative_url }}">Career and experience</a>
-    <a class="button secondary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
+    <a class="button secondary" href="{{ '/about/' | relative_url }}">Leadership experience</a>
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
+    <a class="button secondary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
   </div>
-  <div class="metrics" aria-label="Selected impact">
-    <div class="metric"><strong>£198.7k</strong><span>Annual value identified across capacity, reduced agency spend, retired software and estimated risk benefits</span></div>
-    <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
-    <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
-    <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
-  </div>
-  <p class="small-note">The £198.7k figure is a combined annual value estimate, not a cash-savings claim. It includes an illustrative valuation of released team capacity, actual agency and subscription spend reductions, and separately identified estimates. The 135 hours is estimated capacity released, not a reduction in paid working hours.</p>
 </section>
 
 <section class="section" id="recognition">
@@ -66,6 +60,18 @@ description: "George Murray is a marketing operations and technology leader with
     <article class="card"><p class="kicker">Commercial performance</p><h3>Lifecycle and revenue programmes</h3><p>Work across lead management, partner integrations, customer journeys and conversion, including an increase in day-one contact rate from 32% to 87%.</p><p class="section-cta"><a href="Campaign-Commercial-Projects.html">View selected projects ↗</a></p></article>
   </div>
   <p class="section-cta"><a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Explore the project portfolio and case studies ↗</a></p>
+</section>
+
+<section class="section" id="operating-model">
+  <p class="eyebrow">Operating model at a glance</p>
+  <h2>Scale and value from practical operational change.</h2>
+  <div class="metrics" aria-label="Selected operating model measures">
+    <div class="metric"><strong>£198.7k</strong><span>Combined annual value identified across capacity, reduced agency spend, retired software and estimated risk benefits</span></div>
+    <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
+    <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
+    <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
+  </div>
+  <p class="small-note">The £198.7k figure is a combined annual value estimate, not a cash-savings claim. It includes an illustrative valuation of released team capacity, actual agency and subscription spend reductions, and separately identified estimates. The 135 hours is estimated capacity released, not a reduction in paid working hours.</p>
 </section>
 
 <section class="section" id="impact">
