@@ -6,12 +6,12 @@ description: "George Murray is a marketing operations and technology leader with
 
 <section class="hero">
   <p class="eyebrow">Marketing Operations · Technology · AI Transformation</p>
-  <h1>I build and lead the systems that make marketing work better.</h1>
-  <p class="lead">I'm George Murray. I lead marketing operations, technology and change across teams and platforms — making marketing delivery more effective, consistent and accountable.</p>
+  <h1>Marketing operations leadership across people, platforms and AI-enabled change.</h1>
+  <p class="lead">I'm George Murray, Interim Head of Digital Marketing Operations at Veriforce. I lead a team of four, oversee a £1.3m MarTech stack and HubSpot operations across five brands, supporting a 25-person marketing organisation across EMEA and North America.</p>
   <div class="hero-meta">
     <span>South Wales, UK</span>
-    <span>Team and platform leadership</span>
-    <span>HubSpot · MarTech · AI</span>
+    <span>Interim Head of Digital Marketing Operations</span>
+    <span>HubSpot · MarTech strategy · AI governance</span>
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
@@ -20,11 +20,24 @@ description: "George Murray is a marketing operations and technology leader with
     <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
   </div>
   <div class="metrics" aria-label="Selected impact">
-    <div class="metric"><strong>£198.7k</strong><span>Annual value identified through MOCC</span></div>
-    <div class="metric"><strong>135 hrs</strong><span>Manual work reclaimed each month</span></div>
-    <div class="metric"><strong>11</strong><span>AI agents in live operation</span></div>
-    <div class="metric"><strong>5</strong><span>Brands supported by the operating model</span></div>
+    <div class="metric"><strong>£198.7k</strong><span>Annual value identified across capacity, reduced agency spend, retired software and estimated risk benefits</span></div>
+    <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
+    <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
+    <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
   </div>
+  <p class="small-note">The £198.7k figure is a combined annual value estimate, not a cash-savings claim. It includes an illustrative valuation of released team capacity, actual agency and subscription spend reductions, and separately identified estimates. The 135 hours is estimated capacity released, not a reduction in paid working hours.</p>
+</section>
+
+<section class="section" id="recognition">
+  <p class="eyebrow">Credentials and recognition</p>
+  <h2>HubSpot expertise, recognised and continually developed.</h2>
+  <div class="cards">
+    <article class="card"><p class="kicker">Global recognition · 2026</p><h3>HubSpot Admin Arena — Global Top 8</h3><p>Ranked in the global Top 8 in the 2026 HubSpot Admin Arena.</p></article>
+    <article class="card"><p class="kicker">Professional learning</p><h3>13 HubSpot Academy certifications</h3><p>Formal learning across HubSpot administration, reporting, revenue operations, marketing and sales disciplines.</p></article>
+    <article class="card"><p class="kicker">Mentoring and AI</p><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, alongside the Veriforce AI Mentor role in 2026.</p></article>
+    <article class="card"><p class="kicker">Development · 2025</p><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme.</p></article>
+  </div>
+  <p class="section-cta"><a href="{{ '/about/' | relative_url }}">See certifications, mentoring and career experience ↗</a></p>
 </section>
 
 <section class="section" id="leadership">
