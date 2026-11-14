@@ -1,47 +1,63 @@
 ---
-title: "ResponseIQ Telephony Integration: Day-One Contact Rate from 32% to 87%"
-description: "Designed and integrated ResponseIQ into Veriforce lead routing for instant callbacks on high-intent pages, improving day-one lead contact from 32% to 87%."
+title: "Response iQ Integration: Improving Day-One Contact and PPC Conversion"
+description: "Identified a lead-response gap through Power BI, then designed and built a Response iQ, HubSpot, Zapier and Microsoft Dynamics workflow that increased day-one contact from 32% to 87% and PPC lead-to-sale conversion from 36% to 44%."
 ---
 
-# ResponseIQ Telephony Integration
+# Response iQ Telephony Integration
 
 [Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
 
 <div class="case-study-facts">
-  <div class="case-study-fact"><strong>32% → 87%</strong><span>Day-one contact rate</span></div>
-  <div class="case-study-fact"><strong>2026</strong><span>Delivery year</span></div>
-  <div class="case-study-fact"><strong>Veriforce</strong><span>Business context</span></div>
+  <div class="case-study-fact"><strong>32% → 87%</strong><span>Leads spoken to on day one</span></div>
+  <div class="case-study-fact"><strong>36% → 44%</strong><span>PPC lead-to-sale conversion</span></div>
+  <div class="case-study-fact"><strong>2 minutes</strong><span>Target time from form submission to call</span></div>
+  <div class="case-study-fact"><strong>2026</strong><span>Veriforce</span></div>
 </div>
 
-<p class="case-study-intro">A lead-routing integration designed to reduce the delay between a high-intent enquiry and the first sales contact.</p>
+<p class="case-study-intro">I used performance reporting to uncover a lead-response problem, then designed and built an integrated callback and routing process that helped Sales speak to more prospects while their interest was highest.</p>
 
 <section class="case-study-section">
   <h2>The business problem</h2>
-  <p>Veriforce received inbound leads from multiple sources. The existing MQL-to-SQL handover could take over an hour, creating a gap between a prospect expressing interest and the first sales call. Reporting showed a strong relationship between the speed of first contact and whether a lead converted.</p>
+  <p>Power BI reporting showed that leads contacted on the day they submitted a conversion form were much more likely to progress to sale. Looking at the actual process exposed the gap: only 32% of inbound leads were being spoken to on day one.</p>
+  <p>The issue was not simply lead volume or lead quality. It was the delay between a prospect expressing interest and a meaningful conversation with Sales.</p>
 </section>
 
 <section class="case-study-section">
-  <h2>The approach</h2>
-  <p>I designed the ResponseIQ telephony integration and connected it to lead routing so that leads originating on high-intent pages could receive an immediate callback. The change focused on acting while the prospect was still engaged, rather than relying on a later manual follow-up.</p>
-  <p>The work joined the lead-routing process with telephony capability, making the response faster at the point where intent was highest.</p>
+  <h2>The solution</h2>
+  <p>I identified an instant callback process triggered by form submission, with the aim of getting every inbound lead called within two minutes. I owned the work end to end, from requirements gathering and solution design through to the technical build, pilot and wider rollout.</p>
+  <p>The workflow connected four platforms:</p>
+  <ul>
+    <li><strong>HubSpot</strong> passed the lead submission details to Response iQ.</li>
+    <li><strong>Response iQ</strong> handled the callback and captured the agent who answered.</li>
+    <li><strong>Zapier</strong> passed the answering-agent information back into HubSpot.</li>
+    <li><strong>HubSpot</strong> used that information to assign the lead before passing it to Sales through <strong>Microsoft Dynamics</strong>.</li>
+  </ul>
+  <p>This connected the speed of the initial response with the information needed to route the lead correctly into the Sales process.</p>
+</section>
+
+<section class="case-study-section">
+  <h2>Pilot, learn and scale</h2>
+  <p>Rather than deploy the change across every source immediately, I tested the process with PPC leads first. This provided a focused way to validate the callback and routing workflow and measure its effect on conversion before rolling it out to all inbound leads.</p>
+</section>
+
+<section class="case-study-section">
+  <h2>The results</h2>
+  <p><strong>The proportion of leads spoken to on day one increased from 32% to 87%.</strong> The PPC pilot also increased lead-to-sale conversion from 36% to 44% — an improvement of 8 percentage points.</p>
+  <div class="case-study-note"><strong>Measurement:</strong> Day-one contact is the proportion of leads successfully spoken to on the day of form submission, not simply the proportion receiving a call attempt. PPC lead-to-sale conversion moved from 36% to 44% during the pilot.</div>
 </section>
 
 <section class="case-study-section">
   <h2>My contribution</h2>
   <ul>
-    <li>Designed the ResponseIQ integration into the lead-routing process.</li>
-    <li>Connected high-intent page enquiries to an immediate callback workflow.</li>
-    <li>Used existing Power BI reporting on contact timing and conversion to identify the operational problem and assess the result.</li>
+    <li>Analysed Power BI reporting to identify the relationship between contact timing and conversion, and uncover the 32% day-one contact rate.</li>
+    <li>Identified the instant callback approach and defined the requirements.</li>
+    <li>Designed and completed the technical build across Response iQ, Zapier, HubSpot and Microsoft Dynamics.</li>
+    <li>Built and tested the process with PPC leads before scaling it across inbound lead sources.</li>
+    <li>Used contact and conversion outcomes to demonstrate the operational and commercial impact.</li>
   </ul>
 </section>
 
 <section class="case-study-section">
-  <h2>The result</h2>
-  <p><strong>The day-one contact rate increased from 32% to 87%.</strong> This materially improved the speed and reliability of the first sales interaction.</p>
-  <div class="case-study-note"><strong>Measurement note:</strong> The result shown is the reported change in day-one contact rate. This case study does not attribute a specific revenue uplift to the integration.</div>
-</section>
-
-<section class="case-study-section">
   <h2>Why it mattered</h2>
-  <p>The integration addressed a practical point of friction between marketing-generated demand and sales follow-up. It demonstrates how CRM, routing and telephony decisions can improve the customer experience when they are designed around the timing of buyer intent.</p>
+  <p>The project turned a reporting insight into a practical improvement across the marketing-to-sales journey. It demonstrates end-to-end ownership of a cross-platform MarTech integration, combining data analysis, process design, hands-on technical delivery and controlled rollout to improve both customer response and sales conversion.</p>
 </section>
