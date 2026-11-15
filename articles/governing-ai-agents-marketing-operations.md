@@ -1,40 +1,45 @@
 ---
 layout: default
 title: "Governing AI Agents in Marketing Operations | George Murray"
-description: "A practical approach to ownership, risk, human review and lifecycle governance for AI agents used in marketing operations."
+description: "How I govern AI agents in marketing operations through clear ownership, risk-based controls, human review and lifecycle monitoring."
 permalink: /insights/governing-ai-agents-marketing-operations/
 ---
 
 <section class="page-hero">
   <p class="eyebrow">Marketing operations · AI governance</p>
   <h1>Governing AI agents in marketing operations</h1>
-  <p class="page-lead">An agent is not production-ready simply because its workflow runs. It needs an owner, a defined purpose, appropriate controls and a way to review whether it is still doing the right job.</p>
+  <p class="page-lead">An agent is not production-ready simply because its workflow runs. It needs an owner, a defined purpose, controls that match its risk and a way to review whether it is still doing the right job.</p>
   <div class="hero-tags"><span>AI governance</span><span>Marketing operations</span><span>Human oversight</span></div>
+  <p class="article-meta">George Murray · Marketing operations and AI governance</p>
 </section>
 
 <section class="content-section prose">
   <h2>Start with the process, not the model</h2>
-  <p>The useful starting point for an AI agent is a repeatable business process with a clear problem. In marketing operations, that might be checking an email build, preparing data for import, assembling a campaign or monitoring the health of an automation.</p>
-  <p>Before choosing a tool, define what the process is meant to achieve, who owns the outcome, what information it can use and what must remain a human decision.</p>
+  <p>The useful starting point is a repeatable business process with a clear problem. In my team that meant checking email builds against a checklist, preparing recurring reports for import and building campaigns from approved templates. Before choosing a tool, I define what the process should achieve, who owns the outcome, what information it can use and what must stay a human decision.</p>
 
-  <h2>Give every agent a defined owner</h2>
-  <p>Ownership should be visible in the operating model. The person accountable for a process may not be the person who built the automation. The process owner should understand the expected output, review exceptions and decide when the workflow needs to change or stop.</p>
-  <p>A useful agent record should include its purpose, business owner, technical owner where relevant, status, version, connected systems, risk classification and next review date.</p>
+  <h2>Give every agent an accountable owner</h2>
+  <p>The person accountable for a process may not be the person who built the automation. I built the Email QA and Website QA agents, and they are now owned by the Marketing Automation Executive and the Website Manager. The owner understands the expected output, reviews exceptions and decides when the workflow needs to change or stop.</p>
+  <p>Every agent in the registry records its purpose, owner, status, version, risk tier and next review date.</p>
 
   <h2>Match controls to the risk</h2>
-  <p>Not every agent needs the same level of control. A read-only check that flags missing metadata is different from an agent that changes CRM records, publishes content or triggers customer communications.</p>
-  <p>Controls should reflect the potential impact of an error. Consider the data the agent can access, the actions it can take, whether those actions can be reversed, and who is affected if it gets something wrong.</p>
+  <p>Not every agent needs the same control. Email QA reads a build and posts findings to an audit log. That is a different risk from an agent that clones campaign assets or creates posts on a live website.</p>
+  <p>I classify each agent as Low, Medium or High risk. The Campaign Build, Data Import, WordPress Post Creation and CRM Health agents are High risk and reviewed quarterly. The rest are reviewed every six months. Each live agent also has a defined failure mode and a rollback path.</p>
 
   <h2>Keep human review where it matters</h2>
-  <p>Human oversight should be designed into the workflow rather than added as a vague final instruction. Define which outputs require approval, which exceptions must be escalated and what evidence is retained.</p>
-  <p>For customer-facing content and changes to business-critical data, approval and clear accountability remain important. Automation can prepare, check and route work; it should not make responsibility disappear.</p>
+  <p>Human oversight should be designed into the workflow. The CRM Health Agent finds workflows, emails, forms and landing pages with no activity in 12 months, but it only proposes them. A person approves anything that is archived. The Campaign Build Agent has a defined human QA step before anything goes live, and the Content Agent routes every draft for approval.</p>
+  <p>Automation can prepare, check and route work. It should not make responsibility disappear.</p>
 
   <h2>Review the agent through its lifecycle</h2>
-  <p>Agents need maintenance just like other parts of the marketing technology stack. Connected platforms change, source data shifts, business rules are updated and a workflow that was once useful can become unreliable.</p>
-  <p>Set review dates, monitor failures and usage, record changes and retire agents that no longer serve a clear purpose. A simple registry makes the portfolio easier to manage than a collection of undocumented flows.</p>
+  <p>Platforms change, source data shifts and business rules are updated, so a workflow that was useful can quietly become unreliable. The Agent Health Monitor exists for that reason. It watches live agent runs, flags failures including silent failures on scheduled runs, reports usage and prompts reviews when they fall due.</p>
+  <p>New ideas go through the same discipline. Every agent request is logged and checked for overlap with existing tools and agents, and nothing is built without approval. The registry holds more than 300 governance records.</p>
 
-  <h2>Applying this in practice</h2>
-  <p>In the Marketing Operations Control Centre (MOCC), I use a six-layer operating model covering Control, Production, Data, Intelligence, Governance and Knowledge. Eleven live agents operate across the first five layers, with the Knowledge layer in planning. The registry records each agent's purpose, owner, status, risk and review date.</p>
-  <p>The aim is not to maximise the number of agents. It is to make useful automation understandable, accountable and sustainable for the teams relying on it.</p>
-  <p><a href="{{ '/Agent-Registry.html' | relative_url }}">Explore the MOCC Agent Registry</a> or <a href="{{ '/Results.html' | relative_url }}">read how its operational value is assessed</a>.</p>
+  <h2>What I would tell another operations leader</h2>
+  <ul>
+    <li>Define the owner and the human decision points before you build.</li>
+    <li>Set controls by what an error would cost, not by how clever the agent is.</li>
+    <li>Monitor for silent failure, not only visible failure.</li>
+    <li>Keep a registry, and retire agents that no longer earn their place.</li>
+  </ul>
+  <p>The aim is not to maximise the number of agents. It is to make useful automation understandable and accountable for the teams who rely on it.</p>
+  <p><a href="{{ '/Agent-Registry.html' | relative_url }}">Explore the MOCC Agent Registry</a> or <a href="{{ '/Results.html' | relative_url }}">read how the operational value is assessed</a>.</p>
 </section>
