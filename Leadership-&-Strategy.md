@@ -50,6 +50,21 @@ description: "Leadership approach, operating model and governance philosophy for
   </div>
 </section>
 
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Strategic marketing partnership</p>
+    <h2>Connect commercial ambition to the marketing operating plan.</h2>
+    <p>Work alongside the SVP Marketing and functional leaders to shape priorities, challenge assumptions and turn business objectives into measurable plans.</p>
+  </div>
+  <div class="leadership-grid">
+    <article class="leadership-card"><span class="outcome-number">01</span><h3>Commercial planning and performance</h3><p>Contribute to twice-yearly H1 and H2 planning with the marketing leadership team. Start with the overall marketing target, account for seasonality and year-on-year performance, then allocate monthly lead targets across functions and lead sources using historical results. Review leads, workable leads and revenue against target with senior leaders each morning, identifying where priorities or activity may need to change.</p></article>
+    <article class="leadership-card"><span class="outcome-number">02</span><h3>Customer-led prioritisation</h3><p>Challenged a proposal to increase renewal communications by mapping the full customer lifecycle and identifying email oversaturation. Worked with stakeholders across functions to reduce email volume by 17%, creating capacity for more value-led communications. Click-through rates increased without negatively affecting retention.</p></article>
+    <article class="leadership-card"><span class="outcome-number">03</span><h3>Investment and platform decisions</h3><p>Identified an underused A/B testing and personalisation subscription where in-house WordPress development already covered much of the functionality. Recommended cancellation to the SVP Marketing, secured approval and actioned the change, releasing budget for central marketing activity such as campaigns and PPC. Separately led competitor analysis and recommended consolidating a brand's marketing platform into the existing HubSpot environment, balancing licence costs, internal expertise and training needs, with final sign-off from the SVP.</p></article>
+    <article class="leadership-card"><span class="outcome-number">04</span><h3>Constructive challenge and campaign effectiveness</h3><p>Challenge campaign audiences to ensure offers are relevant rather than defaulting to whole-database sends. For a smaller growth brand, recommended a segmented and tested rollout instead of a blanket product promotion. The approach delivered higher-than-usual open and click-through rates and the brand's highest campaign ROI of that quarter.</p></article>
+  </div>
+</section>
+
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">Developing capability</p>
