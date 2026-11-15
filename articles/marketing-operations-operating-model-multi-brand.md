@@ -1,39 +1,38 @@
 ---
 layout: default
-title: "Building a Multi-Brand Marketing Operations Operating Model | George Murray"
-description: "How to create clear ownership, consistent processes, reliable data and shared technology across a multi-brand marketing organisation."
+title: "Building a Multi-Brand Marketing Operations Model | George Murray"
+description: "How I balance shared standards, brand flexibility, team capability and technology ownership across a multi-brand marketing organisation."
 permalink: /insights/multi-brand-marketing-operations-operating-model/
 ---
 
 <section class="page-hero">
-  <p class="eyebrow">Marketing operations · Operating model</p>
+  <p class="eyebrow">Marketing operations · Operating models</p>
   <h1>Building a marketing operations model across multiple brands</h1>
-  <p class="page-lead">Multi-brand marketing operations needs more than shared software. It needs a clear view of what should be standardised, where brands need flexibility and who owns the decisions.</p>
+  <p class="page-lead">Multi-brand marketing operations needs more than shared software. It needs a clear view of what to standardise, where brands need flexibility and who owns each decision.</p>
   <div class="hero-tags"><span>Multi-brand operations</span><span>MarTech</span><span>Team leadership</span></div>
+  <p class="article-meta">George Murray · Marketing operations and operating models · 15 November 2026</p>
 </section>
 
 <section class="content-section prose">
   <h2>Make the operating model explicit</h2>
-  <p>When several brands share a marketing technology environment, informal agreements quickly become difficult to manage. Teams need to know who owns platforms, data, campaign processes, integrations and decisions about change.</p>
-  <p>Documenting those responsibilities makes it easier to prioritise work, resolve issues and maintain consistency as the organisation grows.</p>
+  <p>I lead HubSpot operations across five brands, supporting a 25-person marketing organisation across EMEA and North America. With that many brands sharing a technology environment, informal agreements stop working quickly. Teams need to know who owns platforms, data, integrations and decisions about change, and I work with IT and Legal where enterprise controls apply.</p>
 
   <h2>Standardise the foundations</h2>
-  <p>Some practices should be consistent across brands: data definitions, lifecycle stages, integration standards, access controls, reporting principles and quality checks. A shared foundation improves visibility and reduces duplicated effort.</p>
-  <p>Standardisation should not mean every brand communicates in the same way. Brand positioning, audience needs and local market requirements may call for different content and journeys. The operating model should distinguish between shared standards and legitimate local variation.</p>
+  <p>Some things should be identical across brands: data definitions, lifecycle stages, quality checks and reporting. Our Email QA and Website QA agents apply the same checklists across all five brands, and the Data Import Agent standardises 13 recurring reports each week.</p>
+  <p>Standardisation should not flatten every brand into one voice. For a smaller growth brand I recommended a segmented, tested rollout in place of a blanket product promotion. It produced higher open and click-through rates than usual and the brand's highest campaign ROI that quarter. Shared standards sit underneath, and local variation sits on top.</p>
 
   <h2>Connect marketing and sales processes</h2>
-  <p>CRM and automation are most useful when they support the full lead and customer journey. Agree how leads are captured, qualified, routed, worked and measured. Make handover expectations clear and use reporting to identify where the process is breaking down.</p>
-  <p>Integrations should support that operating agreement rather than simply move data between systems. Ownership of field definitions, error handling and changes needs to be clear on both sides.</p>
+  <p>CRM and automation work best when they support the whole lead journey. Agree how leads are captured, qualified, routed and measured, and use reporting to find where the process breaks.</p>
+  <p>Power BI reporting showed that leads contacted on the day they enquired were much more likely to progress. Only 32% were being spoken to on day one. The callback workflow I built across Response iQ, HubSpot, Zapier and Microsoft Dynamics raised that to 87% and lifted PPC lead-to-sale conversion from 36% to 44%. The Dynamics integration also cut average lead-to-sales handover time from 7 days to 4.</p>
 
   <h2>Build capability within the team</h2>
-  <p>A centralised operations function should make the wider marketing team more effective, not create a permanent queue for every small change. Clear service expectations, documentation and training help teams understand what they can manage themselves and when to involve a specialist.</p>
-  <p>Team structure should reflect the work that needs to be done: platform administration, campaign operations, web delivery, data, analytics and governance may need different skills and levels of support.</p>
+  <p>A central function should make the wider team more effective, not create a queue for every small change. I promoted an intern to Digital Operations Executive, who now owns the continued development of the Data Import Agent. Agent ideas come from the people closest to the work, are refined together and are then built by the team.</p>
 
   <h2>Measure the outcomes that matter</h2>
-  <p>Useful measures include lead response and handover time, conversion through lifecycle stages, data quality, campaign delivery time, platform adoption, operational capacity and external spend. Keep direct cost reductions distinct from the value of capacity released and from estimated benefits.</p>
+  <p>I track response and handover time, conversion through lifecycle stages, campaign delivery time and external spend. I keep the three kinds of benefit separate. Confirmed spend reductions are one thing: agency spend fell from £20,000 to £10,000 a month and five tools were retired. Estimated capacity released, around 135 hours a month, is another. Judgement-based estimates are the third. I explain the approach in <a href="{{ '/insights/how-to-value-ai-agents-without-overclaiming/' | relative_url }}">how to value AI agents without overclaiming</a>.</p>
 
   <h2>Put governance into the day-to-day work</h2>
-  <p>Governance is most effective when it is part of normal delivery. Owners, approvals, risk, review dates and change history should be easy to find. The aim is to make the system dependable without adding unnecessary administration.</p>
-  <p>This is the principle behind my work on multi-brand HubSpot operations and the Marketing Operations Control Centre. The operating model connects people, platforms and processes, with automation used where it improves consistency and frees the team to focus on higher-value work.</p>
-  <p><a href="{{ '/about/' | relative_url }}">Read about my experience</a> or <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">explore selected projects</a>.</p>
+  <p>Owners, approvals, risk tiers and review dates should be easy to find. In practice that means a registry and a lightweight approval route, so the system stays dependable without adding administration.</p>
+  <p>The common thread is simple: standardise what makes the system reliable, protect what makes each brand distinct, and give people clear ownership of both.</p>
+  <p><a href="{{ '/about/' | relative_url }}">Read about my experience</a> or explore the <a href="{{ '/Campaign%20%26%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html' | relative_url }}">Response iQ</a> and <a href="{{ '/Campaign%20%26%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html' | relative_url }}">Dynamics integration</a> case studies.</p>
 </section>
