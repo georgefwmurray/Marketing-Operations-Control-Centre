@@ -30,8 +30,9 @@ description: "Results from the Marketing Operations Control Centre, including 13
     <div class="impact-row"><div class="impact-copy"><h3>Rework prevention</h3><p>Estimated value of fewer avoidable errors and repeat tasks.</p></div><strong>£4,800</strong><div class="impact-track"><span style="width:2.4%"></span></div></div>
     <div class="impact-row"><div class="impact-copy"><h3>Compliance and reliability</h3><p>Estimated value of more consistent controls and fewer operational failures.</p></div><strong>~£19,400</strong><div class="impact-track"><span style="width:9.8%"></span></div></div>
   </div>
+  <p class="small-note"><strong>Retired tools:</strong> Wingify, Jasper, ZeroBounce, BeeFree and Clearbit.</p>
   <div class="total-value"><span>Total annual value identified</span><strong>£198,700</strong></div>
-  <p class="small-note">Team capacity is valued at an illustrative £25/hour. The £14,000 MarTech figure is avoided subscription spend from five retired tools. Rework prevention and compliance/reliability are estimates. The hourly rate is a team-capacity valuation, not a charge-out rate. These categories should not be interpreted as equivalent cash savings.</p>
+  <p class="small-note">Team capacity is valued at an illustrative £25/hour. The £14,000 MarTech figure is avoided subscription spend from five retired tools. The £4,800 rework and £19,400 compliance/reliability figures are provisional placeholders from the initial value assessment, not independently measured savings. The hourly rate is a team-capacity valuation, not a charge-out rate. Of the total, £134,000 (about 67%) is external spend reduction; the remainder is capacity value and provisional estimates. These categories should not be interpreted as equivalent cash savings.</p>
 </section>
 
 <section class="content-section">
@@ -39,7 +40,7 @@ description: "Results from the Marketing Operations Control Centre, including 13
     <p class="eyebrow">How the figures are calculated</p>
     <h2>Confirmed reductions and estimated benefits are kept separate.</h2>
     <p>The 135 monthly hours are valued at £25 per hour and annualised: 135 × £25 × 12 = £40,500. The agency figure reflects the reduction from £20,000 to £10,000 per month. The software figure is the annual subscription spend avoided after five tools were retired.</p>
-    <p>The £4,800 rework figure and approximately £19,400 compliance and reliability figure are estimates. They are included in the total value identified, but are not presented as direct cash savings. Agent-level risk estimates are not added again where they are already represented in these wider categories.</p>
+    <p>The £4,800 rework figure and £19,400 compliance and reliability figure are provisional placeholders carried forward from the initial value assessment. They are included in the total value identified, but are not presented as measured or direct cash savings. Agent-level risk estimates are not added again where they are already represented in these wider categories.</p>
   </div>
 </section>
 
