@@ -3,14 +3,11 @@ layout: default
 title: "Measuring AI Automation's Business Value | George Murray"
 description: "How to measure AI automation through cost reduction, released capacity, quality and operational control, with practical marketing operations examples."
 permalink: /insights/measuring-the-business-value-of-ai-automation/
-publish_date: "2026-12-01"
-datePublished: "2026-12-01"
-dateModified: "2026-12-01"
+publish_date: "2026-11-16"
+datePublished: "2026-11-16"
+dateModified: "2026-11-16"
 ---
 
-{% assign publish_day = page.publish_date %}
-{% assign today = site.time | date: "%Y-%m-%d" %}
-{% if today >= publish_day %}
 <section class="page-hero">
   <p class="eyebrow">Marketing operations · AI automation</p>
   <h1>AI automation: what does the business actually get back?</h1>
@@ -21,7 +18,7 @@ dateModified: "2026-12-01"
     <span>Commercial value</span>
     <span>Marketing operations</span>
   </div>
-  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 1 December 2026 · Last updated 1 December 2026</p>
+  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 16 November 2026 · Last updated 16 November 2026</p>
 </section>
 
 <section class="content-section prose">
@@ -122,10 +119,3 @@ dateModified: "2026-12-01"
   "inLanguage": "en-GB"
 }
 </script>
-{% else %}
-<section class="page-hero">
-  <p class="eyebrow">Insights · Scheduled article</p>
-  <h1>AI automation: what does the business actually get back?</h1>
-  <p class="page-lead">This article is scheduled for publication on 1 December 2026.</p>
-</section>
-{% endif %}
