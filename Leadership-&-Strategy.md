@@ -120,6 +120,15 @@ description: "Leadership approach, operating model and governance philosophy for
   </div>
 </section>
 
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Featured industry perspective</p>
+    <h2>Making the right HubSpot integration decisions.</h2>
+    <p>I shared my perspective with Supered on choosing the right approach to HubSpot integrations, balancing custom development, available products, ownership and long-term operational governance.</p>
+    <p><a class="text-link" href="https://www.supered.io/blog/hubspot-custom-integration/" target="_blank" rel="noopener">Read the interview on Supered ↗</a></p>
+  </div>
+</section>
+
 <section class="closing-panel">
   <p class="eyebrow">The leadership philosophy</p>
   <h2>Automate the toil. Elevate the team.</h2>
