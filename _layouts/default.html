@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  {% if page.publish_date %}
+    {% assign page_publish_day = page.publish_date %}
+    {% assign current_build_day = site.time | date: "%Y-%m-%d" %}
+    {% if current_build_day < page_publish_day %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endif %}
+  {% endif %}
   <meta name="theme-color" content="#f6f5f1">
   <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
   <meta property="og:site_name" content="{{ site.title | escape }}">
