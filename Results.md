@@ -70,6 +70,15 @@ description: "Results from the Marketing Operations Control Centre, including 13
   </div>
 </section>
 
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Featured industry perspective</p>
+    <h2>Making the right HubSpot integration decisions.</h2>
+    <p>In an interview with Supered, I discuss how to approach HubSpot integrations, including build-versus-buy decisions, technology ownership and operational governance.</p>
+    <p><a class="text-link" href="https://www.supered.io/blog/hubspot-custom-integration/" target="_blank" rel="noopener">Read the interview on Supered ↗</a></p>
+  </div>
+</section>
+
 <section class="closing-panel">
   <p class="eyebrow">The operating model</p>
   <h2>See what each agent does.</h2>
