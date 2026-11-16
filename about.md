@@ -116,7 +116,7 @@ permalink: /about/
   <div class="split">
     <div><h2>Open to senior marketing operations roles.</h2></div>
     <div class="prose">
-      <p>I'm interested in senior leadership roles covering marketing operations, MarTech and AI transformation, particularly where the organisation is looking to improve how its marketing function works at scale.</p>
+      <p>Based in South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
       <div class="actions">
         <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
       </div>
