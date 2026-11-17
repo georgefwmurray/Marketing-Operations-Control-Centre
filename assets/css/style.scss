@@ -353,14 +353,32 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 @media(max-width:480px) { .credential-card { grid-template-columns:84px minmax(0,1fr); gap:.9rem; padding:1rem; } .credential-mark { min-height:76px; font-size:.82rem; } .credential-mark--arena { font-size:1.05rem; } }
 
 
-/* Compact personal sign-off at the foot of the HubSpot leadership page. */
-.closing-profile { display:flex; align-items:center; gap:.9rem; margin-top:1.5rem; padding-top:1.25rem; border-top:1px solid #d4e0d9; }
-.closing-profile img { display:block; width:56px; height:56px; flex:0 0 56px; object-fit:cover; object-position:center 38%; border-radius:6px; }
-.closing-profile__copy { display:flex; flex-direction:column; gap:.2rem; min-width:0; }
-.closing-profile__copy strong { color:var(--ink); font:700 .95rem "Manrope",sans-serif; }
-.closing-profile__copy span { color:var(--muted); font-size:.78rem; line-height:1.45; }
+/* Standalone profile card beneath the HubSpot page closing panel. */
+.closing-profile {
+  display:flex;
+  align-items:center;
+  gap:1.25rem;
+  margin:1.25rem 0 3.5rem;
+  padding:1.25rem;
+  border:1px solid #d4e0d9;
+  border-radius:6px;
+  background:#e8efeb;
+}
+.closing-profile img {
+  display:block;
+  width:128px;
+  height:128px;
+  flex:0 0 128px;
+  object-fit:cover;
+  object-position:center 38%;
+  border-radius:6px;
+}
+.closing-profile__copy { display:flex; flex-direction:column; gap:.35rem; min-width:0; }
+.closing-profile__copy strong { color:var(--ink); font:700 1.15rem "Manrope",sans-serif; }
+.closing-profile__copy span { color:var(--muted); font-size:.9rem; line-height:1.5; }
 @media(max-width:480px) {
-  .closing-profile { gap:.75rem; margin-top:1.25rem; padding-top:1rem; }
-  .closing-profile img { width:50px; height:50px; flex-basis:50px; }
-  .closing-profile__copy span { font-size:.74rem; }
+  .closing-profile { gap:1rem; margin:1rem 0 2.5rem; padding:1rem; }
+  .closing-profile img { width:104px; height:104px; flex-basis:104px; }
+  .closing-profile__copy strong { font-size:1.05rem; }
+  .closing-profile__copy span { font-size:.8rem; }
 }
