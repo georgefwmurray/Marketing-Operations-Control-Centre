@@ -1,12 +1,12 @@
 ---
 title: "Marketing Operations Results"
-description: "Results from the Marketing Operations Control Centre, including 135 hours of monthly team capacity released and £198,700 in annual value identified across five brands."
+description: "Marketing Operations Control Centre results: £134,000 annualised external spend reduction, 135 hours of monthly capacity released and separately identified operational benefits across five brands."
 ---
 
 <div class="page-hero">
   <p class="eyebrow">Marketing Operations Control Centre</p>
   <h1>What changed, and what it is worth.</h1>
-  <p class="page-lead">The MOCC brings together automation, quality checks, reporting and governance across five brands. The figures below show the capacity released and the cost reductions and estimated benefits identified so far.</p>
+  <p class="page-lead">The MOCC brings together automation, quality checks, reporting and governance across five brands. The headline is £134,000 in annualised external spend reduction, alongside an estimated 135 hours of team capacity released each month and further operational benefits kept separate.</p>
   <div class="hero-tags"><span>11 live agents</span><span>5 brands</span><span>135 hours/month released</span></div>
 </div>
 
@@ -25,7 +25,7 @@ description: "Results from the Marketing Operations Control Centre, including 13
   </div>
   <div class="impact-list">
     <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:89.6%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>MarTech subscription spend avoided</h3><p>Annual subscription costs avoided by retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:10.4%"></span></div></div><strong>~£19,400</strong><div class="impact-track"><span style="width:9.8%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>MarTech subscription spend avoided</h3><p>Annual subscription costs avoided by retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:10.4%"></span></div></div>
   </div>
   <p class="small-note"><strong>Retired tools:</strong> Wingify, Jasper, ZeroBounce, BeeFree and Clearbit.</p>
   <div class="total-value"><span>Annualised external spend reduction</span><strong>£134,000</strong></div>
