@@ -66,12 +66,12 @@ description: "George Murray is a strategic marketing technology and digital oper
   <p class="eyebrow">Operating model at a glance</p>
   <h2>Scale and value from practical operational change.</h2>
   <div class="metrics" aria-label="Selected operating model measures">
-    <div class="metric"><strong>£134k</strong><span>Annualised external spend reduction from lower agency costs and retired subscriptions</span></div>
+    <div class="metric"><strong>£134k</strong><span>Annualised external cost savings from lower agency costs and retired subscriptions</span></div>
     <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
     <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
     <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
   </div>
-  <p class="small-note">The £134k figure represents annualised external spend reduction: £120k from lower agency spend and £14k from five retired subscriptions. Separately, 135 hours of estimated team capacity is released each month. A further £24.2k of provisional rework and compliance/reliability estimates is excluded from the savings headline.</p>
+  <p class="small-note">The £134k figure represents annualised external cost savings: £120k from lower agency spend and £14k from five retired subscriptions. Separately, 135 hours of estimated team capacity is released each month. A further £24.2k of provisional rework and compliance/reliability estimates is excluded from the savings headline.</p>
 </section>
 
 <section class="section" id="impact">
