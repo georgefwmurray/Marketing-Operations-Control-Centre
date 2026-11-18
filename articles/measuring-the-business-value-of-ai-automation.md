@@ -11,8 +11,8 @@ dateModified: "2026-11-16"
 <section class="page-hero">
   <p class="eyebrow">Marketing operations · AI automation</p>
   <h1>AI automation: what does the business actually get back?</h1>
-  <p class="page-lead">Eleven live agents, 135 hours of team capacity released each month and £120,000 in annualised external spend reduction.</p>
-  <p class="page-lead">These are useful results, but the real question is how to measure the value behind them — and distinguish genuine savings from released capacity and estimated benefits.</p>
+  <p class="page-lead">Eleven live agents, £134,000 in annualised external spend reduction and an estimated 135 hours of team capacity released each month.</p>
+  <p class="page-lead">The important distinction is between money removed from external spend, time returned to the team and wider operational benefits that remain estimates.</p>
   <div class="hero-tags">
     <span>AI automation</span>
     <span>Commercial value</span>
@@ -53,22 +53,20 @@ dateModified: "2026-11-16"
   </ul>
   <p>Retiring these tools avoided approximately £14,000 in annual subscription spend through capability replacement and consolidation.</p>
 
-  <h2>Putting a credible value against the results</h2>
-  <p>Bringing the measures together gives a more complete view of the operational impact. The current model identifies approximately £198,700 in annual value:</p>
+  <h2>Lead with the cost reduction. Keep other value separate.</h2>
+  <p>The clearest financial result is £134,000 in annualised external spend reduction: £120,000 from lower agency spend and £14,000 from five retired subscriptions. This is the figure I would lead with when discussing cost impact. The other benefits matter, but they are different types of value and should not be added to the savings headline.</p>
   <table>
     <thead><tr><th>Value category</th><th>Calculation or basis</th><th>Annual value</th></tr></thead>
     <tbody>
       <tr><td>Agency spend reduction</td><td>(£20,000 − £10,000) × 12 months</td><td>£120,000</td></tr>
       <tr><td>Subscription spend avoided</td><td>Combined annual cost of five retired tools</td><td>£14,000</td></tr>
-      <tr><td>Released team capacity</td><td>135 hours × £25 blended hourly cost × 12 months</td><td>£40,500</td></tr>
-      <tr><td>Rework prevention</td><td>Provisional estimate from the initial value assessment</td><td>£4,800</td></tr>
-      <tr><td>Compliance and reliability</td><td>Provisional estimate from the initial value assessment</td><td>£19,400</td></tr>
-      <tr><td><strong>Total annual value identified</strong></td><td></td><td><strong>£198,700</strong></td></tr>
+      <tr><td><strong>Annualised external spend reduction</strong></td><td></td><td><strong>£134,000</strong></td></tr>
     </tbody>
   </table>
-  <p>The calculations are deliberately presented at different levels of confidence. The agency reduction is calculated from the change in monthly external spend, annualised over 12 months. The subscription figure represents the combined annual cost of the five retired tools. The capacity valuation uses an illustrative blended internal cost of £25 per hour: 135 hours multiplied by £25 and 12 months gives £40,500. This is an indicative value of released time, not a payroll saving.</p>
-  <p>The remaining £24,200 comprises two provisional placeholders carried forward from the initial MOCC value assessment: £4,800 for rework prevention and £19,400 for compliance and reliability. These figures have not been independently calculated from measured incident or rework baselines. They are included to identify potential operational benefits, not to represent verified cash savings. I would rather identify them honestly as provisional estimates than invent a calculation to make them appear more precise.</p>
-  <p>That distinction is important. Of the £198,700 in annual value identified, £134,000 — approximately 67% — comes from reductions in external spend. The remaining £64,700 represents released team capacity and provisional operational estimates. These categories are deliberately separated: not all identified value is cash saved, and presenting them as equivalent would overstate the financial impact.</p>
+  <p>The £120,000 agency reduction is calculated from the change in monthly external spend, annualised over 12 months. The £14,000 subscription figure represents annual costs avoided after five tools were retired. Together, these make £134,000 in annualised external spend reduction. To describe the full amount as realised cash savings, the lower agency spend and cancelled subscriptions should be visible in actual invoices and budgets.
+  <p>There is also an estimated 135 hours of team capacity released each month. At an illustrative £25 per hour, that equates to £40,500 of annual capacity value. It is not a payroll saving: the team has time available for other work.</p>
+  <p>A further £24,200 remains provisional: £4,800 for rework prevention and £19,400 for compliance and reliability. These figures have not been independently calculated from measured incident or rework baselines. They are potential operational benefits, not verified savings. I would rather identify them honestly as provisional estimates than invent a calculation to make them appear more precise.</p>
+  <p>So the headline is £134,000 in annualised external spend reduction, with capacity value and provisional operational estimates reported separately. That is a more useful leadership measure than combining unlike benefits into one large number.</p>
   <p>The purpose of a value model is not to make every benefit look like a financial saving. It is to give leadership an honest view of what has changed, what it is worth and how confidently that value can be measured.</p>
 
   <h2>Released capacity only matters if you use it well</h2>
