@@ -5,20 +5,20 @@ description: "How to measure AI automation through cost reduction, released capa
 permalink: /insights/measuring-the-business-value-of-ai-automation/
 publish_date: "2026-11-16"
 datePublished: "2026-11-16"
-dateModified: "2026-11-16"
+dateModified: "2026-11-18"
 ---
 
 <section class="page-hero">
   <p class="eyebrow">Marketing operations · AI automation</p>
   <h1>AI automation: what does the business actually get back?</h1>
-  <p class="page-lead">Eleven live agents, £134,000 in annualised external spend reduction and an estimated 135 hours of team capacity released each month.</p>
+  <p class="page-lead">Eleven live agents, £134,000 in annualised external cost savings and an estimated 135 hours of team capacity released each month.</p>
   <p class="page-lead">The important distinction is between money removed from external spend, time returned to the team and wider operational benefits that remain estimates.</p>
   <div class="hero-tags">
     <span>AI automation</span>
     <span>Commercial value</span>
     <span>Marketing operations</span>
   </div>
-  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 16 November 2026 · Last updated 16 November 2026</p>
+  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 16 November 2026 · Last updated 18 November 2026</p>
 </section>
 
 <section class="content-section prose">
@@ -54,7 +54,7 @@ dateModified: "2026-11-16"
   <p>Retiring these tools avoided approximately £14,000 in annual subscription spend through capability replacement and consolidation.</p>
 
   <h2>Lead with the cost reduction. Keep other value separate.</h2>
-  <p>The clearest financial result is £134,000 in annualised external spend reduction: £120,000 from lower agency spend and £14,000 from five retired subscriptions. This is the figure I would lead with when discussing cost impact. The other benefits matter, but they are different types of value and should not be added to the savings headline.</p>
+  <p>The clearest financial result is £134,000 in annualised external cost savings: £120,000 from lower agency spend and £14,000 from five retired subscriptions. This is the figure I would lead with when discussing cost impact. The other benefits matter, but they are different types of value and should not be added to the savings headline.</p>
   <table>
     <thead><tr><th>Value category</th><th>Calculation or basis</th><th>Annual value</th></tr></thead>
     <tbody>
@@ -63,10 +63,10 @@ dateModified: "2026-11-16"
       <tr><td><strong>Annualised external spend reduction</strong></td><td></td><td><strong>£134,000</strong></td></tr>
     </tbody>
   </table>
-  <p>The £120,000 agency reduction is calculated from the change in monthly external spend, annualised over 12 months. The £14,000 subscription figure represents annual costs avoided after five tools were retired. Together, these make £134,000 in annualised external spend reduction. To describe the full amount as realised cash savings, the lower agency spend and cancelled subscriptions should be visible in actual invoices and budgets.</p>
+  <p>The £120,000 agency reduction is calculated from the change in monthly external spend, annualised over 12 months. The £14,000 subscription figure represents annual costs avoided after five tools were retired. Together, these make £134,000 in annualised external cost savings. To describe the full amount as realised cash savings, the lower agency spend and cancelled subscriptions should be visible in actual invoices and budgets.</p>
   <p>There is also an estimated 135 hours of team capacity released each month. At an illustrative £25 per hour, that equates to £40,500 of annual capacity value. It is not a payroll saving: the team has time available for other work.</p>
   <p>A further £24,200 remains provisional: £4,800 for rework prevention and £19,400 for compliance and reliability. These figures have not been independently calculated from measured incident or rework baselines. They are potential operational benefits, not verified savings. I would rather identify them honestly as provisional estimates than invent a calculation to make them appear more precise.</p>
-  <p>So the headline is £134,000 in annualised external spend reduction, with capacity value and provisional operational estimates reported separately. That is a more useful leadership measure than combining unlike benefits into one large number.</p>
+  <p>So the headline is £134,000 in annualised external cost savings, with capacity value and provisional operational estimates reported separately. That is a more useful leadership measure than combining unlike benefits into one large number.</p>
   <p>The purpose of a value model is not to make every benefit look like a financial saving. It is to give leadership an honest view of what has changed, what it is worth and how confidently that value can be measured.</p>
 
   <h2>Released capacity only matters if you use it well</h2>
