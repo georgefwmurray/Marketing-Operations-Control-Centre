@@ -6,9 +6,9 @@ permalink: /about/
 ---
 
 <section class="hero">
-  <p class="eyebrow">About</p>
-  <h1>I lead the teams and systems that make marketing work better.</h1>
-  <p class="lead">I'm George Murray, a marketing operations and technology leader based in South Wales. My work covers the people, platforms and processes behind marketing delivery — from CRM and automation to team structure, governance and business change.</p>
+  <p class="eyebrow">Strategic marketing technology &amp; digital operations leadership</p>
+  <h1>I shape the strategy, teams and technology behind high-performing marketing operations.</h1>
+  <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader based in South Wales. My work covers the people, platforms and processes behind marketing delivery — from CRM and automation to team structure, governance and business change.</p>
   <div class="hero-meta">
     <span>Marketing Operations Leadership</span>
     <span>MarTech · CRM · Revenue Operations</span>
