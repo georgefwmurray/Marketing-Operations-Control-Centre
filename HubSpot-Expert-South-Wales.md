@@ -189,7 +189,7 @@ permalink: /HubSpot-Expert-South-Wales.html
 </section>
 
 <div class="closing-profile" aria-label="About George Murray">
-  <img src="/assets/images/george-murray-profile.jpg" alt="George Murray" width="128" height="128" loading="lazy" decoding="async">
+  <img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="128" height="128" loading="lazy" decoding="async">
   <div class="closing-profile__copy">
     <strong>George Murray</strong>
     <span>Marketing Operations &amp; HubSpot · South Wales</span>
