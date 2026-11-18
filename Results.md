@@ -11,7 +11,7 @@ description: "Results from the Marketing Operations Control Centre, including 13
 </div>
 
 <div class="stat-grid stat-grid--four">
-  <div class="stat-card stat-card--feature"><strong>£198.7k</strong><span>Annual value identified</span></div>
+  <div class="stat-card stat-card--feature"><strong>£134k</strong><span>Annualised external spend reduction</span></div>
   <div class="stat-card"><strong>135</strong><span>Hours of capacity released each month</span></div>
   <div class="stat-card"><strong>300+</strong><span>Governance records generated</span></div>
   <div class="stat-card"><strong>20+</strong><span>Marketing users supported</span></div>
@@ -20,27 +20,26 @@ description: "Results from the Marketing Operations Control Centre, including 13
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">Value breakdown</p>
-    <h2>Five sources of operational value</h2>
-    <p>The annual model combines released team capacity, reductions in external and software spend, and estimated avoided operational friction. It is an identified-value estimate, not a claim that every pound is a direct cash saving.</p>
+    <h2>External spend reduced — with wider value reported separately</h2>
+    <p>The £134,000 headline is the annualised reduction in external spend: lower agency costs and retired software subscriptions. Released team capacity and provisional estimates are shown separately and are not counted as cost savings.</p>
   </div>
   <div class="impact-list">
-    <div class="impact-row"><div class="impact-copy"><h3>Team capacity released</h3><p>135 hours per month modelled at £25 per hour (£40,500 annualised).</p></div><strong>£40,500</strong><div class="impact-track"><span style="width:20.4%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:60.4%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>MarTech rationalisation</h3><p>Subscription spend avoided by retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:7.0%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>Rework prevention</h3><p>Estimated value of fewer avoidable errors and repeat tasks.</p></div><strong>£4,800</strong><div class="impact-track"><span style="width:2.4%"></span></div></div>
-    <div class="impact-row"><div class="impact-copy"><h3>Compliance and reliability</h3><p>Estimated value of more consistent controls and fewer operational failures.</p></div><strong>~£19,400</strong><div class="impact-track"><span style="width:9.8%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:89.6%"></span></div></div>
+    <div class="impact-row"><div class="impact-copy"><h3>MarTech subscription spend avoided</h3><p>Annual subscription costs avoided by retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:10.4%"></span></div></div><strong>~£19,400</strong><div class="impact-track"><span style="width:9.8%"></span></div></div>
   </div>
   <p class="small-note"><strong>Retired tools:</strong> Wingify, Jasper, ZeroBounce, BeeFree and Clearbit.</p>
-  <div class="total-value"><span>Total annual value identified</span><strong>£198,700</strong></div>
-  <p class="small-note">Team capacity is valued at an illustrative £25/hour. The £14,000 MarTech figure is avoided subscription spend from five retired tools. The £4,800 rework and £19,400 compliance/reliability figures are provisional placeholders from the initial value assessment, not independently measured savings. The hourly rate is a team-capacity valuation, not a charge-out rate. Of the total, £134,000 (about 67%) is external spend reduction; the remainder is capacity value and provisional estimates. These categories should not be interpreted as equivalent cash savings.</p>
+  <div class="total-value"><span>Annualised external spend reduction</span><strong>£134,000</strong></div>
+  <p class="small-note">The £120,000 agency figure is the annualised reduction from £20,000 to £10,000 monthly external spend. The £14,000 subscription figure is annual spend avoided after retiring five tools. These are external spend reductions, not payroll savings. They should be described as realised savings only to the extent that lower agency spend and cancelled subscriptions are reflected in actual invoices and budgets.</p>
+  <div class="total-value"><span>Additional operational value — reported separately</span><strong>£64,700</strong></div>
+  <p class="small-note">This comprises £40,500 of illustrative team-capacity value (135 hours/month at £25/hour, annualised) and £24,200 of provisional estimates for rework prevention (£4,800) and compliance/reliability (£19,400). These are not direct cash savings. The two provisional estimates have not been independently calculated from measured baselines and should be treated as indicative only.</p>
 </section>
 
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">How the figures are calculated</p>
-    <h2>Confirmed reductions and estimated benefits are kept separate.</h2>
-    <p>The 135 monthly hours are valued at £25 per hour and annualised: 135 × £25 × 12 = £40,500. The agency figure reflects the reduction from £20,000 to £10,000 per month. The software figure is the annual subscription spend avoided after five tools were retired.</p>
-    <p>The £4,800 rework figure and £19,400 compliance and reliability figure are provisional placeholders carried forward from the initial value assessment. They are included in the total value identified, but are not presented as measured or direct cash savings. Agent-level risk estimates are not added again where they are already represented in these wider categories.</p>
+    <h2>How the value is categorised</h2>
+    <p>External spend reduction is calculated from the change in agency spend (£10,000 per month, annualised to £120,000) plus £14,000 in annual subscription costs avoided after five tools were retired. The underlying invoices and budget treatment determine whether each reduction is fully realised in cash terms.</p>
+    <p>Separately, the MOCC releases an estimated 135 hours of team capacity each month. At an illustrative £25 per hour, that represents £40,500 of annual capacity value, not a reduction in payroll or paid working hours. The £4,800 rework and £19,400 compliance/reliability figures remain provisional estimates, not measured savings. They are excluded from the £134,000 headline.</p>
   </div>
 </section>
 
