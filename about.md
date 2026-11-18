@@ -123,3 +123,19 @@ permalink: /about/
     </div>
   </div>
 </section>
+
+<section class="closing-panel about-contact-panel" aria-label="Connect with George Murray">
+  <div class="about-contact-panel__intro">
+    <img src="{{ '/assets/images/george-murray-profile.jpg?v=2' | relative_url }}" alt="George Murray" width="160" height="160" loading="lazy" decoding="async">
+    <div>
+      <p class="eyebrow">Connect</p>
+      <h2>Let's stay in touch.</h2>
+      <p>For opportunities, conversations about marketing operations, MarTech or AI transformation, you can reach me through LinkedIn or email.</p>
+    </div>
+  </div>
+  <div class="actions">
+    <a class="button primary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
+    <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
+    <a class="button secondary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
+  </div>
+</section>
