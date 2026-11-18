@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About | Marketing Operations and Technology Leader"
-description: "George Murray is an Interim Head of Digital Marketing Operations leading a four-person team, £1.3m MarTech stack and HubSpot across five brands, supporting a 25-person marketing organisation."
+description: "George Murray is a strategic marketing technology and digital operations leader, currently Interim Head of Digital Marketing Operations across five brands, leading a four-person team and £1.3m MarTech portfolio."
 permalink: /about/
 ---
 
