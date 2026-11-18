@@ -1,6 +1,6 @@
 ---
 title: "Marketing Operations Results"
-description: "Marketing Operations Control Centre results: £134,000 annualised external spend reduction, 135 hours of monthly capacity released and separately identified operational benefits across five brands."
+description: "Marketing Operations Control Centre results: £134,000 in annualised external cost savings, 135 hours of monthly capacity released and separately identified operational benefits across five brands."
 ---
 
 <div class="page-hero">
@@ -11,7 +11,7 @@ description: "Marketing Operations Control Centre results: £134,000 annualised 
 </div>
 
 <div class="stat-grid stat-grid--four">
-  <div class="stat-card stat-card--feature"><strong>£134k</strong><span>Annualised external spend reduction</span></div>
+  <div class="stat-card stat-card--feature"><strong>£134k</strong><span>Annualised external cost savings</span></div>
   <div class="stat-card"><strong>135</strong><span>Hours of capacity released each month</span></div>
   <div class="stat-card"><strong>300+</strong><span>Governance records generated</span></div>
   <div class="stat-card"><strong>20+</strong><span>Marketing users supported</span></div>
@@ -21,14 +21,14 @@ description: "Marketing Operations Control Centre results: £134,000 annualised 
   <div class="section-heading">
     <p class="eyebrow">Value breakdown</p>
     <h2>External spend reduced — with wider value reported separately</h2>
-    <p>The £134,000 headline is the annualised reduction in external spend: lower agency costs and retired software subscriptions. Released team capacity and provisional estimates are shown separately and are not counted as cost savings.</p>
+    <p>The £134,000 headline is the annualised external cost saving: £120,000 from lower agency spend and £14,000 from five retired software subscriptions. Released team capacity and provisional estimates are shown separately and are not counted as cost savings.</p>
   </div>
   <div class="impact-list">
     <div class="impact-row"><div class="impact-copy"><h3>External content spend reduced</h3><p>Agency spend reduced from £20,000 to £10,000 per month.</p></div><strong>£120,000</strong><div class="impact-track"><span style="width:89.6%"></span></div></div>
     <div class="impact-row"><div class="impact-copy"><h3>MarTech subscription spend avoided</h3><p>Annual subscription costs avoided by retiring five tools.</p></div><strong>£14,000</strong><div class="impact-track"><span style="width:10.4%"></span></div></div>
   </div>
   <p class="small-note"><strong>Retired tools:</strong> Wingify, Jasper, ZeroBounce, BeeFree and Clearbit.</p>
-  <div class="total-value"><span>Annualised external spend reduction</span><strong>£134,000</strong></div>
+  <div class="total-value"><span>Annualised external cost savings</span><strong>£134,000</strong></div>
   <p class="small-note">The £120,000 agency figure is the annualised reduction from £20,000 to £10,000 monthly external spend. The £14,000 subscription figure is annual spend avoided after retiring five tools. These are external spend reductions, not payroll savings. They should be described as realised savings only to the extent that lower agency spend and cancelled subscriptions are reflected in actual invoices and budgets.</p>
   <div class="total-value"><span>Additional operational value — reported separately</span><strong>£64,700</strong></div>
   <p class="small-note">This comprises £40,500 of illustrative team-capacity value (135 hours/month at £25/hour, annualised) and £24,200 of provisional estimates for rework prevention (£4,800) and compliance/reliability (£19,400). These are not direct cash savings. The two provisional estimates have not been independently calculated from measured baselines and should be treated as indicative only.</p>
