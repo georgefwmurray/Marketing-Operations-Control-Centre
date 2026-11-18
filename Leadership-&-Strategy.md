@@ -5,8 +5,8 @@ description: "Leadership approach, operating model and governance philosophy for
 
 <div class="page-hero">
   <p class="eyebrow">Leadership, operating model and transformation</p>
-  <h1>Build the system. Develop the people. Make change stick.</h1>
-  <p class="page-lead">My approach to marketing operations leadership is to create the conditions for teams to deliver consistently: clear priorities, trusted platforms, accountable ownership and technology that removes friction rather than adding it.</p>
+  <h1>Set the strategy. Align the investment. Lead the transformation.</h1>
+  <p class="page-lead">I shape marketing technology and digital operations around commercial priorities: defining the direction, evaluating choices, aligning people and investment, and building operating models that make change deliver lasting results.</p>
   <div class="hero-tags"><span>Team leadership</span><span>MarTech transformation</span><span>AI governance</span></div>
 </div>
 
