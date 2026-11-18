@@ -382,3 +382,29 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
   .closing-profile__copy strong { font-size:1.05rem; }
   .closing-profile__copy span { font-size:.8rem; }
 }
+
+/* About page closing contact panel */
+.about-contact-panel { margin:3.5rem 0 1rem; }
+.about-contact-panel__intro {
+  display:grid;
+  grid-template-columns:160px minmax(0,1fr);
+  gap:clamp(1.5rem,4vw,2.5rem);
+  align-items:center;
+}
+.about-contact-panel__intro img {
+  display:block;
+  width:160px;
+  height:160px;
+  object-fit:cover;
+  object-position:center 38%;
+  border-radius:6px;
+}
+.about-contact-panel__intro h2 { margin:.25rem 0 .8rem; }
+.about-contact-panel__intro p:not(.eyebrow) { color:#40514e; max-width:650px; }
+.about-contact-panel .actions { margin-top:1.6rem; }
+@media(max-width:560px) {
+  .about-contact-panel__intro { grid-template-columns:1fr; gap:1.2rem; }
+  .about-contact-panel__intro img { width:132px; height:132px; }
+  .about-contact-panel .actions { align-items:stretch; flex-direction:column; }
+  .about-contact-panel .button { width:100%; }
+}
