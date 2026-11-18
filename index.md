@@ -5,10 +5,10 @@ description: "George Murray is a marketing operations and technology leader with
 ---
 
 <section class="hero">
-  <p class="eyebrow">Marketing Operations · Technology · AI Transformation</p>
-  <h1>Making marketing work better.</h1>
-  <h2>Building the people, platforms and processes behind effective marketing teams.</h2>
-  <p class="lead">I'm George Murray, a marketing operations and technology leader. I enjoy taking complex marketing environments and making them simpler, more effective and easier to scale.</p>
+  <p class="eyebrow">Strategic leadership · MarTech · Digital operations</p>
+  <h1>Setting the direction for marketing technology and digital operations.</h1>
+  <h2>Building the strategy, teams and operating models that turn commercial priorities into measurable performance.</h2>
+  <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader. I enjoy taking complex marketing environments and making them simpler, more effective and easier to scale.</p>
   <p class="lead">My work brings together people leadership, MarTech, data and automation — including the practical application of AI to improve how marketing teams operate.</p>
   <div class="hero-meta">
     <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
@@ -37,7 +37,7 @@ description: "George Murray is a marketing operations and technology leader with
 <section class="section" id="leadership">
   <p class="eyebrow">Leadership</p>
   <div class="split">
-    <div><h2>Strategy, platforms and delivery.</h2></div>
+    <div><h2>Set direction. Align investment. Lead transformation.</h2></div>
     <div class="prose">
       <p>I work across marketing, commercial teams and technology: setting priorities, owning platforms, improving processes and helping teams deliver change.</p>
       <p>My focus is on making the function work better. That means clear ownership, reliable data, sensible governance and technology that solves a real operating problem.</p>
@@ -66,12 +66,12 @@ description: "George Murray is a marketing operations and technology leader with
   <p class="eyebrow">Operating model at a glance</p>
   <h2>Scale and value from practical operational change.</h2>
   <div class="metrics" aria-label="Selected operating model measures">
-    <div class="metric"><strong>£198.7k</strong><span>Combined annual value identified across capacity, reduced agency spend, retired software and estimated risk benefits</span></div>
+    <div class="metric"><strong>£134k</strong><span>Annualised external spend reduction from lower agency costs and retired subscriptions</span></div>
     <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
     <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
     <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
   </div>
-  <p class="small-note">The £198.7k figure is a combined annual value estimate, not a cash-savings claim. It includes an illustrative valuation of released team capacity, actual agency and subscription spend reductions, and separately identified estimates. The 135 hours is estimated capacity released, not a reduction in paid working hours.</p>
+  <p class="small-note">The £134k figure represents annualised external spend reduction: £120k from lower agency spend and £14k from five retired subscriptions. Separately, 135 hours of estimated team capacity is released each month. A further £24.2k of provisional rework and compliance/reliability estimates is excluded from the savings headline.</p>
 </section>
 
 <section class="section" id="impact">
