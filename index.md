@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Marketing Operations and Technology Leader"
-description: "George Murray is a marketing operations and technology leader with experience in MarTech, HubSpot, multi-brand operations, team leadership and AI transformation."
+title: "Strategic Marketing Technology & Digital Operations Leader"
+description: "George Murray is a strategic marketing technology and digital operations leader shaping MarTech strategy, multi-brand operations, teams and AI-enabled transformation."
 ---
 
 <section class="hero">
   <p class="eyebrow">Strategic leadership · MarTech · Digital operations</p>
   <h1>Setting the direction for marketing technology and digital operations.</h1>
   <h2>Building the strategy, teams and operating models that turn commercial priorities into measurable performance.</h2>
-  <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader. I enjoy taking complex marketing environments and making them simpler, more effective and easier to scale.</p>
-  <p class="lead">My work brings together people leadership, MarTech, data and automation — including the practical application of AI to improve how marketing teams operate.</p>
+  <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader. I shape priorities, guide technology investment and lead operational change across complex, multi-brand marketing environments.</p>
+  <p class="lead">My work connects commercial planning, people leadership, MarTech strategy and AI-enabled transformation — making marketing more effective, scalable and accountable.</p>
   <div class="hero-meta">
     <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
     <span>South Wales, UK</span>
@@ -39,8 +39,8 @@ description: "George Murray is a marketing operations and technology leader with
   <div class="split">
     <div><h2>Set direction. Align investment. Lead transformation.</h2></div>
     <div class="prose">
-      <p>I work across marketing, commercial teams and technology: setting priorities, owning platforms, improving processes and helping teams deliver change.</p>
-      <p>My focus is on making the function work better. That means clear ownership, reliable data, sensible governance and technology that solves a real operating problem.</p>
+      <p>I work with marketing leadership to translate commercial ambition into technology and operational priorities — shaping roadmaps, evaluating investment, challenging assumptions and leading delivery across teams and brands.</p>
+      <p>My focus is building a marketing operation that can scale: the right platforms, clear accountability, trusted data, capable people and governance that supports confident decisions.</p>
     </div>
   </div>
   <div class="cards">
