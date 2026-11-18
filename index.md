@@ -22,18 +22,6 @@ description: "George Murray is a strategic marketing technology and digital oper
   </div>
 </section>
 
-<section class="section" id="recognition">
-  <p class="eyebrow">Credentials and recognition</p>
-  <h2>HubSpot expertise, recognised and continually developed.</h2>
-  <div class="cards">
-    <article class="card"><p class="kicker">Global recognition · 2026</p><h3>HubSpot Admin Arena — Global Top 8</h3><p>Ranked in the global Top 8 in the 2026 HubSpot Admin Arena.</p></article>
-    <article class="card"><p class="kicker">Professional learning</p><h3>13 HubSpot Academy certifications</h3><p>Formal learning across HubSpot administration, reporting, revenue operations, marketing and sales disciplines.</p></article>
-    <article class="card"><p class="kicker">Mentoring and AI</p><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, alongside the Veriforce AI Mentor role in 2026.</p></article>
-    <article class="card"><p class="kicker">Development · 2025</p><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme.</p></article>
-  </div>
-  <p class="section-cta"><a href="{{ '/about/' | relative_url }}">See certifications, mentoring and career experience ↗</a></p>
-</section>
-
 <section class="section" id="leadership">
   <p class="eyebrow">Leadership</p>
   <div class="split">
@@ -86,6 +74,18 @@ description: "George Murray is a strategic marketing technology and digital oper
     </ul>
   </div>
   <p class="section-cta"><a href="Results.html">See the results and supporting detail ↗</a></p>
+</section>
+
+<section class="section" id="recognition">
+  <p class="eyebrow">Credentials and recognition</p>
+  <h2>HubSpot expertise, recognised and continually developed.</h2>
+  <div class="cards">
+    <article class="card"><p class="kicker">Global recognition · 2026</p><h3>HubSpot Admin Arena — Global Top 8</h3><p>Ranked in the global Top 8 in the 2026 HubSpot Admin Arena.</p></article>
+    <article class="card"><p class="kicker">Professional learning</p><h3>13 HubSpot Academy certifications</h3><p>Formal learning across HubSpot administration, reporting, revenue operations, marketing and sales disciplines.</p></article>
+    <article class="card"><p class="kicker">Mentoring and AI</p><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, alongside the Veriforce AI Mentor role in 2026.</p></article>
+    <article class="card"><p class="kicker">Development · 2025</p><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme.</p></article>
+  </div>
+  <p class="section-cta"><a href="{{ '/about/' | relative_url }}">See certifications, mentoring and career experience ↗</a></p>
 </section>
 
 <section class="section" id="principles">
