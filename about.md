@@ -111,26 +111,13 @@ permalink: /about/
   </div>
 </section>
 
-<section class="section" id="contact">
-  <p class="eyebrow">Next step</p>
-  <div class="split">
-    <div><h2>Open to senior marketing operations roles.</h2></div>
-    <div class="prose">
-      <p>Based in South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
-      <div class="actions">
-        <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section class="closing-panel about-contact-panel" aria-label="Connect with George Murray">
   <div class="about-contact-panel__intro">
     <img src="{{ '/assets/images/george-murray-profile.jpg?v=2' | relative_url }}" alt="George Murray" width="160" height="160" loading="lazy" decoding="async">
     <div>
-      <p class="eyebrow">Connect</p>
-      <h2>Let's stay in touch.</h2>
-      <p>For opportunities, conversations about marketing operations, MarTech or AI transformation, you can reach me through LinkedIn or email.</p>
+      <p class="eyebrow">Next step</p>
+      <h2>Open to senior marketing operations roles.</h2>
+      <p>Based in South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
     </div>
   </div>
   <div class="actions">
