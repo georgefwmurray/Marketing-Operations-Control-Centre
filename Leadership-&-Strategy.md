@@ -127,7 +127,7 @@ description: "Leadership approach, operating model and governance philosophy for
   </div>
   <div class="principle-grid">
     <article class="principle-card"><h3>Build, buy or partner deliberately</h3><p>Build where the workflow is specific to how the organisation operates; buy where a mature product solves a generic need more efficiently; partner where specialist risk or compliance expertise is needed.</p></article>
-    <article class="principle-card"><h3>Make governance part of the architecture</h3><p>Every agent request is logged and checked for overlap. New builds require approval. Live agents have an owner, a risk tier, a defined failure mode, a rollback path and a scheduled review.</p></article>
+    <article class="principle-card"><h3>Make governance part of the architecture</h3><p>New automation is assessed for business value, fit and potential impact before it is introduced. Clear ownership, appropriate approval and human accountability are built into the way the operation works.</p></article>
     <article class="principle-card"><h3>Keep a human accountable</h3><p>Agents can prepare, check, monitor and recommend. People remain accountable for approvals, decisions and customer-facing outcomes.</p></article>
   </div>
 </section>
