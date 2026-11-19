@@ -43,7 +43,7 @@ description: "Leadership approach, operating model and governance philosophy for
     <h2>People, platforms and priorities</h2>
   </div>
   <div class="leadership-grid">
-    <article class="leadership-card"><span class="outcome-number">01</span><h3>Team leadership</h3><p>Lead four direct reports within a centralised digital operations function supporting a 25-person marketing organisation. Oversee a £1.3m MarTech stack and create a delivery model that helps the wider team ship work reliably across Paid, Content, Lifecycle, Sales and Customer Care.</p></article>
+    <article class="leadership-card"><span class="outcome-number">01</span><h3>Team leadership and functional accountability</h3><p>Lead three direct reports across website management, marketing automation and digital operations, supporting a 25-person marketing organisation. Set the direction for the function, translate marketing priorities into individual objectives and maintain accountability through weekly one-to-ones, monthly objective reviews and performance tracking. Recruit, develop and coach team members, giving individuals ownership of projects while providing strategic direction, technical support and stakeholder management. Oversee a £1.3m MarTech stack and build a delivery model that helps the wider team work reliably across Paid, Content, Lifecycle, Sales and Customer Care.</p></article>
     <article class="leadership-card"><span class="outcome-number">02</span><h3>Multi-brand platform ownership</h3><p>Own HubSpot operations across five brands, supporting teams in EMEA and North America. This includes platform direction, integration priorities and the operational decisions that keep the wider MarTech landscape effective, working with IT and Legal on enterprise governance and controls.</p></article>
     <article class="leadership-card"><span class="outcome-number">03</span><h3>MarTech transformation</h3><p>Act as a key HubSpot stakeholder in the migration from Salesforce Marketing Cloud and Pardot to HubSpot, aligning platform change with business processes and stakeholder needs.</p></article>
     <article class="leadership-card"><span class="outcome-number">04</span><h3>Executive communication</h3><p>Translate technical delivery, automation and platform decisions into commercial and operational language for senior stakeholders, including SVP-level reporting.</p></article>
@@ -83,15 +83,39 @@ description: "Leadership approach, operating model and governance philosophy for
   <div class="section-heading">
     <p class="eyebrow">Developing capability</p>
     <h2>Build capability in the team, not dependency on one person.</h2>
+    <p>Continuous learning is central to how I lead. Development is not limited to promotion or moving into a new role; it means continually building the knowledge, confidence and technical capability to do better work.</p>
   </div>
   <div class="prose">
-    <p>A sustainable operating model gives people ownership of the systems they help create. Team members are encouraged to identify repetitive work, propose agent ideas, refine them through review and take responsibility for continuous improvement.</p>
+    <p>I take an active role in coaching, setting development objectives and creating opportunities for people to stretch beyond their existing responsibilities.</p>
     <ul>
-      <li>Promoted an intern to Digital Operations Executive, who now owns the continuous development of the Data Import Agent.</li>
-      <li>Created a team-led approach to agent development, with ideas coming from the people closest to the workflows.</li>
+      <li><strong>Developing talent:</strong> Supported a colleague from an initial internship into a full-time Digital Marketing Executive role, building practical capability across HubSpot and Power Automate. They have since developed strong expertise in Power Automate and Copilot Studio and become a trusted technical resource for reviewing and improving AI agent builds.</li>
+      <li><strong>Building wider marketing capability:</strong> Helped develop HubSpot proficiency across the 25-person marketing function, enabling colleagues to build email campaigns and straightforward automations themselves.</li>
+      <li><strong>Responsible AI adoption:</strong> Delivered training on Copilot Studio and AI agents, helping colleagues identify appropriate use cases and distinguish between problems requiring a new agent and those already solved by existing platforms.</li>
+      <li><strong>Developing future capability:</strong> Encourage team members to identify opportunities for improvement, own technical projects and take responsibility for developing new solutions.</li>
       <li><strong>HubSpot AI Mentor, Agents in Action (2026):</strong> selected by HubSpot through an application process as one of a small group of mentors on its AI agents programme, while also participating as a mentee.</li>
       <li><strong>AI Mentor, Veriforce (2026):</strong> mentored two North American colleagues through end-to-end AI builds, including a sales dashboard and a social-listening agent.</li>
     </ul>
+    <p>The objective is to create a more capable marketing organisation, give people greater ownership of their work and release specialist capacity for higher-value operational priorities.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">How I lead</p>
+    <h2>Ownership with support. Autonomy with accountability.</h2>
+    <p>I believe people do their best work when they're trusted to take ownership, understand what they're working towards and know they have support when they need it.</p>
+  </div>
+  <div class="prose">
+    <p>My approach is to delegate responsibility rather than simply allocate tasks. Projects are assigned according to individual expertise, with opportunities to stretch into new areas and develop greater independence. I provide direction, remove blockers, offer a second opinion and support stakeholder conversations when needed, without becoming a bottleneck for routine decisions.</p>
+    <p>I maintain regular contact through weekly one-to-ones, monthly objective reviews and short daily ClickUp stand-ups. These create space to review progress, identify blockers, discuss development and make sure people have the support they need. Where objectives are measurable, such as lead generation or conversion, dashboards provide visibility of progress against the intended outcome.</p>
+    <p>When delivery falls short, I start by understanding why. Whether the issue is technical capability, capacity, unclear expectations or a need for additional support, my first response is to establish what will help. Accountability remains important, but it should be proportionate and informed by the circumstances.</p>
+  </div>
+  <div class="section-heading">
+    <h2>Build an operation that doesn't depend on its leader.</h2>
+  </div>
+  <div class="prose">
+    <p>I want the team to be capable of running its day-to-day responsibilities without constant intervention. A centralised ClickUp workflow allocates incoming work according to individual skills and capacity. Automated reporting gives the team visibility of daily priorities, while clear specialist ownership allows people to manage their own areas.</p>
+    <p>My role is to maintain strategic direction, remove obstacles, support stakeholder relationships and ensure the function remains aligned with wider business priorities. The result is a more resilient team, with greater independence and more capacity to focus on complex and valuable work.</p>
   </div>
 </section>
 
