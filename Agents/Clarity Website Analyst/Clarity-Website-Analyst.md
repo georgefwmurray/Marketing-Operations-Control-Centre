@@ -55,9 +55,9 @@ Copilot Studio then reads this list with two agents:
 - The Website Manager reviews the recommendations and decides which tests to implement; the agent does not create or launch tests
 - Runs across all 5 brand sites from one repeatable foundation
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 3 hrs/month (data collection + manual analysis) = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 3 hrs/month (data collection + manual analysis) = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Secondary benefit:** CRO decisions are now data-driven vs. gut-feel; faster conversion optimization
 
 ## Version History
