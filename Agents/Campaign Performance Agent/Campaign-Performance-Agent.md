@@ -44,9 +44,9 @@ The Campaign Performance Agent runs weekly across campaigns started in the last 
 - Insights shared directly with campaign owners, so they reach the people who can act on them
 - Engagement trends shown alongside revenue attributed, giving stakeholders a clearer performance narrative
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 2 hrs/month = £50/month = **£600/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 2 hrs/month = £50/month = **£600/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Secondary benefit:** More data-driven campaign decisions; faster optimization cycles
 
 ## Version History
