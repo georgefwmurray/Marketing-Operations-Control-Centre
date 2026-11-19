@@ -56,9 +56,9 @@ The Data Import Agent standardises XLS preparation and ingestion. It converts an
 
 *Methodology: before automation, each daily report required manual download, conversion, transformation, HubSpot import and validation. Every step is now automated end-to-end, from extraction through to audit logging.*
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 15 hrs/month = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 15 hrs/month = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Error reduction:** Helps prevent CRM data-quality issues. The estimated £10k annual impact avoided (based on an assumed £5k per incident and around two incidents prevented) is a separate risk-avoidance estimate, not hourly capacity value
 - **Secondary benefit:** Data Import Agent is the backbone for all downstream intelligence; ensures all other agents work with clean data
 
