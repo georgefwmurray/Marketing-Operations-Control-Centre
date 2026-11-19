@@ -135,7 +135,7 @@ permalink: /How-to-Build.html
   <p>MOCC is an example of how I approach complex operational change: identify the opportunity, set a clear direction, involve the team, establish governance and build a model that can evolve.</p>
   <div class="actions">
     <a class="button primary" href="/assets/files/George-Murray-CV.pdf">Download my CV</a>
-    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn</a>
+    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
     <a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email me</a>
   </div>
 </section>
