@@ -21,7 +21,7 @@ description: "Explore the 11 HubSpot marketing operations agents across six oper
   <div class="section-heading">
     <p class="eyebrow">How the system fits together</p>
     <h2>Six layers. One operating model.</h2>
-    <p>Each layer has a distinct responsibility, from quality control at the point of execution to the governance and intelligence that keep the system healthy.</p>
+    <p>Each layer has a distinct responsibility, from quality control at the point of execution to the governance and intelligence that keep the system healthy. Every live agent has a named business owner and technical owner, with a review cadence set according to its risk. The registry provides the portfolio view; individual pages explain each agent's workflow and controls.</p>
   </div>
   <figure class="architecture-figure">
     <img src="{{ '/assets/images/mocc-six-layer-architecture.svg' | relative_url }}" alt="Six-layer Marketing Operations Control Centre architecture: Control, Production, Data, Intelligence, Governance and Knowledge." loading="lazy">
@@ -79,6 +79,6 @@ description: "Explore the 11 HubSpot marketing operations agents across six oper
 <section class="closing-panel">
   <p class="eyebrow">Built to be governed</p>
   <h2>Automation with accountability built in.</h2>
-  <p>Every agent request is logged and checked for overlap. New builds require approval. Live agents have an owner, a risk tier, a review date and a human escalation route.</p>
+  <p>Every agent request is assessed for business value, build effort, reliability, risk and overlap with existing marketing technology before approval. Live agents have dual ownership, risk-based review cadences and a human escalation route.</p>
   <a class="text-link" href="Leadership-%26-Strategy.html">Explore the operating and governance model <span aria-hidden="true">↗</span></a>
 </section>
