@@ -47,9 +47,9 @@ The completed QA report, including an overall score and grade, is automatically 
 - Improved consistency of branding and content quality
 - Created a central audit trail for website quality reviews
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 8 hrs/month across 5 brands = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 8 hrs/month across 5 brands = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Error prevention:** Avoids costly brand mistakes and SEO gaps
 - **Secondary benefit:** Website Manager freed from routine checking; can focus on strategy
 
