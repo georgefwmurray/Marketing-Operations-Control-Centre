@@ -49,9 +49,9 @@ Once approved, the agent generates the supporting documentation and records the 
 - Approved agents get documentation created by the agent, so setup and workings stay visible long term
 - Requests and approvals sit on separate lists, giving a clear audit trail from request to approval
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 3 hrs/month = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 3 hrs/month = £75/month = **£900/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Governance value:** Every build is intentional and tracked, creating an auditable approval trail and helping prevent overlapping builds
 
 ## Design Insights
