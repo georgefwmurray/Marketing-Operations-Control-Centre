@@ -41,7 +41,7 @@ description: "Explore 11 AI-enabled marketing operations agents across six opera
   <div class="section-heading">
     <p class="eyebrow">Live agent portfolio</p>
     <h2>Agents by operating layer</h2>
-    <p>Each agent has a defined purpose, primary business contact and risk tier. A separate named technical owner is assigned in the governance record. Open an agent to see its workflow, controls and implementation detail.</p>
+    <p>Each agent has a defined purpose, named operational owner from the marketing operations team and risk tier. Dual business and technical ownership is maintained in the internal governance record. Open an agent to see its workflow, controls and implementation detail.</p>
   </div>
 
   <div class="agent-layer-heading"><span class="layer-index">01 / CONTROL</span><h3>Quality assurance</h3><span class="layer-count">2 agents</span></div>
