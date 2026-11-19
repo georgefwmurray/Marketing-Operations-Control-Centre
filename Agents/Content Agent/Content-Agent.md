@@ -46,10 +46,10 @@ The Content Agent is briefed either via Semrush AEO recommendations or directly 
 - Preserved human sign-off as a quality gate before publication
 - Created a repeatable pipeline feeding directly into the WordPress Post Creation Agent
 
-### Cost Savings
+### Financial and operational value
 
 - **Direct agency spend reduction:** £10k/month = **£120,000/year**
-- **Time reclaimed:** 15 hrs/month (content QA + coordination) = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 15 hrs/month (content QA + coordination) = £375/month = **£4,500/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Secondary benefit:** In-house content capability created; team no longer dependent on external vendor
 
 ## Version History
