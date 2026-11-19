@@ -12,20 +12,13 @@
     {% endif %}
   {% endif %}
   <meta name="theme-color" content="#f6f5f1">
-  <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
-  <meta property="og:site_name" content="{{ site.title | escape }}">
-  <meta property="og:locale" content="en_GB">
-  <meta property="og:image" content="{{ '/assets/images/george-murray-social-card.svg' | absolute_url }}">
-  <meta property="og:image:alt" content="George Murray — Marketing Operations, MarTech and AI Transformation">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ '/assets/images/george-murray-social-card.svg' | absolute_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% assign page_absolute_url = page.url | absolute_url %}
   {% assign page_schema_type = 'WebPage' %}
-  {% if page.url == '/' or page.url == '/about/' %}
+  {% if page.url == '/about/' %}
     {% assign page_schema_type = 'ProfilePage' %}
   {% endif %}
   <script type="application/ld+json">
@@ -36,25 +29,12 @@
         "@type": "Person",
         "@id": "{{ site.url }}/#person",
         "name": "George Murray",
-        "url": "{{ site.url }}/",
+        "url": "{{ site.url }}/about/",
         "jobTitle": "Interim Head of Digital Marketing Operations",
         "description": "Marketing operations and technology leader with experience in multi-brand B2B SaaS, CRM, marketing automation, team leadership and AI transformation.",
         "sameAs": ["https://www.linkedin.com/in/georgefwmurray/"],
-        "worksFor": {
-          "@type": "Organization",
-          "name": "Veriforce"
-        },
-        "knowsAbout": [
-          "Marketing operations leadership",
-          "Marketing technology",
-          "HubSpot",
-          "CRM strategy",
-          "Marketing automation",
-          "AI agent design and governance",
-          "Business process automation",
-          "Multi-brand marketing operations",
-          "Digital transformation"
-        ]
+        "worksFor": { "@type": "Organization", "name": "Veriforce" },
+        "knowsAbout": ["Marketing operations leadership", "Marketing technology", "HubSpot", "CRM strategy", "Marketing automation", "AI agent design and governance", "Business process automation", "Multi-brand marketing operations", "Digital transformation"]
       },
       {
         "@type": "WebSite",
@@ -72,37 +52,43 @@
         "description": {{ page.description | default: site.description | jsonify }},
         "isPartOf": { "@id": "{{ site.url }}/#website" },
         "about": { "@id": "{{ site.url }}/#person" },
-        "mainEntity": { "@id": "{{ site.url }}/#person" },
+        "inLanguage": "en-GB"{% if page.url == '/about/' %},
+        "mainEntity": { "@id": "{{ site.url }}/#person" }{% elsif page.path contains 'articles/' or page.path == 'How-to-Build.md' %},
+        "mainEntity": { "@id": "{{ page_absolute_url }}#article" }{% endif %}
+      }{% if page.path contains 'articles/' or page.path == 'How-to-Build.md' %},
+      {
+        "@type": "{% if page.path contains 'articles/' %}BlogPosting{% else %}Article{% endif %}",
+        "@id": "{{ page_absolute_url }}#article",
+        "headline": {{ page.title | jsonify }},
+        "description": {{ page.description | default: site.description | jsonify }},
+        "mainEntityOfPage": { "@id": "{{ page_absolute_url }}#webpage" },
+        "author": { "@id": "{{ site.url }}/#person" },
+        "publisher": { "@id": "{{ site.url }}/#person" }{% if page.publish_date %},
+        "datePublished": "{{ page.publish_date | date_to_xmlschema }}"{% endif %}{% if page.last_modified_at %},
+        "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %},
         "inLanguage": "en-GB"
-      }
+      }{% endif %}
     ]
   }
   </script>
-  {% if page.path contains 'Agents/' %}
+  {% unless page.url == '/' %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" }{% if page.path contains 'articles/' %},
+      { "@type": "ListItem", "position": 2, "name": "Insights", "item": "{{ site.url }}/insights/" },
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }{% elsif page.path contains 'Agents/' %},
       { "@type": "ListItem", "position": 2, "name": "Agent Registry", "item": "{{ site.url }}/Agent-Registry.html" },
-      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }}, "item": "{{ page_absolute_url }}" }
-    ]
-  }
-  </script>
-  {% elsif page.path contains 'Campaign & Commercial Projects/' %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ site.url }}/" },
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }} }{% elsif page.path contains 'Campaign & Commercial Projects/' %},
       { "@type": "ListItem", "position": 2, "name": "Selected Projects", "item": "{{ site.url }}/Campaign-Commercial-Projects.html" },
-      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }}, "item": "{{ page_absolute_url }}" }
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | split: ":" | first | jsonify }} }{% else %},
+      { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }} }{% endif %}
     ]
   }
   </script>
-  {% endif %}
+  {% endunless %}
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
