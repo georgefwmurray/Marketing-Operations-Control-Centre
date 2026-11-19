@@ -46,9 +46,9 @@ The agent takes about 10 minutes to complete its part of the build. A person the
 - Leaves a human review step before the campaign is used
 - Reduces the chance of copy and asset errors when rebuilding campaigns
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 6 hrs/month = £150/month = **£1,800/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 6 hrs/month = £150/month = **£1,800/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Secondary benefit:** Campaign builds follow the same sequence and review process
 
 ## Version History
