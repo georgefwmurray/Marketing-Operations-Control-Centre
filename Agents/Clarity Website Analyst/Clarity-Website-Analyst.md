@@ -1,6 +1,6 @@
 ---
 title: "Clarity Website Analyst: 90-Day UX and CRO Insight"
-description: "Retains Microsoft Clarity behaviour data for 90-day trends and generates evidence-led website optimisation and A/B test recommendations for human review."
+description: "Five website-specific agents retain Microsoft Clarity behaviour data and generate evidence-led optimisation insights, coordinated by a central orchestrator that compares patterns across all five brands."
 ---
 
 # Clarity Website Analyst
@@ -36,10 +36,9 @@ The Clarity Website Analyst turns raw behaviour data into data-led insight on we
 
 A scheduled workflow runs every morning, collects the previous day's Clarity metrics (pageviews, rage clicks, dead clicks, time on page, scroll rate and more) and stores them against each URL in a SharePoint list, building a history that goes beyond Clarity's 3-day limit.
 
-Copilot Studio then reads this list with two agents:
+The solution is deployed across five brand websites. Each website has its own specialist Clarity agent, which analyses that site's behavioural data. A central orchestrator agent brings the outputs together, allowing the team to compare patterns across all five websites and distinguish a site-specific issue from a wider trend.
 
-- **Website Health agent:** delivers 90-day rolling trends and flags anomalies in a weekly report, such as click spikes or traffic drops on key pages.
-- **UX Analyst agent:** suggests data-led A/B CRO test ideas based on page performance and the 90-day rolling trends.
+The five site-level agents and central orchestrator operate as one Clarity solution in the MOCC portfolio.
 
 ## Flow
 
@@ -53,7 +52,7 @@ Copilot Studio then reads this list with two agents:
 - Flags anomalies in a weekly report, so issues are spotted without manually checking dashboards
 - Turns the data into A/B CRO test recommendations, grounding website optimisation in evidence
 - The Website Manager reviews the recommendations and decides which tests to implement; the agent does not create or launch tests
-- Runs across all 5 brand sites from one repeatable foundation
+- Runs five website-specific agents with a central orchestrator that compares insight across all 5 brand sites
 
 ### Capacity value and other benefits
 
@@ -68,7 +67,7 @@ Copilot Studio then reads this list with two agents:
 
 ## Design Insights
 
-Saving each day's snapshot turns a short-lived API window into a growing dataset, so the same agents can look at trends rather than a single moment.
+Saving each day's snapshot turns a short-lived API window into a growing dataset, so each website agent can look at trends rather than a single moment. The central orchestrator then compares those insights across all five sites, helping the team identify whether a behaviour is isolated to one brand or shared across the wider estate.
 
 Pairing trend reporting with test ideation in the same system keeps UX recommendations tied to evidence: the report shows where behaviour changed, and the UX Analyst proposes what to test next. The output is a report of suggested tests for the Website Manager to assess and prioritise. Test creation and launch remain human decisions; the agent does not publish experiments.
 
