@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Marketing Operations Control Centre | AI Transformation Case Study"
-description: "How George Murray and his team designed, piloted and scaled an AI-enabled marketing operations model across five brands, with 11 live agents, six operating layers and human approval at every release."
+description: "How George Murray and his team designed, piloted and scaled an AI-enabled marketing operations model across five brands, with 11 live agents, six operating layers and risk-based human oversight."
 permalink: /How-to-Build.html
 ---
 
@@ -13,7 +13,7 @@ permalink: /How-to-Build.html
     <span>Team leadership</span>
     <span>AI operating model</span>
     <span>Five-brand rollout</span>
-    <span>Human approval</span>
+    <span>Human oversight</span>
   </div>
   <div class="actions">
     <a class="button primary" href="/Agent-Registry.html">Explore the 11 live agents</a>
@@ -42,8 +42,8 @@ permalink: /How-to-Build.html
   <div class="layer-grid">
     <article class="layer-card">
       <span class="layer-index">01 / Control</span>
-      <h3>Intake and coordination</h3>
-      <p>Creates a structured route for requests, approvals and operational oversight, helping work enter the system with clear ownership.</p>
+      <h3>Quality assurance</h3>
+      <p>Checks email and website work against agreed criteria before it reaches customers, with findings and audit trails retained for review.</p>
     </article>
     <article class="layer-card">
       <span class="layer-index">02 / Production</span>
@@ -62,8 +62,8 @@ permalink: /How-to-Build.html
     </article>
     <article class="layer-card">
       <span class="layer-index">05 / Governance</span>
-      <h3>Quality and reliability</h3>
-      <p>Provides checks, monitoring, documentation and oversight so that agent activity remains controlled and exceptions can be reviewed.</p>
+      <h3>Intake and automation oversight</h3>
+      <p>Controls new requests, approvals, ownership, monitoring and lifecycle reviews so the agent portfolio remains visible and accountable.</p>
     </article>
     <article class="layer-card">
       <span class="layer-index">06 / Knowledge</span>
@@ -104,8 +104,8 @@ permalink: /How-to-Build.html
     </article>
     <article class="featured-project">
       <span class="project-category">03 / Keep people accountable</span>
-      <h3>Human approval is the release gate</h3>
-      <p>Human approval is built into the release process. Agents can prepare, check, analyse and recommend, but people remain accountable for decisions that affect customers, campaigns, content or live systems. The Clarity Analyst, for example, recommends tests; the Website Manager decides what to take forward.</p>
+      <h3>Human review at the points that matter</h3>
+      <p>Controls are matched to the action and its risk. Defined processing tasks can run automatically, while customer-facing content, campaign release, publishing and CRM archiving retain human review or approval. The Clarity Analyst recommends tests; the Website Manager decides what to take forward.</p>
     </article>
   </div>
   <div class="prose">
