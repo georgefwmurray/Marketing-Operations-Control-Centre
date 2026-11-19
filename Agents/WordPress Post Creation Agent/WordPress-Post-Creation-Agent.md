@@ -44,9 +44,9 @@ The WordPress Post Creation Agent takes HTML output (including content produced 
 - Saved approximately **12 hours per month**
 - Completes the automated pipeline from brief through to publish-ready WordPress post
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 12 hrs/month = £300/month = **£3,600/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 12 hrs/month = £300/month = **£3,600/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Secondary benefit:** Developers freed from routine posting work; can focus on feature development
 
 ## Version History
