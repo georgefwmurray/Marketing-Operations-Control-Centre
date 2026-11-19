@@ -47,9 +47,9 @@ It brings workflow, email and forms governance together under one agent.
 - Archiving stays a human decision, with the agent supplying the list
 - Workflow, email and forms governance sit under a single agent rather than three
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Compliance value:** Prevents audit findings on stale asset accumulation; reduces operational risk
 
 ## Version History
