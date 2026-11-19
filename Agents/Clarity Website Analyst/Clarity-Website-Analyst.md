@@ -1,6 +1,6 @@
 ---
 title: "Clarity Website Analyst: 90-Day UX and CRO Insight"
-description: "Ingests Microsoft Clarity data daily to build 90-day rolling website UX trends and A/B CRO test ideas, using Power Automate and Copilot Studio."
+description: "Retains Microsoft Clarity behaviour data for 90-day trends and generates evidence-led website optimisation and A/B test recommendations for human review."
 ---
 
 # Clarity Website Analyst
@@ -51,7 +51,8 @@ Copilot Studio then reads this list with two agents:
 - Builds a long-term behavioural dataset beyond Clarity's 3-day window, enabling 90-day rolling trends
 - Surfaces UX friction per URL, such as rage clicks, dead clicks, scroll depth and time on page
 - Flags anomalies in a weekly report, so issues are spotted without manually checking dashboards
-- Turns the data into A/B CRO test ideas, grounding website optimisation in evidence
+- Turns the data into A/B CRO test recommendations, grounding website optimisation in evidence
+- The Website Manager reviews the recommendations and decides which tests to implement; the agent does not create or launch tests
 - Runs across all 5 brand sites from one repeatable foundation
 
 ### Cost Savings
@@ -69,7 +70,7 @@ Copilot Studio then reads this list with two agents:
 
 Saving each day's snapshot turns a short-lived API window into a growing dataset, so the same agents can look at trends rather than a single moment.
 
-Pairing trend reporting with test ideation in the same system keeps UX recommendations tied to evidence: the report shows where behaviour changed, and the UX Analyst proposes what to test next.
+Pairing trend reporting with test ideation in the same system keeps UX recommendations tied to evidence: the report shows where behaviour changed, and the UX Analyst proposes what to test next. The output is a report of suggested tests for the Website Manager to assess and prioritise. Test creation and launch remain human decisions; the agent does not publish experiments.
 
 ---
 
