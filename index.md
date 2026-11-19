@@ -43,7 +43,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
   <h2>Examples of programmes I've led.</h2>
   <p class="section-intro">A selection of work across marketing platforms, operating processes and commercial performance.</p>
   <div class="cards">
-    <article class="card"><p class="kicker">AI operating model</p><h3>Marketing Operations Control Centre</h3><p>Designed and piloted an agent-based operating model, then led its rollout across five brands. Eleven agents support quality assurance, production, data, reporting and governance.</p><p class="section-cta"><a href="How-to-Build.html">Read the MOCC leadership case study ↗</a> · <a href="Agent-Registry.html">View the agent registry ↗</a></p></article>
+    <article class="card"><p class="kicker">AI operating model</p><h3>Marketing Operations Control Centre</h3><p>Proposed and led a six-layer operating model for a B2B SaaS business across five brands, connecting quality, production, data, insight and governance.</p><p class="section-cta"><a href="How-to-Build.html">Read the MOCC leadership case study ↗</a> · <a href="Agent-Registry.html">Explore the six-layer model ↗</a></p></article>
     <article class="card"><p class="kicker">Platform transformation</p><h3>Enterprise MarTech and CRM</h3><p>HubSpot platform ownership across five brands, including a migration from Salesforce Marketing Cloud and Pardot and support for teams across EMEA and North America.</p><p class="section-cta"><a href="Leadership-%26-Strategy.html">Leadership experience ↗</a></p></article>
     <article class="card"><p class="kicker">Commercial performance</p><h3>Lifecycle and revenue programmes</h3><p>Work across lead management, partner integrations, customer journeys and conversion, including an increase in day-one contact rate from 32% to 87%.</p><p class="section-cta"><a href="Campaign-Commercial-Projects.html">View selected projects ↗</a></p></article>
   </div>
@@ -52,14 +52,12 @@ description: "George Murray is a marketing operations leader and Interim Head of
 
 <section class="section" id="operating-model">
   <p class="eyebrow">Operating model at a glance</p>
-  <h2>Scale and value from practical operational change.</h2>
-  <div class="metrics" aria-label="Selected operating model measures">
-    <div class="metric"><strong>£134k</strong><span>Annualised external cost savings from lower agency costs and retired subscriptions</span></div>
-    <div class="metric"><strong>135 hrs</strong><span>Estimated team capacity released per month by 11 live MOCC agents</span></div>
-    <div class="metric"><strong>11</strong><span>Live agents supporting quality, production, data, insight and governance</span></div>
-    <div class="metric"><strong>5</strong><span>Brands supported by the shared marketing operations model</span></div>
+  <h2>Practical change with measurable commercial impact.</h2>
+  <div class="metrics" aria-label="Selected operating model measure">
+    <div class="metric"><strong>50%</strong><span>Reduction in external content spend</span></div>
+    <div class="metric"><strong>6 layers</strong><span>A connected model spanning control, production, data, intelligence, governance and knowledge</span></div>
   </div>
-  <p class="small-note">The £134k figure represents annualised external cost savings: £120k from lower agency spend and £14k from five retired subscriptions. Separately, 135 hours of estimated team capacity is released each month. A further £24.2k of provisional rework and compliance/reliability estimates is excluded from the savings headline.</p>
+  <p class="small-note">The public case study focuses on the architecture and principles. Detailed financial evidence and the full agent portfolio are reserved for relevant employer conversations.</p>
 </section>
 
 <section class="section" id="impact">
