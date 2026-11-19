@@ -48,9 +48,9 @@ The process works with test emails from the marketing automation platform, so th
 - Gave campaign owners a clearer view of issues before deployment
 - Reduced the time spent on routine checklist work
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 55 hrs/month across 5 brands = £1,375/month = **£16,500/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 55 hrs/month across 5 brands = £1,375/month = **£16,500/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Compliance benefit:** The SharePoint record gives the team an audit trail of checks and findings
 - **Team benefit:** The Marketing Automation Executive can spend less time on routine checks and more time on workflow improvement
 
