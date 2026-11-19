@@ -34,13 +34,18 @@ Functionality was also being built that overlapped with existing agents and tool
 
 ![Flow diagram: a request raised in Teams goes through Copilot Studio questions, is logged on a SharePoint request list and checked for overlap with existing agents](Flow_AgentIntake.svg)
 
-The Agent Intake & Approval Agent is a Copilot Studio topic embedded in Teams. It asks the requester structured questions about what the agent helps solve, what it outputs and how it works, and tidies the answers into a single request. Every request is logged on a SharePoint list. The agent then produces a report for the approvers showing any potential crossover with existing agents and existing tech stack functionality. The request and report go to the Head of Digital Marketing Operations and the Head of Digital Performance for approval before any build. Approved requests are logged on an approved list, and the agent then creates the agent's documentation so its setup and workings stay visible over the long term.
+The Agent Intake & Approval Agent is a Copilot Studio topic embedded in Teams. It captures the business challenge, proposed solution, intended outputs and relevant systems, then logs the request in SharePoint. It produces an assessment report highlighting potential overlap with existing agents and functionality already available in the marketing technology stack. The Head of Digital Marketing Operations and Head of Digital Performance review the proposal before any build is approved.
+
+The assessment considers the expected time-saving or wider capability benefit, development effort, reliability, operational risk and governance implications, alongside whether an existing platform can already meet the need. Proposals can proceed to build, be approved for production after testing and acceptance, or be parked for later.
+
+Once approved, the agent generates the supporting documentation and records the request and decision in separate lists. The workflow automates the administration around intake and approval, leaving the requester to provide the initial business requirements and my team to support the build and technical review.
 
 ## Business Value
 
 - Every agent request is logged on a SharePoint list, giving a full record of what was asked for
 - No agent is built without approval from two Heads
-- Approvers see potential overlap with existing agents and stack functionality before any build starts
+- Proposals are assessed for time-saving or capability value, build effort, reliability, operational risk and governance risk
+- Existing marketing technology is checked before any build to avoid duplicating functionality
 - Approved agents get documentation created by the agent, so setup and workings stay visible long term
 - Requests and approvals sit on separate lists, giving a clear audit trail from request to approval
 
@@ -51,7 +56,7 @@ The Agent Intake & Approval Agent is a Copilot Studio topic embedded in Teams. I
 
 ## Design Insights
 
-Approval happens before build, so overlap with existing agents and tools is caught before any time is spent building.
+Approval happens before build, so value, feasibility, risk and overlap with existing agents or the wider marketing technology stack are considered before development effort is committed. Automating the supporting documentation and records keeps the governance process proportionate for requesters.
 
 ---
 
