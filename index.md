@@ -17,7 +17,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
     <a class="button secondary" href="{{ '/about/' | relative_url }}">Leadership experience</a>
-    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">Connect on LinkedIn ↗</a>
+    <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn ↗</a>
     <a class="button secondary" href="{{ '/assets/files/George-Murray-CV.pdf' | relative_url }}" download>Download CV ↓</a>
   </div>
 </section>
@@ -106,7 +106,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
       <p>If you're building or changing a marketing operations or technology function, I'd be pleased to hear from you.</p>
       <div class="actions">
         <a class="button primary" href="mailto:georgefwmurray@gmail.com">Email George ↗</a>
-        <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener">LinkedIn ↗</a>
+        <a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
       </div>
     </div>
   </div>
