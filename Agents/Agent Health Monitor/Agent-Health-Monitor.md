@@ -44,9 +44,9 @@ The Agent Health Monitor picks up where the Agent Intake & Approval Agent leaves
 - Usage is tracked across all agents, highlighting potential enhancements
 - Success is measured by the number of silent failures identified
 
-### Cost Savings
+### Capacity value and other benefits
 
-- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate
+- **Time reclaimed:** 8 hrs/month = £200/month = **£2,400/year** at the MOCC's illustrative £25/hour rate. This is an illustrative capacity value, not a direct cash saving
 - **Operational impact:** Helps prevent 1–2 missed reports/month, reducing the risk of stakeholder escalation; estimated impact avoided remains a separate, non-cash reliability benefit
 - **Reliability value:** Enables the team to trust agents for mission-critical daily/weekly tasks
 
