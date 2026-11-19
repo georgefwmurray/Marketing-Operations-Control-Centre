@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Strategic Marketing Technology & Digital Operations Leader"
-description: "George Murray is a strategic marketing technology and digital operations leader shaping MarTech strategy, multi-brand operations, teams and AI-enabled transformation."
+title: "George Murray | Marketing Operations & MarTech Leader"
+description: "George Murray is a marketing operations leader and Interim Head of Digital Marketing Operations, with experience leading teams, MarTech strategy, multi-brand operations and AI-enabled transformation."
 ---
 
 <section class="hero">
