@@ -23,3 +23,4 @@ defaults:
 # Keep the internal planning roadmap out of the public site and sitemap.
 exclude:
   - Roadmap.md
+  - Agents/**
