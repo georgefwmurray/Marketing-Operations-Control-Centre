@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About | Marketing Operations and Technology Leader"
-description: "George Murray is a strategic marketing technology and digital operations leader, currently Interim Head of Digital Marketing Operations across five brands, leading a four-person team and £1.3m MarTech portfolio."
+description: "George Murray is a strategic marketing technology and digital operations leader, currently Interim Head of Digital Marketing Operations, leading a team and multi-brand marketing technology operations."
 permalink: /about/
 ---
 
@@ -26,7 +26,7 @@ permalink: /about/
     <div><h2>Start with the business problem.</h2></div>
     <div class="prose">
       <p>I work across marketing, commercial teams and technology. I set direction, make platform and process decisions, and lead the delivery needed to turn those decisions into day-to-day improvements.</p>
-      <p>My current remit covers EMEA digital marketing operations for an £80m+ international B2B SaaS business. I lead a team of four, oversee a £1.3m technology stack and HubSpot operations across five brands, and support a 25-person marketing organisation. I report to the SVP of Marketing and provide weekly performance reporting to senior executives.</p>
+      <p>My current remit covers EMEA digital marketing operations for an international B2B SaaS business. I lead a team of four, oversee HubSpot operations across five brands and support a 25-person marketing organisation, working closely with senior marketing stakeholders.</p>
       <p>My interest in AI is practical. I look for work that can be made faster or more consistent, then put the right checks, ownership and escalation routes around it. The aim is better work and more capacity for the team, not automation for its own sake.</p>
     </div>
   </div>
@@ -40,7 +40,7 @@ permalink: /about/
       <p class="career-dates">June 2026 – Present · 12-month secondment</p>
       <h3>Interim Head of Digital Marketing Operations</h3>
       <p class="career-employer">Veriforce</p>
-      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across an £80m+ international B2B SaaS business. Lead a team of four, support a 25-person marketing organisation and oversee a £1.3m technology stack across five brands.</p>
+      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across a multi-brand B2B SaaS business. Lead a team of four and support a 25-person marketing organisation.</p>
     </article>
     <article class="career-entry">
       <p class="career-dates">June 2024 – June 2026</p>
@@ -84,10 +84,10 @@ permalink: /about/
   <h2>Platform ownership and operational change at scale.</h2>
   <div class="prose">
     <p>I have led marketing technology and operations across multi-brand environments, including HubSpot ownership across five brands and a migration from Salesforce Marketing Cloud and Pardot to HubSpot. The work supported teams across EMEA and North America.</p>
-    <p>I designed and piloted the Marketing Operations Control Centre (MOCC), then led its rollout across five brands. It brings together 11 live agents covering quality assurance, campaign production, data, reporting and governance. The current model releases an estimated 135 hours of team capacity each month.</p>
+    <p>I proposed and led the development of the Marketing Operations Control Centre (MOCC), a six-layer operating model bringing together quality assurance, production, data, intelligence and governance for a B2B SaaS business across five brands.</p>
     <p>Other programmes have included lead management and sales handover, telephony and CRM integration, partner integrations and customer journey improvements.</p>
   </div>
-  <p class="section-cta"><a href="{{ '/Agent-Registry.html' | relative_url }}">View the MOCC agent registry ↗</a> &nbsp; <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Explore selected projects ↗</a> &nbsp; <a href="{{ '/Results.html' | relative_url }}">See selected results ↗</a></p>
+  <p class="section-cta"><a href="{{ '/Agent-Registry.html' | relative_url }}">View the MOCC operating model ↗</a> &nbsp; <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Explore selected projects ↗</a> &nbsp; <a href="{{ '/Results.html' | relative_url }}">See selected results ↗</a></p>
 </section>
 
 <section class="section">
