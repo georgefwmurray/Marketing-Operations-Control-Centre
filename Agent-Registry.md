@@ -1,6 +1,6 @@
 ---
-title: "Agent Registry: 11 HubSpot Marketing Operations Agents"
-description: "Explore the 11 HubSpot marketing operations agents across six operating layers, with ownership, status, risk and links to each agent's full specification."
+title: "Agent Registry: 11 AI-Enabled Marketing Operations Agents"
+description: "Explore 11 AI-enabled marketing operations agents across six operating layers, with ownership, status, risk and links to each agent's full specification."
 ---
 
 <div class="page-hero">
