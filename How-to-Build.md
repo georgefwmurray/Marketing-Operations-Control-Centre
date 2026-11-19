@@ -24,12 +24,12 @@ permalink: /How-to-Build.html
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">The challenge</p>
-    <h2>Make operational work more consistent without removing accountability.</h2>
+    <h2>Turn a request to reduce manual work into a governed AI operating model.</h2>
   </div>
   <div class="prose">
-    <p>Marketing operations brings together a wide range of repeatable but important work: campaign quality checks, content and campaign production, data preparation, reporting, request management and platform monitoring. Across multiple brands, those activities can create a significant coordination and capacity challenge.</p>
-    <p>The opportunity was not simply to add AI tools. It was to create a coherent operating model in which specialist agents could take on defined tasks, work through the systems the team already used, and remain visible, governed and accountable.</p>
-    <p>I led the design and direction of the Marketing Operations Control Centre (MOCC) with my team. Some agent concepts came from me and others from colleagues. Each proposal had to serve a clear operational need and fit within the same six-layer architecture. I retained final approval, including the decision about what could move into live use.</p>
+    <p>The starting point was practical: reduce repetitive manual work that was consuming marketing capacity. I began identifying specific tasks that could be automated, but quickly recognised a much bigger opportunity. Rather than build one or two isolated productivity agents, marketing could use AI as a connected system — taking routine work away while also helping specialists make better, more evidence-led decisions.</p>
+    <p>I proposed the Marketing Operations Control Centre (MOCC) as that wider model. The ambition was to combine operational automation with agents that analyse performance, surface patterns and recommend where teams should focus. For example, the Clarity Website Analyst builds a longer-term view of visitor behaviour and proposes A/B testing opportunities from signals such as high-traffic, low-conversion pages, rage clicks and dead clicks. The Website Manager reviews the recommendations and decides which tests, if any, should be implemented; tests are not created or launched automatically.</p>
+    <p>This was a proposal I shaped, rather than a pre-existing AI programme I was asked to deliver. The departmental direction was to embrace AI and identify opportunities. I identified the potential to go further for marketing, then designed the operating model and led its development with my team. Ideas could come from colleagues as well as me, but every proposal had to demonstrate a business need and pass the same assessment and approval process.</p>
   </div>
 </section>
 
@@ -89,7 +89,7 @@ permalink: /How-to-Build.html
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">Leadership and governance</p>
-    <h2>Build the controls before scaling the agents.</h2>
+    <h2>Governance built into the lifecycle, not added afterwards.</h2>
   </div>
   <div class="featured-project-grid">
     <article class="featured-project">
@@ -100,16 +100,19 @@ permalink: /How-to-Build.html
     <article class="featured-project">
       <span class="project-category">02 / Make ownership clear</span>
       <h3>Document every agent</h3>
-      <p>With multiple agents in play, documentation is essential. Triggers, intended outcomes, systems used and responsibilities need to be clear from the outset, not reconstructed when something goes wrong.</p>
+      <p>Every agent has a business owner, normally the person who raised the request, and a technical owner from my team. Documentation records the business purpose, solution, systems and responsibilities so knowledge does not sit with one individual.</p>
     </article>
     <article class="featured-project">
       <span class="project-category">03 / Keep people accountable</span>
       <h3>Human approval is the release gate</h3>
-      <p>Nothing goes live without human approval. Agents can prepare, check, analyse and recommend, but people remain accountable for the final decision and release.</p>
+      <p>Human approval is built into the release process. Agents can prepare, check, analyse and recommend, but people remain accountable for decisions that affect customers, campaigns, content or live systems. The Clarity Analyst, for example, recommends tests; the Website Manager decides what to take forward.</p>
     </article>
   </div>
   <div class="prose">
-    <p>This approach also shaped how the team worked. Ideas could come from across the team, while the shared architecture provided a consistent test for whether an agent belonged in MOCC. My role was to set direction, bring the components together, support the team and retain final approval over the model and its live operation.</p>
+    <p>New ideas start with a short requirements capture covering the business challenge and proposed solution. My team and I assess the expected time-saving or capability benefit, build effort, reliability, operational and governance risk, and whether existing marketing technology already provides the functionality. Proposals can be approved for build, moved into production after testing and acceptance, or parked. The approval route involves the Head of Digital Marketing Operations and Head of Digital Performance.</p>
+    <p>Initially, colleagues saw the process as potential extra administration. We addressed that by automating the documentation, approval records, acceptance material and review-cadence setup, leaving the requester responsible mainly for explaining the business need. We also made the risks of unmanaged agents clear: duplicated functionality, inconsistent versions, outdated brand or regulatory guidance, and agents drifting from their original purpose. Governance became an enabler rather than a manual hurdle.</p>
+    <p>Once live, each agent has a review cadence based on the risk of failure, a named business owner and a named technical owner. Reviews check that knowledge sources remain current and that the agent still performs as intended. The Agent Health Monitor flags failures, including silent failures, and prompts upcoming reviews. Agents are improved through controlled iterations such as V1.1 and V1.2 rather than being treated as finished at launch.</p>
+    <p>My role is to set the direction, lead the assessment and operating model, support the team through development and retain oversight of the portfolio. The team contributes ideas and technical expertise; business owners remain accountable for the purpose and use of their agents.</p>
   </div>
 </section>
 
@@ -117,7 +120,7 @@ permalink: /How-to-Build.html
   <div class="section-heading">
     <p class="eyebrow">Scale and outcomes</p>
     <h2>From a focused pilot to a multi-brand capability.</h2>
-    <p>The model was piloted on one brand before being rolled out across five. It now includes 11 live agents across the first five operating layers.</p>
+    <p>The model was piloted on one brand before being rolled out across five. It now includes 11 live agents across the first five operating layers, spanning routine delivery, data operations, quality assurance, performance insight and governance.</p>
   </div>
   <div class="stat-grid">
     <div class="stat-card stat-card--feature"><strong>5</strong><span>Brands supported by the operating model</span></div>
@@ -135,13 +138,13 @@ permalink: /How-to-Build.html
 <section class="content-section">
   <div class="section-heading">
     <p class="eyebrow">What I learned</p>
-    <h2>Good AI operations are a leadership and operating-model challenge.</h2>
+    <h2>The achievement is the operating model, not the agent count.</h2>
   </div>
   <div class="prose">
-    <p><strong>Start with the operating problem, not the tool.</strong> An agent earns its place by solving a defined issue for the team and fitting into the wider system.</p>
-    <p><strong>Governance and documentation are foundational.</strong> Clear triggers, outcomes, systems and ownership make a multi-agent environment understandable, supportable and easier to scale.</p>
+    <p><strong>Start with the operating problem, not the tool.</strong> The initial aim was to reduce manual work; the wider opportunity was to use AI to improve the quality of marketing decisions as well as release capacity.</p>
+    <p><strong>Governance and documentation are foundational.</strong> A structured assessment, technology-stack check, dual ownership and risk-based reviews make a multi-agent environment understandable, supportable and easier to scale.</p>
     <p><strong>Prove the model before multiplying it.</strong> A pilot on one brand gives the team a chance to learn and improve before introducing the same approach across other brands.</p>
-    <p><strong>Human accountability must remain explicit.</strong> Automation can prepare work and improve consistency, but approval before anything goes live is a non-negotiable control.</p>
+    <p><strong>Human accountability must remain explicit.</strong> Agents can analyse and recommend, but specialists retain decisions such as which website tests to run and what content to publish.</p>
     <p><strong>Team contribution makes the model stronger.</strong> Agent ideas came from both me and the team. A common architecture and clear approval process allowed that contribution without creating a fragmented set of tools.</p>
   </div>
 </section>
