@@ -1,6 +1,6 @@
 ---
 title: "Leadership & Strategy: Marketing Operations"
-description: "Leadership approach, operating model and governance philosophy for scaling marketing operations, MarTech and AI-enabled teams."
+description: "Leadership approach, commercial strategy, team development and the operating model behind marketing operations, MarTech and AI-enabled transformation."
 ---
 
 <div class="page-hero">
@@ -12,30 +12,16 @@ description: "Leadership approach, operating model and governance philosophy for
 
 <section class="content-section leadership-intro">
   <div class="leadership-statement">
-    <p class="eyebrow">The mission</p>
-    <h2>Move marketing operations from manual execution to an intelligent, governed operating function.</h2>
+    <p class="eyebrow">Leadership remit</p>
+    <h2>Lead the function. Align the work. Build capability.</h2>
   </div>
   <div class="prose">
-    <p>The Marketing Operations Control Centre is one expression of that ambition: a connected system in which agents handle repeatable checks, preparation and insight, while people retain accountability for decisions, quality and customer impact.</p>
-    <p>The goal is not automation for its own sake. It is to give skilled people more time for strategic work, stakeholder partnership and the judgement calls that should remain human.</p>
+    <p>I lead a four-person Digital Marketing Operations team, including three direct reports, supporting a 25-person marketing organisation across five brands.</p>
+    <p>My remit spans strategy, people leadership, marketing technology, digital platforms and performance. I work with the SVP Marketing and functional leaders to translate commercial priorities into plans, guide investment and build the capability and operating discipline needed to deliver.</p>
   </div>
 </section>
 
-<section class="content-section">
-  <div class="section-heading">
-    <p class="eyebrow">Operating model</p>
-    <h2>Six connected capabilities</h2>
-    <p>The model gives each part of marketing operations a clear role and creates a structure that can scale across brands and teams.</p>
-  </div>
-  <div class="layer-grid">
-    <article class="layer-card"><span class="layer-index">01 / CONTROL</span><h3>Quality and compliance</h3><p>Make quality checks repeatable and visible before work reaches customers.</p></article>
-    <article class="layer-card"><span class="layer-index">02 / PRODUCTION</span><h3>Content and campaign delivery</h3><p>Standardise production steps while preserving creative judgement and approval.</p></article>
-    <article class="layer-card"><span class="layer-index">03 / DATA</span><h3>Reliable data operations</h3><p>Improve the consistency, readiness and flow of marketing data.</p></article>
-    <article class="layer-card"><span class="layer-index">04 / INTELLIGENCE</span><h3>Performance insight</h3><p>Turn reporting into useful signals, recommendations and decisions.</p></article>
-    <article class="layer-card"><span class="layer-index">05 / GOVERNANCE</span><h3>Automation oversight</h3><p>Build ownership, approval, risk and review into the system from the start.</p></article>
-    <article class="layer-card layer-card--planned"><span class="layer-index">06 / KNOWLEDGE</span><h3>Documentation and memory</h3><p>Make operational knowledge reusable and less dependent on individuals.</p><span class="status-pill status-pill--planned">In planning</span></article>
-  </div>
-</section>
+
 
 <section class="content-section">
   <div class="section-heading">
@@ -116,6 +102,22 @@ description: "Leadership approach, operating model and governance philosophy for
   <div class="prose">
     <p>I want the team to be capable of running its day-to-day responsibilities without constant intervention. A centralised ClickUp workflow allocates incoming work according to individual skills and capacity. Automated reporting gives the team visibility of daily priorities, while clear specialist ownership allows people to manage their own areas.</p>
     <p>My role is to maintain strategic direction, remove obstacles, support stakeholder relationships and ensure the function remains aligned with wider business priorities. The result is a more resilient team, with greater independence and more capacity to focus on complex and valuable work.</p>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Operating model</p>
+    <h2>Six connected capabilities</h2>
+    <p>The model gives each part of marketing operations a clear role and creates a structure that can scale across brands and teams.</p>
+  </div>
+  <div class="layer-grid">
+    <article class="layer-card"><span class="layer-index">01 / CONTROL</span><h3>Quality and compliance</h3><p>Make quality checks repeatable and visible before work reaches customers.</p></article>
+    <article class="layer-card"><span class="layer-index">02 / PRODUCTION</span><h3>Content and campaign delivery</h3><p>Standardise production steps while preserving creative judgement and approval.</p></article>
+    <article class="layer-card"><span class="layer-index">03 / DATA</span><h3>Reliable data operations</h3><p>Improve the consistency, readiness and flow of marketing data.</p></article>
+    <article class="layer-card"><span class="layer-index">04 / INTELLIGENCE</span><h3>Performance insight</h3><p>Turn reporting into useful signals, recommendations and decisions.</p></article>
+    <article class="layer-card"><span class="layer-index">05 / GOVERNANCE</span><h3>Automation oversight</h3><p>Build ownership, approval, risk and review into the system from the start.</p></article>
+    <article class="layer-card"><span class="layer-index">06 / KNOWLEDGE</span><h3>Documentation and memory</h3><p>Capture, maintain and make approved operational knowledge reusable across teams and agents.</p></article>
   </div>
 </section>
 
