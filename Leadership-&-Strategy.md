@@ -109,7 +109,7 @@ description: "Leadership approach, commercial strategy, team development and the
   <div class="section-heading">
     <p class="eyebrow">Operating model</p>
     <h2>Six connected capabilities</h2>
-    <p>The model gives each part of marketing operations a clear role and creates a structure that can scale across brands and teams.</p>
+    <p>All six capabilities are live. Together, they give each part of marketing operations a clear role and create a structure that can scale across brands and teams.</p>
   </div>
   <div class="layer-grid">
     <article class="layer-card"><span class="layer-index">01 / CONTROL</span><h3>Quality and compliance</h3><p>Make quality checks repeatable and visible before work reaches customers.</p></article>
