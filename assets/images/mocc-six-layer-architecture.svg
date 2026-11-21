@@ -62,13 +62,12 @@
     <circle class="dot" cx="145" cy="25" r="5"/>
   </g>
   <g transform="translate(1025 55)">
-    <rect class="card" width="150" height="200" rx="9" stroke-dasharray="7 6"/>
+    <rect class="card" width="150" height="200" rx="9"/>
     <text class="number" x="17" y="36">06 / KNOWLEDGE</text>
     <text class="heading" x="17" y="83">System</text>
     <text class="heading" x="17" y="113">memory</text>
     <text class="sub" x="17" y="157">Document and</text>
     <text class="sub" x="17" y="179">reuse learning</text>
-    <text x="17" y="222" font="700 11px 'DM Sans',Arial,sans-serif" fill="#76663c">IN PLANNING</text>
   </g>
   <text x="600" y="310" text-anchor="middle" font="600 14px 'DM Sans',Arial,sans-serif" fill="#5d6873">A governed operating system: quality · delivery · data · insight · oversight · knowledge</text>
 </svg>
