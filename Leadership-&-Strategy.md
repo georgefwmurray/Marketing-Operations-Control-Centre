@@ -1,13 +1,13 @@
 ---
-title: "Leadership & Strategy: Marketing Operations"
-description: "Leadership approach, commercial strategy, team development and the operating model behind marketing operations, MarTech and AI-enabled transformation."
+title: "Marketing Operations Leadership & MarTech Strategy | George Murray"
+description: "Explore George Murray’s approach to marketing operations leadership, MarTech strategy and AI-enabled transformation, connecting commercial priorities, people, processes and platforms."
 ---
 
 <div class="page-hero">
   <p class="eyebrow">Leadership, operating model and transformation</p>
-  <h1>Set the strategy. Align the investment. Lead the transformation.</h1>
-  <p class="page-lead">I shape marketing technology and digital operations around commercial priorities: defining the direction, evaluating choices, aligning people and investment, and building operating models that make change deliver lasting results.</p>
-  <div class="hero-tags"><span>Team leadership</span><span>MarTech transformation</span><span>AI governance</span></div>
+  <h1>Marketing Operations Leadership &amp; MarTech Strategy</h1>
+  <p class="page-lead">I lead marketing operations and marketing technology strategy around commercial priorities: aligning people, processes, platforms and investment to improve marketing performance and deliver lasting digital transformation.</p>
+  <div class="hero-tags"><span>Marketing Operations (MarOps)</span><span>Marketing Technology (MarTech)</span><span>Digital transformation</span></div>
 </div>
 
 <section class="content-section leadership-intro">
