@@ -132,6 +132,40 @@ description: "Explore George Murray’s approach to marketing operations leaders
 
 <section class="content-section">
   <div class="section-heading">
+    <p class="eyebrow">Further reading</p>
+    <h2>Explore marketing operations and MarTech in more depth.</h2>
+    <p>These insights explore the strategic ownership, operating models and governance principles behind effective marketing operations.</p>
+  </div>
+  <div class="cards">
+    <article class="card">
+      <p class="kicker">Leadership · Strategic ownership</p>
+      <h3><a href="{{ '/insights/marketing-operations-strategic-ownership/' | relative_url }}">From marketing operations delivery to strategic ownership</a></h3>
+      <p>How commercial priorities translate into direction, investment decisions, team accountability and measurable performance.</p>
+      <p class="section-cta"><a href="{{ '/insights/marketing-operations-strategic-ownership/' | relative_url }}">Read insight ↗</a></p>
+    </article>
+    <article class="card">
+      <p class="kicker">Operating model · Multi-brand</p>
+      <h3><a href="{{ '/insights/multi-brand-marketing-operations-operating-model/' | relative_url }}">Building a marketing operations model across multiple brands</a></h3>
+      <p>Balancing shared standards, brand flexibility, team capability and technology ownership.</p>
+      <p class="section-cta"><a href="{{ '/insights/multi-brand-marketing-operations-operating-model/' | relative_url }}">Read insight ↗</a></p>
+    </article>
+    <article class="card">
+      <p class="kicker">AI automation · Commercial value</p>
+      <h3><a href="{{ '/insights/measuring-the-business-value-of-ai-automation/' | relative_url }}">AI automation: what does the business actually get back?</a></h3>
+      <p>Measuring direct cost reduction, released capacity, quality and operational control without overstating value.</p>
+      <p class="section-cta"><a href="{{ '/insights/measuring-the-business-value-of-ai-automation/' | relative_url }}">Read insight ↗</a></p>
+    </article>
+    <article class="card">
+      <p class="kicker">AI governance</p>
+      <h3><a href="{{ '/insights/governing-ai-agents-marketing-operations/' | relative_url }}">Governing AI agents in marketing operations</a></h3>
+      <p>Establishing clear ownership, proportionate controls, human oversight and ongoing review.</p>
+      <p class="section-cta"><a href="{{ '/insights/governing-ai-agents-marketing-operations/' | relative_url }}">Read insight ↗</a></p>
+    </article>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="section-heading">
     <p class="eyebrow">AI governance and risk</p>
     <h2>Governance before scale. Human accountability by design.</h2>
     <p>Automation should make the operation more dependable, not create a new category of unmanaged risk.</p>
