@@ -6,7 +6,7 @@ description: "The six-layer architecture and governance principles behind an AI-
 <div class="page-hero">
   <p class="eyebrow">Marketing Operations Control Centre</p>
   <h1>A connected operating model for marketing operations.</h1>
-  <p class="page-lead">Designed for a B2B SaaS business across five brands, MOCC brings quality, production, data, intelligence and governance into one operating model.</p>
+  <p class="page-lead">Designed for a B2B SaaS business across five brands, MOCC brings quality, production, data, intelligence, governance and shared knowledge into one operating model.</p>
   <div class="hero-tags"><span>Six-layer architecture</span><span>Multi-brand capability</span><span>Human accountability</span></div>
 </div>
 
@@ -14,7 +14,7 @@ description: "The six-layer architecture and governance principles behind an AI-
   <div class="section-heading">
     <p class="eyebrow">Architecture</p>
     <h2>Six layers. One connected system.</h2>
-    <p>The model connects the work marketing teams need to deliver with the quality, information and governance that make delivery dependable. The Knowledge layer represents the longer-term ambition to make approved organisational knowledge reusable.</p>
+    <p>The model connects the work marketing teams need to deliver with the quality, information and governance that make delivery dependable. All six layers are live, including Knowledge, which makes approved organisational information and context reusable across the operating model.</p>
   </div>
   <figure class="architecture-figure">
     <img src="{{ '/assets/images/mocc-six-layer-architecture.svg' | relative_url }}" alt="Six-layer Marketing Operations Control Centre architecture: Control, Production, Data, Intelligence, Governance and Knowledge." loading="lazy">
@@ -26,7 +26,7 @@ description: "The six-layer architecture and governance principles behind an AI-
     <article class="layer-card"><span class="layer-index">03 / DATA</span><h3>Data operations</h3><p>Improve the consistency, readiness and flow of marketing information.</p></article>
     <article class="layer-card"><span class="layer-index">04 / INTELLIGENCE</span><h3>Performance insight</h3><p>Turn reporting into useful signals, recommendations and decisions.</p></article>
     <article class="layer-card"><span class="layer-index">05 / GOVERNANCE</span><h3>Automation oversight</h3><p>Build accountability, oversight and continuous improvement into the system.</p></article>
-    <article class="layer-card"><span class="layer-index">06 / KNOWLEDGE</span><h3>Shared organisational knowledge</h3><p>Make approved knowledge and context easier to reuse across the operating model.</p></article>
+    <article class="layer-card"><span class="layer-index">06 / KNOWLEDGE</span><h3>Shared organisational knowledge</h3><p>Capture, maintain and make approved knowledge and context reusable across the operating model.</p></article>
   </div>
 </section>
 
