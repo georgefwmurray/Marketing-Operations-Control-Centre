@@ -37,7 +37,7 @@ permalink: /How-to-Build.html
   <div class="section-heading">
     <p class="eyebrow">The operating model</p>
     <h2>Six layers. One connected system.</h2>
-    <p>MOCC is structured as six complementary capabilities rather than a collection of disconnected automations. The first five support the current operating model; the Knowledge layer represents the longer-term ambition to make organisational knowledge more reusable.</p>
+    <p>MOCC is structured as six complementary capabilities rather than a collection of disconnected automations. All six layers are live parts of the operating model. The Knowledge layer captures, maintains and makes approved organisational knowledge reusable across the team and its agents.</p>
   </div>
   <figure class="architecture-figure">
     <img src="{{ '/assets/images/mocc-six-layer-architecture.svg' | relative_url }}" alt="Six-layer Marketing Operations Control Centre architecture: Control, Production, Data, Intelligence, Governance and Knowledge." loading="lazy">
