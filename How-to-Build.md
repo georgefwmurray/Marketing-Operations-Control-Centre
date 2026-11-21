@@ -129,6 +129,16 @@ permalink: /How-to-Build.html
   </div>
 </section>
 
+<section class="content-section">
+  <div class="section-heading">
+    <p class="eyebrow">Related leadership approach</p>
+    <h2>The strategy and leadership behind the operating model.</h2>
+  </div>
+  <div class="prose">
+    <p>Explore how I approach <a href="/Leadership-&amp;-Strategy.html">Marketing Operations leadership and MarTech strategy</a>, including team development, commercial planning, platform ownership and investment decisions.</p>
+  </div>
+</section>
+
 <section class="closing-panel">
   <p class="eyebrow">Leadership opportunities</p>
   <h2>Marketing operations, MarTech and AI transformation.</h2>
