@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Marketing Operations Control Centre | AI Transformation Case Study"
-description: "How George Murray proposed and led a governed, AI-enabled marketing operations model for a B2B SaaS business across five brands."
+title: "Marketing Operations & MarTech Transformation | MOCC Case Study"
+description: "A case study in marketing operations strategy, MarTech transformation and AI governance: how George Murray shaped a six-layer operating model across five brands."
 permalink: /How-to-Build.html
 ---
 
 <section class="page-hero">
   <p class="eyebrow">Leadership case study · AI-enabled marketing operations</p>
   <h1>Building a Marketing Operations Control Centre.</h1>
-  <p class="page-lead">How I identified an opportunity to move beyond isolated productivity tools and proposed a connected operating model for a B2B SaaS business across five brands.</p>
+  <p class="page-lead">How I shaped and led an AI-enabled Marketing Operations (MarOps) model, connecting marketing technology, people, processes, data and governance across five brands.</p>
   <div class="hero-tags" aria-label="Case study themes">
     <span>Team-led transformation</span>
     <span>Six-layer architecture</span>
@@ -27,7 +27,7 @@ permalink: /How-to-Build.html
     <h2>Turn a request to reduce manual work into a wider operating model.</h2>
   </div>
   <div class="prose">
-    <p>The starting point was practical: reduce repetitive work that was consuming marketing capacity. As I explored opportunities to automate individual tasks, I recognised a broader opportunity. Rather than introduce disconnected tools for isolated problems, marketing could use AI as part of a connected system — improving consistency, surfacing useful insight and giving specialists more time for higher-value work.</p>
+    <p>This is a marketing operations and MarTech transformation case study: the goal was not simply to add AI tools, but to improve how marketing work, technology, information and accountability fit together. The model connects operational processes with the marketing technology environment, creating a more consistent way to deliver work and make decisions.</p>\n    <p>The starting point was practical: reduce repetitive work that was consuming marketing capacity. As I explored opportunities to automate individual tasks, I recognised a broader opportunity. Rather than introduce disconnected tools for isolated problems, marketing could use AI as part of a connected system — improving consistency, surfacing useful insight and giving specialists more time for higher-value work.</p>
     <p>I proposed the Marketing Operations Control Centre (MOCC), then worked with the team to shape and develop the model. The ambition was to combine operational support with better-quality information for decision-making, while keeping people accountable for judgement, approvals and customer impact.</p>
     <p>This was an opportunity I identified and developed, rather than a pre-existing transformation programme I was asked to deliver. The wider direction was to explore practical uses for AI; I shaped the case for a more joined-up approach and led the work to establish it.</p>
   </div>
@@ -101,7 +101,7 @@ permalink: /How-to-Build.html
   </div>
   <div class="prose">
     <p>Governance is not an administrative layer added after implementation. It is part of the operating model from the outset: a clear business purpose, considered use of technology, transparent accountability, appropriate oversight and a commitment to keep the system useful and reliable.</p>
-    <p>The model was shaped with the team, tested in practice and refined as adoption grew. The aim was to make responsible use straightforward, not create process for its own sake.</p>
+    <p>The model was shaped with the team, tested in practice and refined as adoption grew. The aim was to make responsible use straightforward, not create process for its own sake. This is the practical connection between MarOps and MarTech: technology is selected and governed in service of the operating model, with clear ownership and human accountability.</p>
   </div>
 </section>
 
