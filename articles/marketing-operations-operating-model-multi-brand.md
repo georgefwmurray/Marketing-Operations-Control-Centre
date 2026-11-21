@@ -37,4 +37,5 @@ permalink: /insights/multi-brand-marketing-operations-operating-model/
 <p>Good governance should be proportionate and practical. People need to understand who is accountable, what requires approval and where human judgement remains essential. Clear standards and ownership help new tools and processes remain dependable without creating unnecessary administration.</p>
 <p>The common thread is simple: standardise what makes the system reliable, protect what makes each brand distinct, and give people clear ownership of both.</p>
 <p><a href="{{ '/about/' | relative_url }}">Read about my experience</a> or explore the <a href="{{ '/Campaign%20%26%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html' | relative_url }}">Response iQ</a> and <a href="{{ '/Campaign%20%26%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html' | relative_url }}">Dynamics integration</a> case studies.</p>
+<p>See how this fits into my wider <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">marketing operations leadership and MarTech strategy</a>.</p>
 </section>
