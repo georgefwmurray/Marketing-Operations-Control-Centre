@@ -3,8 +3,8 @@ layout: default
 title: "From Marketing Operations Delivery to Strategic Ownership | George Murray"
 description: "How a marketing operations leader turns commercial priorities into direction, investment decisions and measurable performance."
 permalink: /insights/marketing-operations-strategic-ownership/
-publish_date: "2026-11-15"
-datePublished: "2026-11-15"
+publish_date: "2026-10-24"
+datePublished: "2026-10-24"
 ---
 
 <section class="page-hero">
