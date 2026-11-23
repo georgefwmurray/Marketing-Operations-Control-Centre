@@ -95,7 +95,7 @@
       <nav class="site-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
         <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
-        <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}"{% if page.url == '/Leadership-%26-Strategy.html' %} aria-current="page"{% endif %}>Leadership</a>
+        <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}"{% if page.path == 'Leadership-&-Strategy.md' or page.url == '/Leadership-&-Strategy.html' or page.url == '/Leadership-%26-Strategy.html' %} aria-current="page"{% endif %}>Leadership</a>
         <a href="{{ '/HubSpot-Expert-South-Wales.html' | relative_url }}"{% if page.url == '/HubSpot-Expert-South-Wales.html' %} aria-current="page"{% endif %}>HubSpot</a>
         <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}"{% if page.url == '/Campaign-Commercial-Projects.html' %} aria-current="page"{% endif %}>Projects</a>
         <a href="{{ '/insights/' | relative_url }}"{% if page.url == '/insights/' or page.path contains 'articles/' %} aria-current="page"{% endif %}>Insights</a>
