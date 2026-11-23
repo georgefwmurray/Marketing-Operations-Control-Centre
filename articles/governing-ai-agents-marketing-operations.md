@@ -3,6 +3,8 @@ layout: default
 title: "Governing AI Agents in Marketing Operations | George Murray"
 description: "How I approach AI governance in marketing operations through clear accountability, proportionate controls and human oversight."
 permalink: /insights/governing-ai-agents-marketing-operations/
+publish_date: "2026-11-07"
+datePublished: "2026-11-07"
 ---
 
 <section class="page-hero">
