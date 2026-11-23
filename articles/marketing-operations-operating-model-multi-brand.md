@@ -3,6 +3,8 @@ layout: default
 title: "Building a Multi-Brand Marketing Operations Model | George Murray"
 description: "How I balance shared standards, brand flexibility, team capability and technology ownership across a multi-brand marketing organisation."
 permalink: /insights/multi-brand-marketing-operations-operating-model/
+publish_date: "2026-10-31"
+datePublished: "2026-10-31"
 ---
 
 <section class="page-hero">
