@@ -3,8 +3,8 @@ layout: default
 title: "Measuring AI Automation's Business Value | George Murray"
 description: "How to measure AI automation through cost reduction, released capacity, quality and operational control without overstating financial impact."
 permalink: /insights/measuring-the-business-value-of-ai-automation/
-publish_date: "2026-11-16"
-datePublished: "2026-11-16"
+publish_date: "2026-11-14"
+datePublished: "2026-11-14"
 dateModified: "2026-11-19"
 ---
 
