@@ -1,4 +1,8 @@
 ---
+permalink: /projects/cross-sell-campaign/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/Cross-Sell-Campaign.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Cross-Sell-Campaign.html"
 title: "Cross-Sell Campaign: 1.6 vs 1.2 Products per Customer"
 description: "Led a three-month, multi-brand cross-sell strategy using customer product holdings and firmographic segmentation across email, website personalisation and paid retargeting. Targeted customers averaged 1.6 products per customer versus 1.2 in an untargeted control group."
 ---
