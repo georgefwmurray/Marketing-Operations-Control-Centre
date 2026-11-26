@@ -3,8 +3,8 @@ permalink: /projects/hubspot-enterprise-implementation/
 redirect_from:
   - "/Campaign%20&%20Commercial%20Projects/HubSpot-Enterprise-Implementation.html"
   - "/Campaign%20%26%20Commercial%20Projects/HubSpot-Enterprise-Implementation.html"
-title: "HubSpot Enterprise Implementation: 125% MQL Growth"
-description: "Led a six-month, business-wide HubSpot Enterprise implementation at Collett’s Mountain Holidays, replacing a legacy custom CRM and increasing MQLs by 125% year on year."
+title: "HubSpot Enterprise Implementation: 125 per cent MQL Growth"
+description: "Led a six-month, business-wide HubSpot Enterprise implementation at Collett’s Mountain Holidays, replacing a legacy custom CRM and increasing MQLs by 125 per cent year on year."
 ---
 
 ## The challenge
@@ -31,11 +31,11 @@ Sales Sequences also improved the consistency of follow-up, helping reduce the t
 
 ## Results
 
-- **125% year-on-year growth in MQLs** in the first full year after implementation, compared with the previous year.
+- **125 per cent year-on-year growth in MQLs** in the first full year after implementation, compared with the previous year.
 - Improved sales conversion following the introduction of more consistent follow-up processes.
 - Approximately **10% faster lead-to-sale time**, based on a recalled estimate.
 - A shared HubSpot platform supporting Marketing, Sales, Operations and Customer Service.
 
 ## The outcome
 
-Within six months, the business had moved from a restrictive, custom-built CRM to a scalable HubSpot Enterprise platform. The implementation created the foundations for stronger campaign execution, automated nurture and more coordinated work across departments, with a 125% increase in MQLs in the first full year.
+Within six months, the business had moved from a restrictive, custom-built CRM to a scalable HubSpot Enterprise platform. The implementation created the foundations for stronger campaign execution, automated nurture and more coordinated work across departments, with a 125 per cent increase in MQLs in the first full year.
