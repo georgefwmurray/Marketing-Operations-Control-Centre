@@ -1,4 +1,7 @@
 ---
+permalink: /projects/
+redirect_from:
+  - "/Campaign-Commercial-Projects.html"
 title: "Campaign & Commercial Projects: Marketing and Sales Results"
 description: "Selected campaign, sales and platform projects across marketing automation, CRM integration, customer experience and commercial growth."
 ---
