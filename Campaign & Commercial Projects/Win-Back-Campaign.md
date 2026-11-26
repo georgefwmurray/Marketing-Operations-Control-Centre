@@ -3,19 +3,6 @@ title: "Win-Back Campaign: 6 Percentage-Point Conversion Uplift"
 description: "Built the automation for a win-back programme targeting customers who had cancelled at least three months earlier. A controlled test of value-led email and social retargeting delivered a 6 percentage-point conversion uplift (2025)."
 ---
 
-# Win-Back Campaign
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: Campaign & Conversion  
-Context: Controlled win-back campaign using a staged email journey and social retargeting to re-engage former customers.  
-Employer: Veriforce  
-Featured: No  
-Result: +6 percentage points in conversion to sale versus the control group  
-Year: 2025
-
 ## Overview
 
 I developed the strategy and built the automation for a win-back campaign targeting former customers who had cancelled at least three months earlier.
