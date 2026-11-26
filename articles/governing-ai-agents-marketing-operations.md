@@ -39,5 +39,5 @@ datePublished: "2026-11-07"
 <ul><li>Define the business purpose and accountable owner before building.</li><li>Set controls according to the consequences of failure.</li><li>Keep human approval for decisions that need judgement.</li><li>Review whether each automation remains useful and trustworthy.</li></ul>
 <p>The aim is not to maximise the number of agents. It is to make useful automation understandable, dependable and accountable for the teams who rely on it.</p>
 <p><a href="{{ '/mocc/case-study/' | relative_url }}">Read the MOCC leadership case study</a> or <a href="{{ '/results/' | relative_url }}">explore selected outcomes</a>.</p>
-<p>Explore the wider <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">marketing operations leadership and MarTech strategy</a> behind this approach to governance.</p>
+<p>Explore the wider <a href="{{ '/leadership/' | relative_url }}">marketing operations leadership and MarTech strategy</a> behind this approach to governance.</p>
 </section>
