@@ -3,19 +3,6 @@ title: "HubSpot Enterprise Implementation: 125% MQL Growth"
 description: "Led a six-month, business-wide HubSpot Enterprise implementation at Collett’s Mountain Holidays, replacing a legacy custom CRM and increasing MQLs by 125% year on year."
 ---
 
-# HubSpot Enterprise Implementation
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: CRM and Marketing Technology Transformation  
-Context: Replaced a legacy, custom-built CRM with HubSpot Enterprise across the business  
-Employer: Collett’s Mountain Holidays  
-Featured: No  
-Result: 125% year-on-year MQL growth in the first full year  
-Year: 2018
-
 ## The challenge
 
 Collett’s Mountain Holidays relied on a bespoke CRM that had become a constraint on growth. Reporting was limited, marketing automation options were minimal, attribution was difficult and the platform was hard to scale.
