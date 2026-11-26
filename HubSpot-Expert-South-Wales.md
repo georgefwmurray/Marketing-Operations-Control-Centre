@@ -12,11 +12,11 @@ faq:
   - question: "Where is George Murray based?"
     answer: "South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America."
 redirect_from:
-  - "/HubSpot-Expert-South-Wales.html"
+  - "/hubspot-south-wales/"
 layout: default
 title: "HubSpot Leadership in South Wales"
 description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, CRM integration, marketing automation and AI-enabled operations."
-permalink: /HubSpot-Expert-South-Wales.html
+permalink: /hubspot-south-wales/
 ---
 
 <section class="page-hero">
@@ -60,11 +60,11 @@ permalink: /HubSpot-Expert-South-Wales.html
 <section class="content-section">
   <div class="section-heading"><p class="eyebrow">Selected outcomes</p><h2>Evidence from live marketing operations programmes.</h2><p>Examples of platform, process and customer-journey improvements delivered across different roles and organisations.</p></div>
   <div class="featured-project-grid">
-    <article class="featured-project"><span class="project-category">AI and operations</span><strong class="project-result">50%</strong><h3>Lower external content spend</h3><p>Helped reshape content production and the supporting operating model, reducing reliance on external delivery.</p><a class="text-link" href="/How-to-Build.html">Read the MOCC leadership case study →</a></article>
-    <article class="featured-project"><span class="project-category">CRM integration</span><strong class="project-result">40%</strong><h3>Faster lead-to-sales handover</h3><p>Improved the handover process between marketing and sales through HubSpot and Microsoft Dynamics integration.</p><a class="text-link" href="/Campaign%20&%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html">Read the integration case study →</a></article>
-    <article class="featured-project"><span class="project-category">Lifecycle performance</span><strong class="project-result">7%</strong><h3>Higher MQL-to-SQL conversion</h3><p>Improved lead qualification and scoring to help sales teams focus on better-qualified opportunities.</p><a class="text-link" href="/Campaign%20&%20Commercial%20Projects/Lead-Scoring-Model.html">Read the lead-scoring case study →</a></article>
+    <article class="featured-project"><span class="project-category">AI and operations</span><strong class="project-result">50%</strong><h3>Lower external content spend</h3><p>Helped reshape content production and the supporting operating model, reducing reliance on external delivery.</p><a class="text-link" href="/mocc/case-study/">Read the MOCC leadership case study →</a></article>
+    <article class="featured-project"><span class="project-category">CRM integration</span><strong class="project-result">40%</strong><h3>Faster lead-to-sales handover</h3><p>Improved the handover process between marketing and sales through HubSpot and Microsoft Dynamics integration.</p><a class="text-link" href="/projects/microsoft-dynamics-hubspot-integration/">Read the integration case study →</a></article>
+    <article class="featured-project"><span class="project-category">Lifecycle performance</span><strong class="project-result">7%</strong><h3>Higher MQL-to-SQL conversion</h3><p>Improved lead qualification and scoring to help sales teams focus on better-qualified opportunities.</p><a class="text-link" href="/projects/lead-scoring-model/">Read the lead-scoring case study →</a></article>
   </div>
-  <p class="section-cta"><a href="/Campaign-Commercial-Projects.html">Explore selected projects and integrations →</a></p>
+  <p class="section-cta"><a href="/projects/">Explore selected projects and integrations →</a></p>
 </section>
 
 <section class="content-section"><div class="split"><div><p class="eyebrow">Based in South Wales</p><h2>Local base. International operating experience.</h2></div><div class="prose"><p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p><p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p><p>This page documents my professional experience and selected work. It isn't a consultancy or agency services page.</p></div></div></section>
