@@ -48,5 +48,5 @@ datePublished: "2026-10-24"
 <p>Moving from delivery to strategic ownership does not mean stepping back from the detail. It means using that detail to decide when to challenge, when to invest, when to simplify and when to change direction.</p>
 <p>Strategic ownership is about taking responsibility for the conditions that make good delivery possible: clear priorities, informed investment, capable people, effective processes and measurable outcomes.</p>
 <p>The role of marketing operations leadership is to bring those elements together, ensuring the function does not simply respond to the business, but actively improves its ability to achieve its objectives.</p>
-<p>See the evidence in my <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">leadership profile</a>.</p>
+<p>See the evidence in my <a href="{{ '/leadership/' | relative_url }}">leadership profile</a>.</p>
 </section>
