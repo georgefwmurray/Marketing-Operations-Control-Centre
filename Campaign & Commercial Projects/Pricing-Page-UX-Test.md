@@ -3,18 +3,13 @@ title: "Pricing Page UX Test: 63% More Leads and 13% More Revenue"
 description: "Proposed an interactive pricing calculator to replace a static lead form. A/B testing showed 63% more completed submissions and 13% higher revenue, leading to a wider multi-brand rollout."
 ---
 
-# Pricing Page UX Test
-
-[Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
-
 <div class="case-study-facts">
   <div class="case-study-fact"><strong>+63%</strong><span>Completed lead submissions</span></div>
   <div class="case-study-fact"><strong>+13%</strong><span>Revenue in the same-period test</span></div>
   <div class="case-study-fact"><strong>28% → 22%</strong><span>Lead-to-sale conversion</span></div>
   <div class="case-study-fact"><strong>2026</strong><span>Veriforce</span></div>
 </div>
-
-<p class="case-study-intro">I used a conversion problem identified in GA4 to propose a different way for prospective customers to engage with pricing: an interactive calculator that gave visitors a tailored price in return for their contact details.</p>
+ 
 
 <section class="case-study-section">
   <h2>The business problem</h2>
