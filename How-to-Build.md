@@ -5,7 +5,6 @@ redirect_from:
 layout: default
 title: "Marketing Operations & MarTech Transformation | MOCC Case Study"
 description: "A case study in marketing operations strategy, MarTech transformation and AI governance: how George Murray shaped a six-layer operating model across five brands."
-permalink: /mocc/case-study/
 ---
 
 <section class="page-hero">
