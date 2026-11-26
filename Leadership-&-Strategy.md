@@ -4,7 +4,7 @@ redirect_from:
   - "/Leadership-&-Strategy.html"
   - "/Leadership-%26-Strategy.html"
 layout: default
-title: "Marketing Operations Leadership & MarTech Strategy | George Murray"
+title: "Marketing Operations Leadership & MarTech Strategy"
 description: "Explore George Murray’s approach to marketing operations leadership, MarTech strategy and AI-enabled transformation, connecting commercial priorities, people, processes and platforms."
 ---
 
