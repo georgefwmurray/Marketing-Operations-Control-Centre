@@ -12,7 +12,7 @@ faq:
   - question: "Where is George Murray based?"
     answer: "South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America."
 redirect_from:
-  - "/hubspot-south-wales/"
+  - "/HubSpot-Expert-South-Wales.html"
 layout: default
 title: "HubSpot Leadership in South Wales"
 description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, CRM integration, marketing automation and AI-enabled operations."
