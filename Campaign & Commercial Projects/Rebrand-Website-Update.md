@@ -3,19 +3,6 @@ title: "Rebrand Website Update Across 4 Websites"
 description: "Led website execution of Veriforce's rebrand across 4 sites: asset and page mapping, prioritised long-tail work, full brand refresh delivered (2026)."
 ---
 
-# Rebrand — Website Update
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: Digital & UX Optimisation
-Context: Led the website-side execution of a full brand rebrand across 4 websites — updating logos, colours, and brand positioning throughout on-site copy.
-Employer: Veriforce
-Featured: No
-Result: Full brand refresh delivered across the website
-Year: 2026
-
 ## Overview
 
 Led the website-side execution of a full brand rebrand across 4 Veriforce websites (2026), updating logos, colours and brand positioning in on-site copy.
