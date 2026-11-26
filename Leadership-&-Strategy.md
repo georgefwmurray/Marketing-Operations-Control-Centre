@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Marketing Operations Leadership & MarTech Strategy | George Murray"
 description: "Explore George Murray’s approach to marketing operations leadership, MarTech strategy and AI-enabled transformation, connecting commercial priorities, people, processes and platforms."
 ---
@@ -185,7 +186,7 @@ description: "Explore George Murray’s approach to marketing operations leaders
   <div class="featured-project-grid featured-project-grid--compact">
     <article class="featured-project"><strong class="project-result">32% → 87%</strong><h3>Day-one contact rate</h3><p>ResponseIQ telephony integration improved lead contact performance.</p></article>
     <article class="featured-project"><strong class="project-result">+17%</strong><h3>E-commerce revenue</h3><p>Abandoned-cart recovery automation delivered a year-on-year uplift.</p></article>
-    <article class="featured-project"><strong class="project-result">Top 8</strong><h3>HubSpot Admin Arena</h3><p>Recognised as a global finalist, validating the technical and operational work behind the platform.</p></article>
+    <article class="featured-project"><strong class="project-result">Top 8</strong><h3>HubSpot Admin Arena</h3><p>Global Finalist (Top 8), recognising the technical and operational work behind the platform.</p></article>
   </div>
 </section>
 
