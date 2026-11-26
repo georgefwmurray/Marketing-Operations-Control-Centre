@@ -3,18 +3,13 @@ title: "Response iQ Integration: Improving Day-One Contact and PPC Conversion"
 description: "Identified a lead-response gap through Power BI, then designed and built a Response iQ, HubSpot, Zapier and Microsoft Dynamics workflow that increased day-one contact from 32% to 87% and PPC lead-to-sale conversion from 36% to 44%."
 ---
 
-# Response iQ Telephony Integration
-
-[Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
-
 <div class="case-study-facts">
   <div class="case-study-fact"><strong>32% → 87%</strong><span>Leads spoken to on day one</span></div>
   <div class="case-study-fact"><strong>36% → 44%</strong><span>PPC lead-to-sale conversion</span></div>
   <div class="case-study-fact"><strong>2 minutes</strong><span>Target time from form submission to call</span></div>
   <div class="case-study-fact"><strong>2026</strong><span>Veriforce</span></div>
 </div>
-
-<p class="case-study-intro">I used performance reporting to uncover a lead-response problem, then designed and built an integrated callback and routing process that helped Sales speak to more prospects while their interest was highest.</p>
+ 
 
 <section class="case-study-section">
   <h2>The business problem</h2>
