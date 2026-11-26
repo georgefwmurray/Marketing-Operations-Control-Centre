@@ -1,4 +1,8 @@
 ---
+permalink: /projects/abm-strategy-automation/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/ABM-Strategy-Automation.html"
+  - "/Campaign%20%26%20Commercial%20Projects/ABM-Strategy-Automation.html"
 title: "ABM Strategy Automation: £40k New-Account Win"
 description: "Designed and built a HubSpot, ZoomInfo and Lemlist ABM workflow that helped open a previously unengaged target account and generate approximately £40k revenue within 12 weeks."
 ---
