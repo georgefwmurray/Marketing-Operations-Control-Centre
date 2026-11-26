@@ -134,5 +134,5 @@ dateModified: "2026-11-26"
 <h3>How do you measure the value of Marketing Operations?</h3>
 <p>Look at outcomes rather than volume of work. Useful measures include lead quality and conversion, speed of sales follow-up, pipeline visibility, technology adoption, reduced manual effort and cost, data quality, and the capacity released for strategic work.</p>
 
-<p><a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">Explore my approach to marketing operations leadership and strategy</a>, or <a href="{{ '/insights/' | relative_url }}">read more Insights articles</a>.</p>
+<p><a href="{{ '/leadership/' | relative_url }}">Explore my approach to marketing operations leadership and strategy</a>, or <a href="{{ '/insights/' | relative_url }}">read more Insights articles</a>.</p>
 </section>
