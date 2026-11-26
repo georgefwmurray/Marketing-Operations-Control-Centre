@@ -126,10 +126,10 @@
         <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
         <a href="{{ '/leadership/' | relative_url }}"{% if page.url == '/leadership/' %} aria-current="page"{% endif %}>Leadership</a>
         <a href="{{ '/hubspot-south-wales/' | relative_url }}"{% if page.url == '/hubspot-south-wales/' %} aria-current="page"{% endif %}>HubSpot</a>
-        <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' %} aria-current="page"{% endif %}>Projects</a>
+        <a href="{{ '/projects/' | relative_url }}"{% if page.url == '/projects/' or page.path contains 'Campaign & Commercial Projects/' %} aria-current="page"{% endif %}>Projects</a>
         <a href="{{ '/insights/' | relative_url }}"{% if page.url == '/insights/' or page.path contains 'articles/' %} aria-current="page"{% endif %}>Insights</a>
         <a href="{{ '/results/' | relative_url }}"{% if page.url == '/results/' %} aria-current="page"{% endif %}>Results</a>
-        <a href="{{ '/mocc/' | relative_url }}"{% if page.url == '/mocc/' or page.path contains 'agents/' %} aria-current="page"{% endif %}>MOCC</a>
+        <a href="{{ '/mocc/' | relative_url }}"{% if page.url == '/mocc/' or page.url == '/mocc/case-study/' or page.path contains 'agents/' %} aria-current="page"{% endif %}>MOCC</a>
         <a href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
       </nav>
     </div>
