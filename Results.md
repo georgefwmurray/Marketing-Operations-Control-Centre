@@ -1,7 +1,7 @@
 ---
 permalink: /results/
 redirect_from:
-  - "/Results.html"
+  - "/results/"
 layout: default
 title: "Marketing Operations Results"
 description: "The operational impact of a governed, AI-enabled marketing operations model across five brands."
@@ -55,5 +55,5 @@ description: "The operational impact of a governed, AI-enabled marketing operati
   <p class="eyebrow">The operating model</p>
   <h2>Governance and capability that can scale.</h2>
   <p>The public case study explains the principles and architecture. Detailed implementation records and supporting measures are reserved for relevant employer conversations.</p>
-  <a class="text-link" href="How-to-Build.html">Explore the six-layer operating model <span aria-hidden="true">↗</span></a>
+  <a class="text-link" href="/mocc/case-study/">Explore the six-layer operating model <span aria-hidden="true">↗</span></a>
 </section>
