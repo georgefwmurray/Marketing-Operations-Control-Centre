@@ -1,4 +1,8 @@
 ---
+permalink: /projects/pricing-page-ux-test/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/Pricing-Page-UX-Test.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Pricing-Page-UX-Test.html"
 title: "Pricing Page UX Test: 63% More Leads and 13% More Revenue"
 description: "Proposed an interactive pricing calculator to replace a static lead form. A/B testing showed 63% more completed submissions and 13% higher revenue, leading to a wider multi-brand rollout."
 ---
