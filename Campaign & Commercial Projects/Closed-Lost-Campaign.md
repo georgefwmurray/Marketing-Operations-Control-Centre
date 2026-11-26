@@ -1,8 +1,8 @@
 ---
 permalink: /projects/closed-lost-campaign/
 redirect_from:
-  - "/projects/closed-lost-campaign/"
-  - "/projects/closed-lost-campaign/"
+  - "/Campaign%20&%20Commercial%20Projects/Closed-Lost-Campaign.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Closed-Lost-Campaign.html"
 title: "Closed-Lost Campaign: 23% Lead-to-Won Conversion"
 description: "An always-on, personalised re-engagement campaign at Collett’s Mountain Holidays that became its third-highest-converting lead source."
 ---
