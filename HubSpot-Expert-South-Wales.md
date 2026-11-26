@@ -1,4 +1,7 @@
 ---
+permalink: /hubspot-south-wales/
+redirect_from:
+  - "/HubSpot-Expert-South-Wales.html"
 layout: default
 title: "HubSpot Leadership in South Wales"
 description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, CRM integration, marketing automation and AI-enabled operations."
