@@ -48,6 +48,6 @@ dateModified: "2026-11-19"
 
 <h2>The principle</h2>
 <p>Automate work where there is a real operational case. Measure the impact in the right category. Keep human accountability visible. And never combine cash savings, released capacity and provisional estimates into one headline that suggests they are the same thing.</p>
-<p><a href="{{ '/How-to-Build.html' | relative_url }}">Read the MOCC leadership case study</a> or <a href="{{ '/about/' | relative_url }}">learn more about my marketing operations experience</a>.</p>
+<p><a href="{{ '/mocc/case-study/' | relative_url }}">Read the MOCC leadership case study</a> or <a href="{{ '/about/' | relative_url }}">learn more about my marketing operations experience</a>.</p>
 <p>For the wider leadership approach behind this work, see my <a href="{{ '/Leadership-%26-Strategy.html' | relative_url }}">marketing operations leadership and MarTech strategy</a>.</p>
 </section>
