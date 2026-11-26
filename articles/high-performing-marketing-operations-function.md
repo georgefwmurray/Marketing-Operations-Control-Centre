@@ -6,6 +6,7 @@ permalink: /insights/high-performing-marketing-operations-function/
 publish_date: "2026-11-26"
 datePublished: "2026-11-26"
 dateModified: "2026-11-26"
+last_modified_at: "2026-11-26"
 ---
 
 <section class="page-hero">
@@ -13,7 +14,7 @@ dateModified: "2026-11-26"
   <h1>What does a high-performing Marketing Operations function actually look like?</h1>
   <p class="page-lead">Marketing Operations is often associated with CRM administration, campaign execution and reporting. But its real value is much broader: connecting marketing strategy to the people, processes, data and technology needed to deliver measurable business results.</p>
   <div class="hero-tags"><span>Marketing Operations</span><span>Operating model</span><span>Leadership</span></div>
-  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 26 November 2026</p>
+  <p class="article-meta">George Murray · Marketing Operations and Technology · Published 26 November 2026 · Updated 26 November 2026</p>
 </section>
 
 <section class="content-section prose">
@@ -113,6 +114,12 @@ dateModified: "2026-11-26"
 <p>The right measures will vary by organisation. What matters is that they reflect the outcomes the function is there to support.</p>
 <p>Marketing Operations should be able to explain not just what it delivered, but why it mattered.</p>
 
+<h2>A practical example: measuring the impact of an AI-enabled operating model</h2>
+<p>The principles above are not theoretical. In my own Marketing Operations Control Centre work, the focus has been on changing the operating model and measuring what improves, rather than counting automations.</p>
+<p>One established commercial measure was a <strong>50% reduction in external content spend</strong>, achieved by changing the balance between internal capability and external production.</p>
+<p>At workflow level, one repeatable onboarding-asset preparation process reduced from around <strong>two hours to around 20 minutes</strong>. That is a reduction in preparation time for that specific workflow, not a claim that every asset or activity takes the same amount of time. Outputs still go through human review before they are used.</p>
+<p>These measures describe different kinds of value. The spend reduction is a direct cost outcome; the shorter preparation time is operational capacity released. They should be reported separately rather than combined into an assumed financial saving.</p>
+
 <h2>So what does a high-performing function look like?</h2>
 <p>It is not necessarily the organisation with the largest technology stack, the most automation or the biggest team.</p>
 <p>It is the function that understands the business, translates strategy into operational priorities and gives marketing the structure and capability to deliver.</p>
@@ -136,3 +143,12 @@ dateModified: "2026-11-26"
 
 <p><a href="{{ '/leadership/' | relative_url }}">Explore my approach to marketing operations leadership and strategy</a>, or <a href="{{ '/insights/' | relative_url }}">read more Insights articles</a>.</p>
 </section>
+
+
+<div class="closing-profile" aria-label="About the author">
+  <img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="128" height="128" loading="lazy" decoding="async">
+  <div class="closing-profile__copy">
+    <strong>George Murray</strong>
+    <span>Marketing Operations and MarTech leader focused on operating-model design, CRM, AI-enabled transformation and commercial performance.</span>
+  </div>
+</div>
