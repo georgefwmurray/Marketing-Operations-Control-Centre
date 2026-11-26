@@ -1,4 +1,7 @@
 ---
+permalink: /mocc/
+redirect_from:
+  - "/Agent-Registry.html"
 title: "Marketing Operations Control Centre | Six-Layer Operating Model"
 description: "The six-layer architecture and governance principles behind an AI-enabled marketing operations model."
 ---
