@@ -4,11 +4,12 @@ author: George Murray
 url: "https://georgemurray.co.uk"
 baseurl: ""
 lang: en-GB
-image: /assets/images/george-murray-social-card.svg
+image: /assets/images/george-murray-social-card.png
 
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Apply the shared layout to every page that does not specify its own.
 # The agent and project detail pages are nested in directories, so a
