@@ -1,8 +1,8 @@
 ---
 permalink: /projects/free-trial-software-integration/
 redirect_from:
-  - "/projects/free-trial-software-integration/"
-  - "/projects/free-trial-software-integration/"
+  - "/Campaign%20&%20Commercial%20Projects/Free-Trial-Software-Integration.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Free-Trial-Software-Integration.html"
 title: "Free Trial Software Integration: 4% More Leads"
 description: "Built an API between Veriforce's platform and HubSpot so free trial sign-ups create leads and reach sales with account numbers: 4% more lead volume (2025)."
 ---
