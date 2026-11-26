@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "George Murray | Marketing Operations, HubSpot & AI Transformation"
+title: "Marketing Operations, HubSpot & AI Transformation"
 description: "George Murray is a marketing operations and MarTech leader specialising in HubSpot, multi-brand operating models and governed AI-agent transformation."
 ---
 
@@ -12,7 +12,7 @@ description: "George Murray is a marketing operations and MarTech leader special
   <p class="lead">My work connects commercial planning, people leadership, MarTech strategy and AI-enabled transformation — making marketing more effective, scalable and accountable.</p>
   <div class="hero-meta">
     <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
-    <span>Based in Cardiff, South Wales, UK</span>
+    <span>Based in South Wales, UK</span>
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
