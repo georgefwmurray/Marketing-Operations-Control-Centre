@@ -4,7 +4,13 @@ author: George Murray
 url: "https://georgemurray.co.uk"
 baseurl: ""
 lang: en-GB
-image: /assets/images/george-murray-social-card.png
+image:
+  path: /assets/images/george-murray-social-card.png
+  width: 1200
+  height: 630
+  alt: "George Murray — Marketing Operations and MarTech Leadership"
+twitter:
+  card: summary_large_image
 # Add the GA4 Measurement ID (G-XXXXXXXXXX) to enable page-level analytics.
 google_analytics: ""
 
