@@ -55,18 +55,11 @@ permalink: /about/
       <p>Directed CRM strategy, administration and integration across a multi-region adventure travel business. Led the HubSpot Enterprise implementation across Sales, Marketing and Service Hubs.</p>
     </article>
     <article class="career-entry">
-      <p class="career-dates">May 2014 – October 2018</p>
-      <h3>Product Manager</h3>
-      <p class="career-employer">Collett’s Mountain Holidays</p>
-      <p>Product management experience spanning the company's customer proposition and operational delivery.</p>
-    </article>
-    <article class="career-entry">
-      <p class="career-dates">May 2012 – May 2014</p>
-      <h3>Area Manager</h3>
-      <p class="career-employer">Collett’s Mountain Holidays</p>
-      <p>Earlier operational and management experience in the travel business.</p>
-    </article>
-  </div>
+      <p class="career-dates">May 2012 – October 2018</p>
+      <h3>Earlier product and operational leadership</h3>
+      <p class="career-employer">Collett’s Mountain Holidays · Area Manager, then Product Manager</p>
+      <p>Built a foundation in customer proposition, product management and operational delivery before moving into CRM and marketing technology leadership.</p>
+    </article> </div>
 </section>
 
 <section class="section">
