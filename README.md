@@ -5,10 +5,10 @@ This repository powers [georgemurray.co.uk](https://georgemurray.co.uk), a profe
 ## Explore the portfolio
 
 - **[Leadership profile](https://georgemurray.co.uk/about/)** — career experience, leadership approach and professional background.
-- **[Leadership & Strategy](https://georgemurray.co.uk/Leadership-%26-Strategy.html)** — team leadership, strategic planning, investment decisions and operating model.
-- **[Selected projects](https://georgemurray.co.uk/Campaign-Commercial-Projects.html)** — examples of CRM integration, lifecycle improvement and commercial delivery.
-- **[Selected results](https://georgemurray.co.uk/Results.html)** — measurable outcomes across marketing operations and customer journeys.
-- **[Marketing Operations Control Centre](https://georgemurray.co.uk/How-to-Build.html)** — a public case study on the leadership and operating principles behind an AI-enabled operations transformation.
+- **[Leadership & Strategy](https://georgemurray.co.uk/leadership/)** — team leadership, strategic planning, investment decisions and operating model.
+- **[Selected projects](https://georgemurray.co.uk/projects/)** — examples of CRM integration, lifecycle improvement and commercial delivery.
+- **[Selected results](https://georgemurray.co.uk/results/)** — measurable outcomes across marketing operations and customer journeys.
+- **[Marketing Operations Control Centre](https://georgemurray.co.uk/mocc/case-study/)** — a public case study on the leadership and operating principles behind an AI-enabled operations transformation.
 - **[Insights](https://georgemurray.co.uk/insights/)** — perspectives on marketing operations, AI governance and business value.
 
 ## About the site
