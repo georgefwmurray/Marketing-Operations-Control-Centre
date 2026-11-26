@@ -12,7 +12,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
   <p class="lead">My work connects commercial planning, people leadership, MarTech strategy and AI-enabled transformation — making marketing more effective, scalable and accountable.</p>
   <div class="hero-meta">
     <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
-    <span>South Wales, UK</span>
+    <span>Based in Cardiff, South Wales, UK</span>
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
@@ -57,7 +57,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
     <div class="metric"><strong>50%</strong><span>Reduction in external content spend</span></div>
     <div class="metric"><strong>6 layers</strong><span>A connected model spanning control, production, data, intelligence, governance and knowledge</span></div>
   </div>
-  <p class="small-note">The public case study focuses on the architecture and principles. Detailed financial evidence and the full agent portfolio are reserved for relevant employer conversations.</p>
+  <p class="small-note">The public case study shares the operating model and selected outcomes. Supporting financial calculations and detailed agent implementation information can be discussed with relevant employers.</p>
 </section>
 
 <section class="section" id="impact">
@@ -78,7 +78,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
   <p class="eyebrow">Credentials and recognition</p>
   <h2>HubSpot expertise, recognised and continually developed.</h2>
   <div class="cards">
-    <article class="card"><p class="kicker">Global recognition · 2026</p><h3>HubSpot Admin Arena — Global Top 8</h3><p>Ranked in the global Top 8 in the 2026 HubSpot Admin Arena.</p></article>
+    <article class="card"><p class="kicker">Global recognition · 2026</p><h3>HubSpot Admin Arena</h3><p>Global Finalist (Top 8) in the 2026 competition.</p></article>
     <article class="card"><p class="kicker">Professional learning</p><h3>13 HubSpot Academy certifications</h3><p>Formal learning across HubSpot administration, reporting, revenue operations, marketing and sales disciplines.</p></article>
     <article class="card"><p class="kicker">Mentoring and AI</p><h3>HubSpot AI Mentor</h3><p>Selected by HubSpot as an AI Mentor, alongside the Veriforce AI Mentor role in 2026.</p></article>
     <article class="card"><p class="kicker">Development · 2025</p><h3>Rising Star Mentorship</h3><p>Selected for the 2025 Rising Star Mentorship programme.</p></article>
