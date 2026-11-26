@@ -1,7 +1,7 @@
 ---
 permalink: /results/
 redirect_from:
-  - "/results/"
+  - "/Results.html"
 layout: default
 title: "Marketing Operations Results"
 description: "The operational impact of a governed, AI-enabled marketing operations model across five brands."
