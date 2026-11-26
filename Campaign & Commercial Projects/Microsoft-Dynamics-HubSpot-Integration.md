@@ -1,8 +1,8 @@
 ---
 permalink: /projects/microsoft-dynamics-hubspot-integration/
 redirect_from:
-  - "/projects/microsoft-dynamics-hubspot-integration/"
-  - "/projects/microsoft-dynamics-hubspot-integration/"
+  - "/Campaign%20&%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Microsoft-Dynamics-HubSpot-Integration.html"
 title: "Dynamics HubSpot Integration: 40% Faster Handover"
 description: "HubSpot side of Veriforce's Dynamics integration: contacts, accounts, leads and deals synced, plus activity and sales events. Handover time down 40% (2024)."
 ---
