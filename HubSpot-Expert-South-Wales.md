@@ -1,5 +1,16 @@
 ---
 permalink: /hubspot-south-wales/
+faq:
+  - question: "Who is George Murray?"
+    answer: "George Murray is a marketing operations and technology leader based in South Wales. His experience includes HubSpot platform ownership, CRM integration, marketing automation, team leadership and AI-enabled operations."
+  - question: "What HubSpot experience does he have?"
+    answer: "His experience includes HubSpot operations across five brands, CRM and lifecycle management, marketing automation, reporting, data quality, platform integration and a migration from Salesforce Marketing Cloud and Pardot to HubSpot."
+  - question: "What is the Marketing Operations Control Centre?"
+    answer: "The Marketing Operations Control Centre (MOCC) is an operating model for AI-enabled marketing operations. It brings together quality, production, data, insight and governance, with people retaining accountability for decisions and outcomes."
+  - question: "What outcomes has the work delivered?"
+    answer: "Selected public examples include a 50% reduction in external content spend, improved marketing-to-sales handover and stronger lead qualification. Further evidence is available in relevant employer conversations."
+  - question: "Where is George Murray based?"
+    answer: "South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America."
 redirect_from:
   - "/HubSpot-Expert-South-Wales.html"
 layout: default
