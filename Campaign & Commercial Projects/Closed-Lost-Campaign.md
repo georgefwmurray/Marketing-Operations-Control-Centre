@@ -3,17 +3,12 @@ title: "Closed-Lost Campaign: 23% Lead-to-Won Conversion"
 description: "An always-on, personalised re-engagement campaign at Collett’s Mountain Holidays that became its third-highest-converting lead source."
 ---
 
-# Closed-Lost Campaign
-
-[Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
-
 <div class="case-study-facts">
   <div class="case-study-fact"><strong>23%</strong><span>Lead-to-won conversion</span></div>
   <div class="case-study-fact"><strong>3rd</strong><span>Highest-converting lead source</span></div>
   <div class="case-study-fact"><strong>2023</strong><span>Delivery year</span></div>
 </div>
-
-<p class="case-study-intro">An always-on re-engagement programme that used historical booking patterns to reconnect with prospects who had previously been marked closed-lost.</p>
+ 
 
 <section class="case-study-section">
   <h2>The business problem</h2>
