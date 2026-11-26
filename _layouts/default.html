@@ -3,7 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
+  {% assign page_seo_title = page.title | default: site.title %}
+  {% assign page_seo_description = page.description | default: site.description %}
+  {% assign page_seo_image = '/assets/images/george-murray-social-card.png' | absolute_url %}
+  <title>{{ page_seo_title | escape }} | {{ site.title | escape }}</title>
+  <meta name="description" content="{{ page_seo_description | strip_html | normalize_whitespace | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:type" content="{% if page.path contains 'articles/' or page.path == 'How-to-Build.md' %}article{% else %}website{% endif %}">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ page_seo_title | escape }} | {{ site.title | escape }}">
+  <meta property="og:description" content="{{ page_seo_description | strip_html | normalize_whitespace | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ page_seo_image }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="George Murray — Marketing Operations and MarTech Leadership">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_seo_title | escape }} | {{ site.title | escape }}">
+  <meta name="twitter:description" content="{{ page_seo_description | strip_html | normalize_whitespace | escape }}">
+  <meta name="twitter:image" content="{{ page_seo_image }}">
+  <meta name="twitter:image:alt" content="George Murray — Marketing Operations and MarTech Leadership">
   {% if page.publish_date %}
     {% assign page_publish_day = page.publish_date %}
     {% assign current_build_day = site.time | date: "%Y-%m-%d" %}
