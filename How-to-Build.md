@@ -29,7 +29,8 @@ description: "A case study in marketing operations strategy, MarTech transformat
     <h2>Turn a request to reduce manual work into a wider operating model.</h2>
   </div>
   <div class="prose">
-    <p>This is a marketing operations and MarTech transformation case study: the goal was not simply to add AI tools, but to improve how marketing work, technology, information and accountability fit together. The model connects operational processes with the marketing technology environment, creating a more consistent way to deliver work and make decisions.</p>\n    <p>The starting point was practical: reduce repetitive work that was consuming marketing capacity. As I explored opportunities to automate individual tasks, I recognised a broader opportunity. Rather than introduce disconnected tools for isolated problems, marketing could use AI as part of a connected system — improving consistency, surfacing useful insight and giving specialists more time for higher-value work.</p>
+    <p>This is a marketing operations and MarTech transformation case study: the goal was not simply to add AI tools, but to improve how marketing work, technology, information and accountability fit together. The model connects operational processes with the marketing technology environment, creating a more consistent way to deliver work and make decisions.</p>
+    <p>The starting point was practical: reduce repetitive work that was consuming marketing capacity. As I explored opportunities to automate individual tasks, I recognised a broader opportunity. Rather than introduce disconnected tools for isolated problems, marketing could use AI as part of a connected system — improving consistency, surfacing useful insight and giving specialists more time for higher-value work.</p>
     <p>I proposed the Marketing Operations Control Centre (MOCC), then worked with the team to shape and develop the model. The ambition was to combine operational support with better-quality information for decision-making, while keeping people accountable for judgement, approvals and customer impact.</p>
     <p>This was an opportunity I identified and developed, rather than a pre-existing transformation programme I was asked to deliver. The wider direction was to explore practical uses for AI; I shaped the case for a more joined-up approach and led the work to establish it.</p>
   </div>
@@ -39,7 +40,7 @@ description: "A case study in marketing operations strategy, MarTech transformat
   <div class="section-heading">
     <p class="eyebrow">The operating model</p>
     <h2>Six layers. One connected system.</h2>
-    <p>MOCC is structured as six complementary capabilities rather than a collection of disconnected automations. All six layers are live parts of the operating model. The Knowledge layer captures, maintains and makes approved organisational knowledge reusable across the team and its agents.</p>
+    <p>MOCC is designed around six complementary capabilities rather than a collection of disconnected automations. Five layers are in active use; the Knowledge layer is in planning. The architecture therefore shows both the current operating model and the next capability being developed.</p>
   </div>
   <figure class="architecture-figure">
     <img src="{{ '/assets/images/mocc-six-layer-architecture.svg' | relative_url }}" alt="Six-layer Marketing Operations Control Centre architecture: Control, Production, Data, Intelligence, Governance and Knowledge." loading="lazy">
@@ -137,7 +138,7 @@ description: "A case study in marketing operations strategy, MarTech transformat
     <h2>The strategy and leadership behind the operating model.</h2>
   </div>
   <div class="prose">
-    <p>Explore how I approach <a href="/Leadership-&amp;-Strategy.html">Marketing Operations leadership and MarTech strategy</a>, including team development, commercial planning, platform ownership and investment decisions.</p>
+    <p>Explore how I approach <a href="/leadership/">Marketing Operations leadership and MarTech strategy</a>, including team development, commercial planning, platform ownership and investment decisions.</p>
   </div>
 </section>
 
