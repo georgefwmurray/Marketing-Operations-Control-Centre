@@ -5,6 +5,8 @@ url: "https://georgemurray.co.uk"
 baseurl: ""
 lang: en-GB
 image: /assets/images/george-murray-social-card.png
+# Add the GA4 Measurement ID (G-XXXXXXXXXX) to enable page-level analytics.
+google_analytics: ""
 
 plugins:
   - jekyll-sitemap
