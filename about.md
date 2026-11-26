@@ -87,7 +87,7 @@ permalink: /about/
     <p>I proposed and led the development of the Marketing Operations Control Centre (MOCC), a six-layer operating model bringing together quality assurance, production, data, intelligence and governance for a B2B SaaS business across five brands.</p>
     <p>Other programmes have included lead management and sales handover, telephony and CRM integration, partner integrations and customer journey improvements.</p>
   </div>
-  <p class="section-cta"><a href="{{ '/Agent-Registry.html' | relative_url }}">View the MOCC operating model ↗</a> &nbsp; <a href="{{ '/Campaign-Commercial-Projects.html' | relative_url }}">Explore selected projects ↗</a> &nbsp; <a href="{{ '/Results.html' | relative_url }}">See selected results ↗</a></p>
+  <p class="section-cta"><a href="{{ '/mocc/' | relative_url }}">View the MOCC operating model ↗</a> &nbsp; <a href="{{ '/projects/' | relative_url }}">Explore selected projects ↗</a> &nbsp; <a href="{{ '/results/' | relative_url }}">See selected results ↗</a></p>
 </section>
 
 <section class="section">
