@@ -3,19 +3,6 @@ title: "ABM Strategy Automation: £40k New-Account Win"
 description: "Designed and built a HubSpot, ZoomInfo and Lemlist ABM workflow that helped open a previously unengaged target account and generate approximately £40k revenue within 12 weeks."
 ---
 
-# ABM Strategy Automation
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: Account-based marketing
-Context: Built the automation behind a focused programme targeting 15 large accounts, including one account where previous email and sales-call outreach had failed to gain traction.
-Employer: Veriforce
-Featured: No
-Result: 1 new large-account win and approximately £40k revenue within 12 weeks
-Year: 2026
-
 ## Turning account intelligence into a conversation
 
 The ABM programme focused on 15 large target accounts. One priority account had no previous engagement despite attempts through conventional email and sales-call outreach.
