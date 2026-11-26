@@ -1,4 +1,8 @@
 ---
+permalink: /projects/hubspot-enterprise-implementation/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/HubSpot-Enterprise-Implementation.html"
+  - "/Campaign%20%26%20Commercial%20Projects/HubSpot-Enterprise-Implementation.html"
 title: "HubSpot Enterprise Implementation: 125% MQL Growth"
 description: "Led a six-month, business-wide HubSpot Enterprise implementation at Collett’s Mountain Holidays, replacing a legacy custom CRM and increasing MQLs by 125% year on year."
 ---
