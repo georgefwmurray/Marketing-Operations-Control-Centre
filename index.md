@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "George Murray | Marketing Operations & MarTech Leader"
-description: "George Murray is a marketing operations leader and Interim Head of Digital Marketing Operations, with experience leading teams, MarTech strategy, multi-brand operations and AI-enabled transformation."
+title: "George Murray | Marketing Operations, HubSpot & AI Transformation"
+description: "George Murray is a marketing operations and MarTech leader specialising in HubSpot, multi-brand operating models and governed AI-agent transformation."
 ---
 
 <section class="hero">
   <p class="eyebrow">Strategic leadership · MarTech · Digital operations</p>
-  <h1>Setting the direction for marketing technology and digital operations.</h1>
-  <h2>Building the strategy, teams and operating models that turn commercial priorities into measurable performance.</h2>
+  <h1>Leading marketing operations, HubSpot and AI-enabled transformation.</h1>
+  <h2>Setting the strategy, teams and operating models that turn commercial priorities into measurable performance — across HubSpot, MarTech and AI agents.</h2>
   <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader. I shape priorities, guide technology investment and lead operational change across complex, multi-brand marketing environments.</p>
   <p class="lead">My work connects commercial planning, people leadership, MarTech strategy and AI-enabled transformation — making marketing more effective, scalable and accountable.</p>
   <div class="hero-meta">
@@ -67,7 +67,7 @@ description: "George Murray is a marketing operations leader and Interim Head of
     <ul class="clean-list">
       <li><strong>17% revenue uplift</strong> from an abandoned-cart recovery programme.</li>
       <li><strong>12% year-on-year revenue uplift</strong> following a partner integration.</li>
-      <li><strong>63% increase in lead volume</strong> from a pricing-page optimisation test.</li>
+      <li><strong>63% increase in lead volume and 13% higher revenue</strong> from a pricing-page optimisation test.</li>
       <li><strong>40% reduction</strong> in lead-to-sales handover time through CRM integration.</li>
     </ul>
   </div>
