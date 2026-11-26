@@ -1,8 +1,8 @@
 ---
 permalink: /projects/lead-scoring-model/
 redirect_from:
-  - "/Campaign%20&%20Commercial%20Projects/Lead-Scoring-Model.html"
-  - "/Campaign%20%26%20Commercial%20Projects/Lead-Scoring-Model.html"
+  - "/projects/lead-scoring-model/"
+  - "/projects/lead-scoring-model/"
 title: "Lead Scoring Model: 7% MQL-to-SQL Uplift"
 description: "HubSpot lead scoring model combining fit and intent so sales work the best leads first, lifting MQL-to-SQL conversion by 7% at Veriforce (2024)."
 ---
