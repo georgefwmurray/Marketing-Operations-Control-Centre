@@ -1,8 +1,8 @@
 ---
 permalink: /projects/rebrand-website-update/
 redirect_from:
-  - "/projects/rebrand-website-update/"
-  - "/projects/rebrand-website-update/"
+  - "/Campaign%20&%20Commercial%20Projects/Rebrand-Website-Update.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Rebrand-Website-Update.html"
 title: "Rebrand Website Update Across 4 Websites"
 description: "Led website execution of Veriforce's rebrand across 4 sites: asset and page mapping, prioritised long-tail work, full brand refresh delivered (2026)."
 ---
