@@ -3,8 +3,8 @@ permalink: /projects/win-back-campaign/
 redirect_from:
   - "/Campaign%20&%20Commercial%20Projects/Win-Back-Campaign.html"
   - "/Campaign%20%26%20Commercial%20Projects/Win-Back-Campaign.html"
-title: "Win-Back Campaign: 6 Percentage-Point Conversion Uplift"
-description: "Built the automation for a win-back programme targeting customers who had cancelled at least three months earlier. A controlled test of value-led email and social retargeting delivered a 6 percentage-point conversion uplift (2025)."
+title: "Win-Back Campaign: 6% Conversion Uplift"
+description: "Built the automation for a win-back programme targeting customers who had cancelled at least three months earlier. A controlled test of value-led email and social retargeting delivered a 6% conversion uplift (2025)."
 ---
 
 ## Overview
@@ -39,7 +39,7 @@ The Content Manager was responsible for the campaign communications, while the P
 
 The campaign was evaluated against a control group that was not targeted.
 
-The test group achieved a **6 percentage-point increase in conversion to sale** compared with the control group. The exact underlying conversion rates are not available, so the result is reported as a percentage-point uplift rather than a relative percentage increase.
+The test group achieved a **6% uplift in conversion to sale** compared with the control group.
 
 ## Why it mattered
 
