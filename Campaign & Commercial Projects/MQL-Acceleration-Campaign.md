@@ -1,4 +1,8 @@
 ---
+permalink: /projects/mql-acceleration/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/MQL-Acceleration-Campaign.html"
+  - "/Campaign%20%26%20Commercial%20Projects/MQL-Acceleration-Campaign.html"
 title: "MQL Acceleration Programme: 32% Faster Lead-to-Sale"
 description: "Combined HubSpot lead scoring, automated qualification, nurture and faster Sales follow-up to reduce lead-to-sale time from 11 days to 7.5 days across all brands and lead sources."
 ---
