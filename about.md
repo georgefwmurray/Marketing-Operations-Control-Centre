@@ -96,7 +96,7 @@ permalink: /about/
   <div class="cards">
     <article class="card"><h3>HubSpot Academy</h3><p>13 certifications, including Super Admin Bootcamp, Reporting &amp; Analytics, Revenue Operations, Marketing Hub, Email Marketing, Content Marketing, Inbound Marketing, Inbound Sales and Sales Enablement.</p></article>
     <article class="card"><h3>Zapier</h3><p>Three certifications covering fundamentals, filters and paths, and webhooks.</p></article>
-    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026 (global Top 8); selected by HubSpot as a mentor for its Agents in Action programme in 2026; Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p><p><a href="https://www.linkedin.com/in/georgefwmurray/details/certifications/" target="_blank" rel="noopener noreferrer">View LinkedIn credentials ↗</a></p></article>
+    <article class="card"><h3>Industry and company recognition</h3><p>HubSpot Admin Arena 2026: Global Finalist (Top 8); selected by HubSpot as a mentor for its Agents in Action programme in 2026; Veriforce AI Mentor 2026; Rising Star Mentorship Programme 2025; Star of the Year 2024.</p><p><a href="https://www.linkedin.com/in/georgefwmurray/details/certifications/" target="_blank" rel="noopener noreferrer">View LinkedIn credentials ↗</a></p></article>
   </div>
   <p class="small-note">Certification names and recognition are summarised from my CV. The full CV contains further detail.</p>
 </section>
@@ -117,7 +117,7 @@ permalink: /about/
     <div>
       <p class="eyebrow">Next step</p>
       <h2>Open to senior marketing operations roles.</h2>
-      <p>Based in South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
+      <p>Based in Cardiff, South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
     </div>
   </div>
   <div class="actions">
