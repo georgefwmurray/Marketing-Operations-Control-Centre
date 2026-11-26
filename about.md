@@ -26,7 +26,7 @@ permalink: /about/
     <div><h2>Start with the business problem.</h2></div>
     <div class="prose">
       <p>I work across marketing, commercial teams and technology. I set direction, make platform and process decisions, and lead the delivery needed to turn those decisions into day-to-day improvements.</p>
-      <p>My current remit covers EMEA digital marketing operations for an international B2B SaaS business. I lead a team of four, oversee HubSpot operations across five brands and support a 25-person marketing organisation, working closely with senior marketing stakeholders.</p>
+      <p>My current remit covers EMEA digital marketing operations for an international B2B SaaS business. I lead a four-person team, including three direct reports, oversee HubSpot operations across five brands and support a 25-person marketing organisation, working closely with senior marketing stakeholders.</p>
       <p>My interest in AI is practical. I look for work that can be made faster or more consistent, then put the right checks, ownership and escalation routes around it. The aim is better work and more capacity for the team, not automation for its own sake.</p>
     </div>
   </div>
@@ -40,7 +40,7 @@ permalink: /about/
       <p class="career-dates">June 2026 – Present · 12-month secondment</p>
       <h3>Interim Head of Digital Marketing Operations</h3>
       <p class="career-employer">Veriforce</p>
-      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across a multi-brand B2B SaaS business. Lead a team of four and support a 25-person marketing organisation.</p>
+      <p>Selected to lead EMEA digital marketing operations during a 12-month secondment, with responsibility for marketing automation, web and e-commerce across a multi-brand B2B SaaS business. Lead a four-person team, including three direct reports, and support a 25-person marketing organisation.</p>
     </article>
     <article class="career-entry">
       <p class="career-dates">June 2024 – June 2026</p>
@@ -110,7 +110,7 @@ permalink: /about/
     <div>
       <p class="eyebrow">Next step</p>
       <h2>Open to senior marketing operations roles.</h2>
-      <p>Based in Cardiff, South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Bristol and the wider South West.</p>
+      <p>Based in South Wales, I'm open to senior marketing operations, MarTech and marketing technology leadership roles across the UK, including hybrid opportunities in Cardiff, Bristol and the wider South West.</p>
     </div>
   </div>
   <div class="actions">
