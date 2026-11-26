@@ -1,4 +1,8 @@
 ---
+permalink: /projects/responseiq-telephony-integration/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html"
+  - "/Campaign%20%26%20Commercial%20Projects/ResponseIQ-Telephony-Integration.html"
 title: "Response iQ Integration: Improving Day-One Contact and PPC Conversion"
 description: "Identified a lead-response gap through Power BI, then designed and built a Response iQ, HubSpot, Zapier and Microsoft Dynamics workflow that increased day-one contact from 32% to 87% and PPC lead-to-sale conversion from 36% to 44%."
 ---
