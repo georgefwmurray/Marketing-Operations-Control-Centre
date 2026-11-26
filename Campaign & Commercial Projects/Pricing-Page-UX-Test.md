@@ -8,8 +8,8 @@ description: "Proposed an interactive pricing calculator to replace a static lea
 ---
 
 <div class="case-study-facts">
-  <div class="case-study-fact"><strong>+63%</strong><span>Completed lead submissions</span></div>
   <div class="case-study-fact"><strong>+13%</strong><span>Revenue in the same-period test</span></div>
+  <div class="case-study-fact"><strong>+63%</strong><span>Completed lead submissions</span></div>
   <div class="case-study-fact"><strong>28% → 22%</strong><span>Lead-to-sale conversion</span></div>
   <div class="case-study-fact"><strong>2026</strong><span>Veriforce</span></div>
 </div>
