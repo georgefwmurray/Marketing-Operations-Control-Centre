@@ -3,18 +3,13 @@ title: "MQL Acceleration Programme: 32% Faster Lead-to-Sale"
 description: "Combined HubSpot lead scoring, automated qualification, nurture and faster Sales follow-up to reduce lead-to-sale time from 11 days to 7.5 days across all brands and lead sources."
 ---
 
-# MQL Acceleration Programme
-
-[Home](../index.html) · [Selected projects](../Campaign-Commercial-Projects.html) · [Results](../Results.html)
-
 <div class="case-study-facts">
   <div class="case-study-fact"><strong>11 → 7.5 days</strong><span>Lead-to-sale cycle</span></div>
   <div class="case-study-fact"><strong>32% faster</strong><span>Across all brands and lead sources</span></div>
   <div class="case-study-fact"><strong>40 points</strong><span>HubSpot scoring threshold</span></div>
   <div class="case-study-fact"><strong>2026</strong><span>Veriforce</span></div>
 </div>
-
-<p class="case-study-intro">I designed and coordinated a joined-up lead acceleration programme combining automated qualification, value-led nurture and faster Sales follow-up. The result was a shorter lead-to-sale cycle across every brand and lead source.</p>
+ 
 
 <section class="case-study-section">
   <h2>The business problem</h2>
