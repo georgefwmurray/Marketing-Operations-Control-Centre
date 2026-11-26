@@ -1,7 +1,7 @@
 ---
 permalink: /mocc/
 redirect_from:
-  - "/Agent-Registry.html"
+  - "/mocc/"
 title: "Marketing Operations Control Centre | Six-Layer Operating Model"
 description: "The six-layer architecture and governance principles behind an AI-enabled marketing operations model."
 ---
@@ -50,5 +50,5 @@ description: "The six-layer architecture and governance principles behind an AI-
   <p class="eyebrow">Further detail</p>
   <h2>Architecture in public. Implementation detail by conversation.</h2>
   <p>The public site shares the operating model and principles. Detailed agent specifications, supporting evidence and the full portfolio are held back for relevant employer discussions.</p>
-  <a class="text-link" href="How-to-Build.html">Read the MOCC leadership case study <span aria-hidden="true">↗</span></a>
+  <a class="text-link" href="/mocc/case-study/">Read the MOCC leadership case study <span aria-hidden="true">↗</span></a>
 </section>
