@@ -3,23 +3,6 @@ title: "Dynamics HubSpot Integration: 40% Faster Handover"
 description: "HubSpot side of Veriforce's Dynamics integration: contacts, accounts, leads and deals synced, plus activity and sales events. Handover time down 40% (2024)."
 ---
 
-# Microsoft Dynamics ↔ HubSpot Integration
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: Platform Implementation
-Context: Drove the HubSpot side of a business-wide integration ensuring marketing data integrity and sales alignment.
-Employer: Veriforce
-Featured: No
-Result: 40% reduction in lead-to-sales handover time
-Year: 2024
-
-## Overview
-
-A business-wide Microsoft Dynamics ↔ HubSpot integration at Veriforce (2024).
-
 ## What syncs
 
 - Contact, account/company, lead and opportunity/deal data
