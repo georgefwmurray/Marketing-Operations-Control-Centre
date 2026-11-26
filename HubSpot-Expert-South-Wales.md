@@ -10,7 +10,7 @@ faq:
   - question: "What outcomes has the work delivered?"
     answer: "Selected public examples include a 50% reduction in external content spend, improved marketing-to-sales handover and stronger lead qualification. Further evidence is available in relevant employer conversations."
   - question: "Where is George Murray based?"
-    answer: "South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America."
+    answer: "Cardiff, South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America."
 redirect_from:
   - "/HubSpot-Expert-South-Wales.html"
 layout: default
@@ -66,14 +66,14 @@ description: "Cardiff-based marketing operations and HubSpot leader serving Sout
   <p class="section-cta"><a href="/projects/">Explore selected projects and integrations →</a></p>
 </section>
 
-<section class="content-section"><div class="split"><div><p class="eyebrow">Based in South Wales</p><h2>Local base. International operating experience.</h2></div><div class="prose"><p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p><p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p><p>Based in Cardiff, I bring hands-on HubSpot platform experience together with wider marketing operations leadership, supporting multi-brand teams and colleagues across EMEA and North America.</p></div></div></section>
+<section class="content-section"><div class="split"><div><p class="eyebrow">Based in South Wales</p><h2>Local base. International operating experience.</h2></div><div class="prose"><p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p><p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p></div></div></section>
 
 <section class="content-section"><div class="section-heading"><p class="eyebrow">HubSpot expertise · FAQs</p><h2>Common questions.</h2></div><div class="prose">
 <h3>Who is George Murray?</h3><p>George Murray is a marketing operations and technology leader based in South Wales. His experience includes HubSpot platform ownership, CRM integration, marketing automation, team leadership and AI-enabled operations.</p>
 <h3>What HubSpot experience does he have?</h3><p>His experience includes HubSpot operations across five brands, CRM and lifecycle management, marketing automation, reporting, data quality, platform integration and a migration from Salesforce Marketing Cloud and Pardot to HubSpot.</p>
 <h3>What is the Marketing Operations Control Centre?</h3><p>The Marketing Operations Control Centre (MOCC) is an operating model for AI-enabled marketing operations. It brings together quality, production, data, insight and governance, with people retaining accountability for decisions and outcomes. The public case study focuses on the leadership approach and operating principles rather than disclosing the underlying agent portfolio.</p>
 <h3>What outcomes has the work delivered?</h3><p>Selected public examples include a 50% reduction in external content spend, improved marketing-to-sales handover and stronger lead qualification. Further evidence is available in relevant employer conversations.</p>
-<h3>Where is George Murray based?</h3><p>South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America.</p>
+<h3>Where is George Murray based?</h3><p>Cardiff, South Wales, UK. His professional experience includes supporting marketing teams and brands across EMEA and North America.</p>
 </div></section>
 
 <section class="closing-panel"><p class="eyebrow">Leadership profile</p><h2>Marketing operations, MarTech and AI transformation.</h2><p>For a fuller view of my career, leadership experience, technology background and current focus, visit my About page or connect with me on LinkedIn.</p><div class="actions"><a class="button primary" href="/about/">Read my leadership profile</a><a class="button secondary" href="https://www.linkedin.com/in/georgefwmurray/" target="_blank" rel="noopener noreferrer">Connect on LinkedIn ↗</a><a class="button secondary" href="mailto:georgefwmurray@gmail.com">Email me</a></div></section>
