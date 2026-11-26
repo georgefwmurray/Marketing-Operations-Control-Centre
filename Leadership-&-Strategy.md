@@ -33,7 +33,7 @@ description: "Explore George Murray’s approach to marketing operations leaders
   </div>
   <div class="prose">
     <p>Marketing Operations (MarOps) is the discipline of connecting marketing strategy to execution: the people, processes, data, platforms and performance measures that help a marketing function operate effectively. Marketing Technology (MarTech) strategy is a core part of that remit, ensuring platforms and integrations support the operating model rather than becoming an end in themselves.</p>
-    <p>My work includes leading multi-brand marketing technology, shaping platform and integration decisions, improving lead-to-revenue processes, developing team capability and establishing governance for AI-enabled workflows. The <a href="/How-to-Build.html">Marketing Operations Control Centre case study</a> shows how I brought those disciplines together in a practical, team-led operating model.</p>
+    <p>My work includes leading multi-brand marketing technology, shaping platform and integration decisions, improving lead-to-revenue processes, developing team capability and establishing governance for AI-enabled workflows. The <a href="/mocc/case-study/">Marketing Operations Control Centre case study</a> shows how I brought those disciplines together in a practical, team-led operating model.</p>
   </div>
 </section>
 
@@ -207,5 +207,5 @@ description: "Explore George Murray’s approach to marketing operations leaders
   <p class="eyebrow">The leadership philosophy</p>
   <h2>Automate the toil. Elevate the team.</h2>
   <p>The function I want to build is one where technology handles repeatable work and surfaces useful insight, while people focus on strategy, relationships and decisions that require judgement.</p>
-  <a class="text-link" href="Agent-Registry.html">See the operating model in practice <span aria-hidden="true">↗</span></a>
+  <a class="text-link" href="/mocc/">See the operating model in practice <span aria-hidden="true">↗</span></a>
 </section>
