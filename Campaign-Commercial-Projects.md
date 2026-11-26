@@ -52,5 +52,5 @@ description: "Selected campaign, sales and platform projects across marketing au
   <p class="eyebrow">A consistent approach</p>
   <h2>Understand the friction. Fix the system. Measure the result.</h2>
   <p>Across campaigns, platforms and operations, the focus is on connecting customer experience, commercial outcomes and the systems that make consistent delivery possible.</p>
-  <a class="text-link" href="Leadership-%26-Strategy.html">Read about the leadership approach <span aria-hidden="true">↗</span></a>
+  <a class="text-link" href="/leadership/">Read about the leadership approach <span aria-hidden="true">↗</span></a>
 </section>
