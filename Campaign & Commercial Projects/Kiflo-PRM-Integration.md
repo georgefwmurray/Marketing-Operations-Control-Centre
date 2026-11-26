@@ -1,8 +1,8 @@
 ---
 permalink: /projects/kiflo-prm-integration/
 redirect_from:
-  - "/projects/kiflo-prm-integration/"
-  - "/projects/kiflo-prm-integration/"
+  - "/Campaign%20&%20Commercial%20Projects/Kiflo-PRM-Integration.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Kiflo-PRM-Integration.html"
 title: "Kiflo PRM Integration: 12% Revenue Uplift"
 description: "Owned Veriforce's Kiflo PRM integration end to end, giving consistent partner lead tracking and showing the strategic partners: 12% YoY revenue uplift (2025)."
 ---
