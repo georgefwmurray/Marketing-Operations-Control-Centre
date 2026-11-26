@@ -1,4 +1,8 @@
 ---
+permalink: /projects/abandoned-cart-recovery/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/Abandoned-Cart-Recovery.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Abandoned-Cart-Recovery.html"
 title: "Abandoned Cart Recovery: 17% E-commerce Uplift"
 description: "Led Veriforce's abandoned cart recovery journey, adding lead creation, sales handover and an email and SMS nurture: 17% YoY e-commerce revenue uplift (2025)."
 ---
