@@ -14,14 +14,14 @@ faq:
 redirect_from:
   - "/HubSpot-Expert-South-Wales.html"
 layout: default
-title: "HubSpot Leadership in South Wales"
-description: "George Murray is a South Wales-based marketing operations and HubSpot leader, with experience across five brands, CRM integration, marketing automation and AI-enabled operations."
+title: "HubSpot Leadership in South Wales | George Murray"
+description: "Cardiff-based marketing operations and HubSpot leader serving South Wales, with multi-brand platform ownership, CRM integration, marketing automation and AI-enabled operations experience."
 ---
 
 <section class="page-hero">
   <p class="eyebrow">HubSpot · Marketing Operations · South Wales</p>
-  <h1>HubSpot expertise built around better marketing operations.</h1>
-  <p class="page-lead">I'm George Murray, a marketing operations and technology leader based in South Wales. I lead the people, platforms and processes behind multi-brand marketing delivery — with hands-on experience in HubSpot, CRM integration, marketing automation and AI-enabled operations.</p>
+  <h1>HubSpot leadership in South Wales, built around better marketing operations.</h1>
+  <p class="page-lead">I'm George Murray, a Cardiff-based marketing operations and technology leader. I work across South Wales and lead the people, platforms and processes behind multi-brand marketing delivery — with hands-on experience in HubSpot, CRM integration, marketing automation and AI-enabled operations.</p>
   <div class="hero-tags" aria-label="Areas of expertise"><span>HubSpot platform leadership</span><span>CRM and MarTech</span><span>Marketing automation</span><span>AI-enabled operations</span><span>South Wales · UK</span></div>
   <div class="actions"><a class="button primary" href="/about/">View leadership profile</a><a class="button secondary" href="/assets/files/George-Murray-CV.pdf">Download CV</a></div>
 </section>
@@ -66,7 +66,7 @@ description: "George Murray is a South Wales-based marketing operations and HubS
   <p class="section-cta"><a href="/projects/">Explore selected projects and integrations →</a></p>
 </section>
 
-<section class="content-section"><div class="split"><div><p class="eyebrow">Based in South Wales</p><h2>Local base. International operating experience.</h2></div><div class="prose"><p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p><p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p><p>This page documents my professional experience and selected work. It isn't a consultancy or agency services page.</p></div></div></section>
+<section class="content-section"><div class="split"><div><p class="eyebrow">Based in South Wales</p><h2>Local base. International operating experience.</h2></div><div class="prose"><p>I'm based in South Wales and open to senior marketing operations, MarTech and CRM leadership opportunities across Wales and the wider UK. My current work supports teams and brands across EMEA and North America.</p><p>My experience includes leading HubSpot operations across five brands, a cross-continental migration from Salesforce Marketing Cloud and Pardot to HubSpot, and the integration of HubSpot with Microsoft Dynamics.</p><p>Based in Cardiff, I bring hands-on HubSpot platform experience together with wider marketing operations leadership, supporting multi-brand teams and colleagues across EMEA and North America.</p></div></div></section>
 
 <section class="content-section"><div class="section-heading"><p class="eyebrow">HubSpot expertise · FAQs</p><h2>Common questions.</h2></div><div class="prose">
 <h3>Who is George Murray?</h3><p>George Murray is a marketing operations and technology leader based in South Wales. His experience includes HubSpot platform ownership, CRM integration, marketing automation, team leadership and AI-enabled operations.</p>
