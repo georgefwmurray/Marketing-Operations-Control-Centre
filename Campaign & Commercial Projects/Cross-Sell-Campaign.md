@@ -3,19 +3,6 @@ title: "Cross-Sell Campaign: 1.6 vs 1.2 Products per Customer"
 description: "Led a three-month, multi-brand cross-sell strategy using customer product holdings and firmographic segmentation across email, website personalisation and paid retargeting. Targeted customers averaged 1.6 products per customer versus 1.2 in an untargeted control group."
 ---
 
-# Cross-Sell Campaign
-
-[Home](../index.html) • [Agent Registry](../Agent-Registry.html) • [Results](../Results.html) • [Roadmap](../Roadmap.html) • [Campaign & Commercial Projects](../Campaign-Commercial-Projects.html) • [Leadership & Strategy](../Leadership-%26-Strategy.html) • [How to Build MOCC](../How-to-Build.html) • [HubSpot Expert in South Wales](../HubSpot-Expert-South-Wales.html)
-
----
-
-Category: Campaign & Conversion  
-Context: Multi-brand cross-sell programme using customer and firmographic data to identify relevant opportunities across the group.  
-Employer: Veriforce  
-Featured: No  
-Result: 1.6 average products per targeted customer vs 1.2 in the untargeted control group  
-Year: 2025
-
 ## Overview
 
 I led a three-month cross-sell strategy across Veriforce's five-brand portfolio, helping customers discover relevant products and services available from other brands in the group.
