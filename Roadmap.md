@@ -5,7 +5,7 @@ description: "What has been built and what is next in HubSpot marketing operatio
 
 # Roadmap
 
-[Home](index.html) • [Agent Registry](Agent-Registry.html) • [Results](Results.html) • [Roadmap](Roadmap.html) • [Campaign & Commercial Projects](Campaign-Commercial-Projects.html) • [Leadership & Strategy](Leadership-%26-Strategy.html) • [How to Build MOCC](How-to-Build.html) • [HubSpot Expert in South Wales](HubSpot-Expert-South-Wales.html)
+[Home](/) • [About](/about/) • [Agent Registry](/mocc/) • [Results](/results/) • [Roadmap](Roadmap.md) • [Campaign & Commercial Projects](/projects/) • [Leadership & Strategy](/leadership/) • [How to Build MOCC](/mocc/case-study/) • [HubSpot Expert in South Wales](/hubspot-south-wales/)
 
 ---
 
