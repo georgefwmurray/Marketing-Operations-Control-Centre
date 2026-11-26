@@ -1,4 +1,8 @@
 ---
+permalink: /projects/win-back-campaign/
+redirect_from:
+  - "/Campaign%20&%20Commercial%20Projects/Win-Back-Campaign.html"
+  - "/Campaign%20%26%20Commercial%20Projects/Win-Back-Campaign.html"
 title: "Win-Back Campaign: 6 Percentage-Point Conversion Uplift"
 description: "Built the automation for a win-back programme targeting customers who had cancelled at least three months earlier. A controlled test of value-led email and social retargeting delivered a 6 percentage-point conversion uplift (2025)."
 ---
