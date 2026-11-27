@@ -13,6 +13,7 @@ last_modified_at: "2026-11-26"
   <p class="eyebrow">Marketing operations · Leadership</p>
   <h1>What does a high-performing Marketing Operations function actually look like?</h1>
   <p class="page-lead">Marketing Operations is often associated with CRM administration, campaign execution and reporting. But its real value is much broader: connecting marketing strategy to the people, processes, data and technology needed to deliver measurable business results.</p>
+  <div class="page-hero-identity"><img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="76" height="76" loading="eager" decoding="async"><span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span></div>
   <div class="hero-tags"><span>Marketing Operations</span><span>Operating model</span><span>Leadership</span></div>
   <p class="article-meta">George Murray · Marketing Operations and Technology · Published 26 November 2026 · Updated 26 November 2026</p>
 </section>
@@ -143,12 +144,3 @@ last_modified_at: "2026-11-26"
 
 <p><a href="{{ '/leadership/' | relative_url }}">Explore my approach to marketing operations leadership and strategy</a>, or <a href="{{ '/insights/' | relative_url }}">read more Insights articles</a>.</p>
 </section>
-
-
-<div class="closing-profile" aria-label="About the author">
-  <img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="128" height="128" loading="lazy" decoding="async">
-  <div class="closing-profile__copy">
-    <strong>George Murray</strong>
-    <span>Marketing Operations and MarTech leader focused on operating-model design, CRM, AI-enabled transformation and commercial performance.</span>
-  </div>
-</div>
