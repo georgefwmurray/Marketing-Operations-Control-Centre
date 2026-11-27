@@ -12,6 +12,7 @@ dateModified: "2026-11-19"
   <p class="eyebrow">Marketing operations · AI automation</p>
   <h1>AI automation: what does the business actually get back?</h1>
   <p class="page-lead">The value of automation is broader than time saved. A credible business case distinguishes direct cost reduction from released capacity, improved quality and better operational control.</p>
+  <div class="page-hero-identity"><img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="76" height="76" loading="eager" decoding="async"><span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span></div>
   <div class="hero-tags"><span>AI automation</span><span>Commercial value</span><span>Marketing operations</span></div>
   <p class="article-meta">George Murray · Marketing Operations and Technology · Published 16 November 2026 · Updated 19 November 2026</p>
 </section>
