@@ -11,6 +11,7 @@ datePublished: "2026-10-24"
   <p class="eyebrow">Marketing operations · Leadership and strategy</p>
   <h1>From marketing operations delivery to strategic ownership</h1>
   <p class="page-lead">How a marketing operations leader turns commercial priorities into direction, investment decisions and measurable performance.</p>
+  <div class="page-hero-identity"><img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="76" height="76" loading="eager" decoding="async"><span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span></div>
   <div class="hero-tags"><span>Strategic ownership</span><span>Commercial judgement</span><span>Marketing operations</span></div>
   <p class="article-meta">George Murray · 15 November 2026</p>
 </section>
