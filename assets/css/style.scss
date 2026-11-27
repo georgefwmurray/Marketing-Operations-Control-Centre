@@ -98,7 +98,7 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .content-section { padding:2.8rem 0; border-top:1px solid var(--line); }
 .section-heading { max-width:760px; margin-bottom:2rem; }
 .section-heading > p:last-child { color:var(--muted); margin:.5rem 0 0; }
-.stat-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; border:1px solid var(--line); background:var(--line); margin:1rem 0 3.5rem; }
+.stat-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; border:1px solid var(--line); background:var(--line); margin:1rem 0 1.35rem; }
 .stat-card { background:var(--surface); padding:1.35rem 1.45rem; min-height:128px; }
 .stat-card strong { display:block; color:var(--accent); font:800 clamp(1.8rem,3.5vw,2.8rem) "Manrope",sans-serif; letter-spacing:-.065em; line-height:1.1; }
 .stat-card span { display:block; color:var(--muted); font-size:.84rem; line-height:1.45; margin-top:.55rem; }
@@ -107,7 +107,7 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .architecture-figure img { display:block; width:100%; height:auto; }
 .architecture-figure figcaption { color:var(--muted); font-size:.82rem; line-height:1.55; margin:.85rem .3rem .2rem; }
 .small-note { color:var(--muted); font-size:.82rem; line-height:1.55; margin:.85rem .3rem .2rem; }
-.stat-context { max-width:900px; margin:1rem 0 0; color:#46525c; font-size:1rem; line-height:1.7; }
+.stat-context { max-width:900px; margin:0; padding-top:1.15rem; border-top:1px solid var(--line); color:#46525c; font-size:1rem; line-height:1.7; }
 .layer-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; }
 .layer-card,.agent-card,.project-card,.outcome-card,.leadership-card,.principle-card { background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:1.35rem; }
 .layer-card h3,.agent-card h3,.project-card h3 { margin:.45rem 0 .55rem; }
