@@ -11,6 +11,7 @@ datePublished: "2026-11-07"
 <p class="eyebrow">Marketing operations · AI governance</p>
 <h1>Governing AI agents in marketing operations</h1>
 <p class="page-lead">An agent is not production-ready simply because its workflow runs. It needs a clear purpose, accountable people, appropriate controls and a way to assess whether it is still doing the right job.</p>
+  <div class="page-hero-identity"><img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="76" height="76" loading="eager" decoding="async"><span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span></div>
 <div class="hero-tags"><span>AI governance</span><span>Marketing operations</span><span>Human oversight</span></div>
 <p class="article-meta">George Murray · Marketing operations and AI governance</p>
 </section>
