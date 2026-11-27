@@ -11,6 +11,7 @@ datePublished: "2026-10-31"
 <p class="eyebrow">Marketing operations · Operating models</p>
 <h1>Building a marketing operations model across multiple brands</h1>
 <p class="page-lead">Multi-brand marketing operations needs more than shared software. It needs a clear view of what to standardise, where brands need flexibility and who owns each decision.</p>
+  <div class="page-hero-identity"><img src="/assets/images/george-murray-profile.jpg?v=2" alt="George Murray" width="76" height="76" loading="eager" decoding="async"><span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span></div>
 <div class="hero-tags"><span>Multi-brand operations</span><span>MarTech</span><span>Team leadership</span></div>
 <p class="article-meta">George Murray · Marketing operations and operating models · 15 November 2026</p>
 </section>
