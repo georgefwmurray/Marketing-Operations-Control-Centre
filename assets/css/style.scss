@@ -33,7 +33,7 @@ a:hover { color: var(--accent-dark); }
 .site-nav a[aria-current="page"] { color:var(--ink); }
 .site-nav a[aria-current="page"]::after { content:""; position:absolute; right:0; bottom:0; left:0; height:2px; background:var(--accent); }
 .site-main { padding: 0 0 5rem; }
-.hero { padding: clamp(4rem, 9vw, 7.5rem) 0 4.5rem; max-width: 900px; }
+.hero { padding: clamp(4rem, 9vw, 7.5rem) 0 3rem; max-width: 900px; }
 .eyebrow { color:var(--accent); text-transform:uppercase; letter-spacing:.14em; font-size:.75rem; font-weight:700; margin:0 0 1.2rem; }
 h1,h2,h3 { font-family:"Manrope",sans-serif; letter-spacing:-.045em; line-height:1.15; color:var(--ink); }
 h1 { font-size:clamp(2.8rem, 7vw, 5.6rem); font-weight:700; margin:0 0 1.5rem; max-width:950px; }
@@ -47,7 +47,7 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .button.primary { background:var(--accent); color:white; }
 .button.primary:hover { background:var(--accent-dark); }
 .button.secondary { color:var(--ink); border-color:#bdc7c2; }
-.section { padding:4.5rem 0; border-top:1px solid var(--line); }
+.section { padding:2.8rem 0; border-top:1px solid var(--line); }
 .section-intro { color:var(--muted); max-width:680px; margin:0 0 2rem; }
 .metrics { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--line); border:1px solid var(--line); margin:2.5rem 0 0; }
 .metric { background:var(--surface); padding:1.5rem; }
@@ -58,6 +58,7 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .card p { color:var(--muted); margin:.45rem 0 0; }
 .card .kicker { color:var(--accent); text-transform:uppercase; letter-spacing:.1em; font-size:.7rem; font-weight:700; margin-bottom:.8rem; }
 .split { display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:start; }
+.split .prose > p:first-child { margin-top:0; }
 .clean-list { list-style:none; padding:0; margin:1.2rem 0 0; }
 .clean-list li { padding:.75rem 0; border-bottom:1px solid var(--line); }
 .clean-list strong { color:var(--ink); }
@@ -74,7 +75,8 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
  .site-nav { gap:.65rem 1.1rem; }
  .metrics { grid-template-columns:repeat(2,1fr); }
  .cards, .split { grid-template-columns:1fr; }
- .section { padding:3.2rem 0; }
+ .section { padding:2.2rem 0; }
+ .content-section { padding:2.2rem 0; }
  .footer-inner { align-items:flex-start; justify-content:center; flex-direction:column; padding:1.5rem 0; }
 }
 @media (max-width:420px) {
@@ -87,9 +89,13 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .page-hero { padding: clamp(3.5rem, 7vw, 6rem) 0 2.5rem; max-width: 900px; }
 .page-hero h1 { font-size: clamp(2.65rem, 6vw, 4.8rem); max-width: 900px; margin-bottom: 1.15rem; }
 .page-lead { max-width: 790px; color: #43505a; font-size: clamp(1.1rem, 1.8vw, 1.28rem); line-height: 1.7; margin: 0; }
+.page-hero-identity { display:flex; align-items:center; gap:.9rem; margin-top:1.35rem; }
+.page-hero-identity img { display:block; width:76px; height:76px; flex:0 0 76px; object-fit:cover; object-position:center 38%; border-radius:50%; border:2px solid #fff; box-shadow:0 0 0 1px var(--line); }
+.page-hero-identity span { display:flex; flex-direction:column; gap:.15rem; color:var(--ink); font-weight:700; line-height:1.3; }
+.page-hero-identity small { color:var(--muted); font-size:.82rem; font-weight:500; }
 .hero-tags { display:flex; flex-wrap:wrap; gap:.55rem; margin-top:1.65rem; }
 .hero-tags span { border:1px solid #cbd5d0; border-radius:999px; padding:.38rem .78rem; color:#40514e; font-size:.78rem; font-weight:600; background:rgba(255,255,255,.45); }
-.content-section { padding:3.7rem 0; border-top:1px solid var(--line); }
+.content-section { padding:2.8rem 0; border-top:1px solid var(--line); }
 .section-heading { max-width:760px; margin-bottom:2rem; }
 .section-heading > p:last-child { color:var(--muted); margin:.5rem 0 0; }
 .stat-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; border:1px solid var(--line); background:var(--line); margin:1rem 0 3.5rem; }
@@ -99,7 +105,9 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .stat-card--feature { background:#e8efeb; }
 .architecture-figure { margin:2rem 0 2.2rem; padding:1.1rem; border:1px solid var(--line); border-radius:6px; background:#fff; }
 .architecture-figure img { display:block; width:100%; height:auto; }
-.architecture-figure figcaption,.small-note { color:var(--muted); font-size:.82rem; line-height:1.55; margin:.85rem .3rem .2rem; }
+.architecture-figure figcaption { color:var(--muted); font-size:.82rem; line-height:1.55; margin:.85rem .3rem .2rem; }
+.small-note { color:var(--muted); font-size:.82rem; line-height:1.55; margin:.85rem .3rem .2rem; }
+.stat-context { max-width:900px; margin:1rem 0 0; color:#46525c; font-size:1rem; line-height:1.7; }
 .layer-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1rem; }
 .layer-card,.agent-card,.project-card,.outcome-card,.leadership-card,.principle-card { background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:1.35rem; }
 .layer-card h3,.agent-card h3,.project-card h3 { margin:.45rem 0 .55rem; }
@@ -168,7 +176,7 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
  .impact-track { grid-column:1 / -1; }
  .impact-row > strong { text-align:right; }
  .total-value { align-items:flex-start; flex-direction:column; }
- .content-section { padding:2.8rem 0; }
+ .content-section { padding:2.2rem 0; }
 }
 
 /* Agent and project detail pages */
@@ -340,7 +348,8 @@ h3 { font-size:1.2rem; margin:0 0 .6rem; }
 .credential-mark { display:flex; min-height:88px; align-items:center; justify-content:center; padding:.65rem; border-radius:6px; background:#fff; color:#176b67; text-align:center; font-family:"Manrope",sans-serif; font-size:.95rem; font-weight:800; line-height:1.05; letter-spacing:-.035em; }
 .credential-mark--arena { color:#fff; background:#176b67; font-size:1.25rem; letter-spacing:-.06em; }
 .credential-mark--academy { color:#f26b38; border:1px solid #f2dfd5; font-size:.9rem; }
-.credential-mark--mentor { color:#315d86; border:1px solid #d9e3ed; letter-spacing:.04em; font-size:.82rem; }
+.credential-mark--veriforce { color:#315d86; border:1px solid #d9e3ed; background:#f0f5fa; font-size:.74rem; letter-spacing:.025em; }
+.credential-mark--hubspot-agents { color:#8a4b24; border:1px solid #efd9c8; background:#fff5ed; font-size:.7rem; letter-spacing:.015em; }
 .credential-mark--rising { color:#80652d; border:1px solid #e8dfc9; font-size:.82rem; letter-spacing:.035em; }
 .credential-type { display:block; margin:0 0 .4rem; color:var(--accent-dark); font-size:.72rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; }
 .credential-card h3 { margin:.1rem 0 .5rem; font-size:1.12rem; }
