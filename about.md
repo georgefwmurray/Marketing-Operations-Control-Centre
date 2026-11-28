@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About | Marketing Operations and Technology Leader"
+title: "About"
 description: "George Murray is a strategic marketing technology and digital operations leader, currently Interim Head of Digital Marketing Operations, leading a team and multi-brand marketing technology operations."
 permalink: /about/
 ---
@@ -9,6 +9,10 @@ permalink: /about/
   <p class="eyebrow">Strategic marketing technology &amp; digital operations leadership</p>
   <h1>I shape the strategy, teams and technology behind high-performing marketing operations.</h1>
   <p class="lead">I’m George Murray, a strategic marketing technology and digital operations leader based in South Wales. My work covers the people, platforms and processes behind marketing delivery — from CRM and automation to team structure, governance and business change.</p>
+  <div class="page-hero-identity">
+    <img src="{{ '/assets/images/george-murray-profile.jpg?v=2' | relative_url }}" alt="George Murray" width="76" height="76" loading="eager" decoding="async">
+    <span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span>
+  </div>
   <div class="hero-meta">
     <span>Marketing Operations Leadership</span>
     <span>MarTech · CRM · Revenue Operations</span>
@@ -58,7 +62,7 @@ permalink: /about/
       <p class="career-dates">May 2012 – October 2018</p>
       <h3>Earlier product and operational leadership</h3>
       <p class="career-employer">Collett’s Mountain Holidays · Area Manager, then Product Manager</p>
-      <p>Built a foundation in customer proposition, product management and operational delivery before moving into CRM and marketing technology leadership.</p>
+      <p>Earlier roles in product management and area operations, before progressing into CRM and marketing technology leadership.</p>
     </article> </div>
 </section>
 
@@ -106,7 +110,6 @@ permalink: /about/
 
 <section class="closing-panel about-contact-panel" aria-label="Connect with George Murray">
   <div class="about-contact-panel__intro">
-    <img src="{{ '/assets/images/george-murray-profile.jpg?v=2' | relative_url }}" alt="George Murray" width="160" height="160" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow">Next step</p>
       <h2>Open to senior marketing operations roles.</h2>
