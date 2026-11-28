@@ -10,9 +10,13 @@ description: "George Murray is a marketing operations and MarTech leader special
   <h2>Setting the strategy, teams and operating models that turn commercial priorities into measurable performance — across HubSpot, MarTech and AI agents.</h2>
   <p class="lead">I'm George Murray, a strategic marketing technology and digital operations leader. I shape priorities, guide technology investment and lead operational change across complex, multi-brand marketing environments.</p>
   <p class="lead">My work connects commercial planning, people leadership, MarTech strategy and AI-enabled transformation — making marketing more effective, scalable and accountable.</p>
+  <div class="page-hero-identity">
+    <img src="{{ '/assets/images/george-murray-profile.jpg?v=2' | relative_url }}" alt="George Murray" width="76" height="76" loading="eager" decoding="async">
+    <span><strong>George Murray</strong><small>Marketing Operations &amp; MarTech · South Wales</small></span>
+  </div>
   <div class="hero-meta">
-    <span>Currently Interim Head of Digital Marketing Operations at Veriforce</span>
-    <span>Based in South Wales, UK</span>
+    <span>Interim Head of Digital Marketing Operations · Veriforce</span>
+    <span>South Wales, UK</span>
   </div>
   <div class="actions">
     <a class="button primary" href="#work">Explore selected work</a>
