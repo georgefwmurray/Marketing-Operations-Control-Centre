@@ -26,11 +26,11 @@ This replaced a largely manual approach to account research, buying-group identi
 
 ## The commercial result
 
-**One large-account win within 12 weeks, generating approximately £40,000 in revenue.**
+**Approximately £40,000 in new-account revenue within 12 weeks.**
 
 The account had previously shown no engagement despite other email and sales-call attempts. Lemlist LinkedIn InMail was the trigger that opened the conversation and created traction where those earlier approaches had failed.
 
-The result came from a focused 15-account programme. It demonstrates how connected account intelligence, CRM data and carefully controlled outreach can help sales teams engage hard-to-reach prospects.
+The result came from a focused 15-account programme: one previously unengaged target account converted, generating approximately £40,000 in revenue. This is a single-account result, not a broad conversion-rate claim. It demonstrates how connected account intelligence, CRM data and carefully controlled outreach can help sales teams engage hard-to-reach prospects.
 
 ## My contribution
 
