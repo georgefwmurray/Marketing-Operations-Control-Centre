@@ -62,7 +62,6 @@ permalink: /about/
       <p class="career-dates">May 2012 – October 2018</p>
       <h3>Earlier product and operational leadership</h3>
       <p class="career-employer">Collett’s Mountain Holidays · Area Manager, then Product Manager</p>
-      <p>Earlier roles in product management and area operations, before progressing into CRM and marketing technology leadership.</p>
     </article> </div>
 </section>
 
